@@ -33,10 +33,11 @@ def calcShannonEnt(dataSet,labels):
 		shannonEnt -= prob * math.log(prob,2)
 	return shannonEnt
 
+
 def splitDataSet(dataSet, axis, value,labels):
 	'''
 	axis simply means colunm no. in the dataSet
-	Function which takes a dataset and returns the subset of data that has 'value' parameter as its 
+	Function which takes a dataset and returns the subset of data(rows) that has 'value' parameter as its 
 	value for axis(column) in the dataSet.
 	dataSet - Original dataSet
 	axis    - Column no. on which split has to be done
@@ -48,9 +49,11 @@ def splitDataSet(dataSet, axis, value,labels):
 	currentIndex=0
 	for featVec in dataSet:
 		if featVec[axis] == value:
-			#Remove the column axis form the data piece before adding it to the retDataSet using slicing
+			#Remove the column 'axis' form the data piece before adding it to the retDataSet using slicing
 			reducedFeatVec = featVec[:axis]         
 			reducedFeatVec.extend(featVec[axis+1:])
+
+			# ADD THE ROW TO DATASET TO BE RETURNED AND ADD ITS LABEL AS WELL
 			retDataSet.append(reducedFeatVec)
 			newLabels.append(labels[currentIndex])
 		currentIndex += 1  
@@ -62,13 +65,14 @@ def chooseBestFeatureToSplit(dataSet,labels):
 	'''
 	CHOOSES THE BEST FEATURE FORM THE DATASET TO SPLIT ON AND RETURNS ITS INTEGER LOCATION
 	'''
-	numFeatures = len(dataSet[0]) 
+	numFeatures = len(dataSet[0])  #NO OF COLS IN A ROW
 	baseEntropy = calcShannonEnt(dataSet,labels)
 	bestInfoGain = 0.0 
-	bestFeature = -1              #No feature selected yet
+	bestFeature = -1             #No feature selected yet
 	for i in range(numFeatures):
-		featList = [example[i] for example in dataSet]  #Create a list of all values of the column
-		uniqueVals = set(featList)					    #Find the unqiue values only!
+		#Create a list of all values of the column
+		featList = [example[i] for example in dataSet]  
+		uniqueVals = set(featList)			#Find the unqiue values int the column!
 		newEntropy = 0.0
 		for value in uniqueVals:
 			subDataSet,subLabels = splitDataSet(dataSet, i, value,labels)
