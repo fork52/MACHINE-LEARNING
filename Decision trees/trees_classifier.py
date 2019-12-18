@@ -3,8 +3,6 @@ import pprint as pr
 import matplotlib as mpl
 import math 
 import operator
-
-
 	
 def calcShannonEnt(dataSet,labels):
 	'''
@@ -48,8 +46,6 @@ def splitDataSet(dataSet, axis, value,labels):
 			newLabels.append(labels[currentIndex])
 		currentIndex += 1  
 	return retDataSet,newLabels
-
-
 
 def chooseBestFeatureToSplit(dataSet,labels):
 	'''

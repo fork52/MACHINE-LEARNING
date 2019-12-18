@@ -105,3 +105,5 @@ if __name__ == '__main__':
 	depth  = getTreeDepth(root)
 	print(noOfLeaves,depth)
 	createPlot(root)
+
+	
