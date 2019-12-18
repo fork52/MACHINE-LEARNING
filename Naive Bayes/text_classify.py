@@ -16,7 +16,7 @@ def loadDataSet():
 
 
 def createVocabList(dataSet):
-    ''' RETURNS A LIST OF WORDS IN THE VOCABULARY'''
+    ''' RETURNS A UNIQUE LIST OF WORDS IN THE VOCABULARY'''
     vocabSet = set([]) # EMPTY SET
     for document in dataSet:
         # 'UNION' SET OPERATION - |
@@ -27,7 +27,7 @@ def createVocabList(dataSet):
 def setOfWords2Vec(vocabList, inputSet):
     ''' 
     vocabList is the list of unique words in vocabulary 
-    inputSet is the list of words to be tested
+    inputSet is the list of words to be tested 
     '''
     returnVec = [0] * len(vocabList)  # [0,0,0,.......n]
     for word in inputSet:
@@ -45,8 +45,11 @@ def trainNB0(trainMatrix,trainCategory):
         Innerlist is a vocabulary vector which has 0 or 1 for corresponding 
         words in the vocabulary list
      2) trainCategory - labels for the sentences . (abusive - 1 or not abusive -0)
+
     OUTPUTS:
-        probability vectors p0Vect and p1Vect and value pAbusive
+    probability vectors p0Vect and p1Vect and value pAbusive
+    p0Vect is a vector of probability of occurences of word given that the sentence is non-abusive
+    p1Vect is a vector of probability of occurences of word given that sentence is non-abusive
 
     '''
     numTrainDocs = len(trainMatrix)   #no of sentences
@@ -55,7 +58,6 @@ def trainNB0(trainMatrix,trainCategory):
     # sum(trainCategory) will return the no of ones in the labels i.e the no of
     # abusive documents/lines in the matrix.
     pAbusive = sum(trainCategory)/float(numTrainDocs)
-
 
     p0Num = np.ones(numWords)
     p1Num = np.ones(numWords) #THESE ARE VECTORS!!
@@ -89,6 +91,44 @@ def trainNB0(trainMatrix,trainCategory):
     p0Vect = np.log(p0Num/p0Denom)
     return p0Vect,p1Vect,pAbusive
 
+def classifyNB(vec2Classify, p0Vec, p1Vec, pClass1):
+    '''
+    THE FUNCTION WHICH DOES THE ACTUAL CLASSIFICATION BASED ON THE probability 
+    vectors genereted by trainNB0
+
+    vec2Classify is a vocabulary list format having 0 or 1 indicating presence of words and
+    importantly it shud be a np.array.
+    pClass1 is the probability of the vector being abusive
+    '''
+
+    #WE ARE USING ADDITION/SUM BCOZ WE ARE USING log to store probabilities
+    #The multiplication is element–wise
+    p1 = sum(vec2Classify * p1Vec) + np.log(pClass1)
+    p0 = sum(vec2Classify * p0Vec) + np.log(1.0 - pClass1)
+    if p1 > p0:
+        return 1
+    else:
+        return 0
+
+def testingNB():
+    '''
+    JUST A FUNCTION TO TEST WHETHER THE TRAINED MATRIX IS OF ANY USE :) 
+    '''
+    listOPosts,listClasses = loadDataSet()
+    myVocabList = createVocabList(listOPosts)
+    trainMat=[]
+
+    for postinDoc in listOPosts:
+        trainMat.append(setOfWords2Vec(myVocabList, postinDoc))
+    p0V,p1V,pAb = trainNB0(np.array(trainMat),np.array(listClasses))
+
+    testEntry = ['love', 'my', 'dalmation']
+    thisDoc = np.array(setOfWords2Vec(myVocabList, testEntry))
+    print(testEntry,'classified as: ',classifyNB(thisDoc,p0V,p1V,pAb) )
+
+    testEntry = ['stupid', 'garbage']
+    thisDoc = np.array(setOfWords2Vec(myVocabList, testEntry))
+    print(testEntry,'classified as: ',classifyNB(thisDoc,p0V,p1V,pAb) )
 
 if __name__ == '__main__':
     dataSet , labels = loadDataSet()
@@ -103,5 +143,5 @@ if __name__ == '__main__':
         trainMat.append( setOfWords2Vec(myVocabList , line) )
     
     p0Vect,p1Vect,probAbusive =  trainNB0(trainMat , labels)
-    print( p0Vect , p1Vect ,probAbusive,sep='\n\n')
-
+    # print( p0Vect , p1Vect ,probAbusive,sep='\n\n')
+    testingNB()
