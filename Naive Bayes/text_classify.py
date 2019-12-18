@@ -1,5 +1,6 @@
 import numpy as np
 import pprint as pr
+import math 
 
 def loadDataSet():
     postingList=[
@@ -55,11 +56,18 @@ def trainNB0(trainMatrix,trainCategory):
     # abusive documents/lines in the matrix.
     pAbusive = sum(trainCategory)/float(numTrainDocs)
 
-    p0Num = np.zeros(numWords)  #THESE ARE VECTORS!!
-    p1Num = np.zeros(numWords)
 
-    p0Denom = 0.0
-    p1Denom = 0.0
+    p0Num = np.ones(numWords)
+    p1Num = np.ones(numWords) #THESE ARE VECTORS!!
+
+    '''
+    We set intial count to all 1's and not 0's bcoz if we keep all 0's then if the probability 
+    for even a single word is 0 then when we multiply the 
+    probability the answer will become 0 even if there is one 0 in probability vector
+    '''
+    p0Denom = 2.0
+    p1Denom = 2.0
+
 
     for i in range(numTrainDocs):
         if trainCategory[i] == 1: #line or doc is abusive
@@ -69,18 +77,16 @@ def trainNB0(trainMatrix,trainCategory):
             p1Denom += sum(trainMatrix[i]) # add the no of words present in line to the den
 
         else:            #line or doc is non-abusive
-
             # add the entire corresponding vocabulary list to p0Num
             p0Num += trainMatrix[i]
             p0Denom += sum(trainMatrix[i])
-
     '''
     at the end of the loop , 
     p0Denom will be the no. of words belonging to data pieces in the training set having non-abusive label
     p1Denom will be the no. of words belonging to data pieces in the training set having abusive label
     '''
-    p1Vect = p1Num/p1Denom     #change to log()
-    p0Vect = p0Num/p0Denom     #change to log()
+    p1Vect = np.log(p1Num/p1Denom)
+    p0Vect = np.log(p0Num/p0Denom)
     return p0Vect,p1Vect,pAbusive
 
 
