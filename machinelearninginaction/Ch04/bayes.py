@@ -1,6 +1,6 @@
 '''
 Created on Oct 19, 2010
-@author: Peter MRUNANK
+@author: Peter MRUNANK1
 '''
 from numpy import *
 
