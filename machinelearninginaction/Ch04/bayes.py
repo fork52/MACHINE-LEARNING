@@ -1,6 +1,5 @@
 '''
 Created on Oct 19, 2010
-ASdada
 @author: Peter
 '''
 from numpy import *
