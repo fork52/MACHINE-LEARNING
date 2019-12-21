@@ -1,0 +1,2532 @@
+("{'feed': {'title': 'Amazon � TechCrunch', 'title_detail': {'type': "
+ "'text/plain', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': 'Amazon � "
+ "TechCrunch'}, 'links': [{'rel': 'alternate', 'type': 'text/html', 'href': "
+ "'https://techcrunch.com'}, {'rel': 'self', 'type': 'application/rss+xml', "
+ "'href': 'http://feeds.feedburner.com/TechCrunch/Amazon'}, {'rel': 'hub', "
+ "'href': 'http://pubsubhubbub.appspot.com/', 'type': 'text/html'}], 'link': "
+ "'https://techcrunch.com', 'subtitle': 'Startup and Technology News', "
+ "'subtitle_detail': {'type': 'text/html', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': 'Startup and "
+ "Technology News'}, 'updated': 'Thu, 19 Dec 2019 05:24:31 +0000', "
+ "'updated_parsed': time.struct_time(tm_year=2019, tm_mon=12, tm_mday=19, "
+ 'tm_hour=5, tm_min=24, tm_sec=31, tm_wday=3, tm_yday=353, tm_isdst=0), '
+ "'language': 'en-US', 'sy_updateperiod': 'hourly', 'sy_updatefrequency': '1', "
+ "'generator_detail': {'name': 'https://wordpress.org/?v=5.3.2'}, 'generator': "
+ "'https://wordpress.org/?v=5.3.2', 'image': {'href': "
+ "'https://techcrunch.com/wp-content/uploads/2015/02/cropped-cropped-favicon-gradient.png?w=32', "
+ "'title': 'Amazon � TechCrunch', 'title_detail': {'type': 'text/plain', "
+ "'language': None, 'base': 'http://feeds.feedburner.com/TechCrunch/Amazon', "
+ "'value': 'Amazon � TechCrunch'}, 'links': [{'rel': 'alternate', 'type': "
+ "'text/html', 'href': 'https://techcrunch.com'}], 'link': "
+ "'https://techcrunch.com', 'width': 32, 'height': 32}, 'site': '136296444', "
+ "'feedburner_info': {'uri': 'techcrunch/amazon'}}, 'entries': [{'title': "
+ "'Goldman Sachs leads $15M investment in Indian fintech startup ZestMoney', "
+ "'title_detail': {'type': 'text/plain', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': 'Goldman Sachs "
+ "leads $15M investment in Indian fintech startup ZestMoney'}, 'links': "
+ "[{'rel': 'alternate', 'type': 'text/html', 'href': "
+ "'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/dSwWFhccClY/'}], "
+ "'link': 'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/dSwWFhccClY/', "
+ "'comments': "
+ "'https://techcrunch.com/2019/12/18/zestmoney-goldman-sachs/#respond', "
+ "'published': 'Thu, 19 Dec 2019 02:46:59 +0000', 'published_parsed': "
+ 'time.struct_time(tm_year=2019, tm_mon=12, tm_mday=19, tm_hour=2, tm_min=46, '
+ "tm_sec=59, tm_wday=3, tm_yday=353, tm_isdst=0), 'authors': [{'name': 'Manish "
+ "Singh'}], 'author': 'Manish Singh', 'author_detail': {'name': 'Manish "
+ "Singh'}, 'tags': [{'term': 'Apps', 'scheme': None, 'label': None}, {'term': "
+ "'Asia', 'scheme': None, 'label': None}, {'term': 'Finance', 'scheme': None, "
+ "'label': None}, {'term': 'Funding', 'scheme': None, 'label': None}, {'term': "
+ "'Amazon', 'scheme': None, 'label': None}, {'term': 'blackbuck', 'scheme': "
+ "None, 'label': None}, {'term': 'Lizzie Chapman', 'scheme': None, 'label': "
+ "None}, {'term': 'money', 'scheme': None, 'label': None}, {'term': 'Naspers', "
+ "'scheme': None, 'label': None}, {'term': 'nubank', 'scheme': None, 'label': "
+ "None}, {'term': 'Omidyar Network', 'scheme': None, 'label': None}, {'term': "
+ "'Paytm', 'scheme': None, 'label': None}, {'term': 'payu', 'scheme': None, "
+ "'label': None}, {'term': 'Quona Capital', 'scheme': None, 'label': None}, "
+ "{'term': 'Xiaomi', 'scheme': None, 'label': None}, {'term': 'Zestmoney', "
+ "'scheme': None, 'label': None}], 'id': 'https://techcrunch.com/?p=1925434', "
+ "'guidislink': False, 'summary': 'One of America&#8217;s largest banks has "
+ 'just poured some money to help millions of Indians without a credit score '
+ 'secure loans and make purchases online for the first time in their lives. '
+ 'Bangalore-based ZestMoney announced today that it has raised $15 million '
+ 'from Goldman Sachs and existing\\xa0investors Naspers Fintech, Quona '
+ "Capital, and Omidyar Network. Lizzie [&#8230;]', 'summary_detail': {'type': "
+ "'text/html', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': 'One of "
+ 'America&#8217;s largest banks has just poured some money to help millions of '
+ 'Indians without a credit score secure loans and make purchases online for '
+ 'the first time in their lives. Bangalore-based ZestMoney announced today '
+ 'that it has raised $15 million from Goldman Sachs and existing\\xa0investors '
+ "Naspers Fintech, Quona Capital, and Omidyar Network. Lizzie [&#8230;]'}, "
+ "'content': [{'type': 'text/html', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': '<p "
+ 'id="speakable-summary">One of America&#8217;s largest banks has just poured '
+ 'some money to help millions of Indians without a credit score secure loans '
+ 'and make purchases online for the first time in their '
+ 'lives.</p>\\n<p>Bangalore-based <a '
+ 'href="https://www.zestmoney.in">ZestMoney</a> announced today that it has '
+ 'raised $15 million from Goldman Sachs and existing\\xa0investors Naspers '
+ 'Fintech, Quona Capital, and Omidyar Network. Lizzie Chapman, co-founder and '
+ 'chief executive of <a class="crunchbase-link" '
+ 'href="https://crunchbase.com/organization/zestmoney" target="_blank" '
+ 'data-type="organization" data-entity="zestmoney">ZestMoney, <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> told TechCrunch in an '
+ 'interview that the new investment is part of an extended Series B round, the '
+ '<a href="https://techcrunch.com/2019/04/22/zestmoney-raises-20m/">first '
+ 'tranche of which was announced in April this year</a>.</p>\\n<p>The extended '
+ 'Series B round brings <a class="crunchbase-link" '
+ 'href="https://crunchbase.com/organization/zestmoney" target="_blank" '
+ 'data-type="organization" data-entity="zestmoney">ZestMoney&#8217;s <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> total raise to-date to $63 '
+ 'million, she said.</p>\\n<p>The penetration of credit cards remains very low '
+ 'in India; roughly three in 100 people in the country have a credit card. '
+ 'This has meant that very few people in the nation have a traditional credit '
+ 'score, which banks heavily rely on to establish one&#8217;s credit '
+ 'worthiness before issuing them a loan.</p>\\n<p>Moreover, small loans '
+ 'don&#8217;t generate lucrative returns for banks, giving them less incentive '
+ 'to write such cheques. In recent years, a growing number of Indian startups '
+ 'has stepped in to address this void.</p>\\n<p>ZestMoney assesses other data '
+ 'points and uses AI to help these people build a profile and become '
+ 'credit-worthy. The startup has\\xa0partnered with over 3,000 merchants '
+ '&#8212; up from some 800 in late April &#8212; including Flipkart, <a '
+ 'class="crunchbase-link" href="https://crunchbase.com/organization/amazon" '
+ 'target="_blank" data-type="organization" data-entity="amazon">Amazon, <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> and Paytm to offer '
+ 'financing options to customers at point-of-sale.</p>\\n<p>It has amassed '
+ 'more than 6 million users, who can access credit of $140 to $3,000. To make '
+ 'the deal even better, many of these merchants offer interest-free option to '
+ 'customers, provided they could pay back in a specified amount of '
+ 'time.</p>\\n<p>The startup, which maintains partnership with nearly every '
+ 'online payments processor in the nation including Razorpay, BillDesk, '
+ 'Cashfree, CCAvenue, and <a class="crunchbase-link" '
+ 'href="https://crunchbase.com/organization/payu-t-rkiye" target="_blank" '
+ 'data-type="organization" data-entity="payu-t-rkiye">PayU,\\xa0has <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> also made a push in the '
+ 'brick and mortar market by inking deals with <a '
+ 'href="https://techcrunch.com/2019/12/03/xiaomi-mi-credit-india-launch/">Chinese '
+ 'smartphone maker Xiaomi</a>, and Pine Labs, which has deployed over 300,000 '
+ 'point-of-sale machines across the country.</p>\\n<p>ZestMoney has also '
+ 'raised an unspecified amount of debt, which it uses to finance credit to '
+ 'customers. It recently entered in\\xa0a strategic partnership with Credit '
+ 'Saison, a Japanese financial services company affiliated to Mizuho Financial '
+ 'Group, to deploy $100 million toward expanding digital lending in the '
+ 'country.</p>\\n<p>Philip Aldis, a managing director at Goldman Sachs, said '
+ 'the firm&#8217;s investment in ZestMoney would enable more households in '
+ 'India to access credit. &#8220;We look forward to leveraging our global '
+ 'experience and network for the continued growth of ZestMoney,&#8221; he said '
+ 'in a statement.</p>\\n<p>Goldman Sachs has written checks to a handful of '
+ 'startups in India, including logistics startup\\xa0BlackBuck, home rental '
+ 'platform NextAway, news aggregator DailyHunt, and online furniture store '
+ 'PepperFry.</p>\\n<p>The New York-headquartered firm, one of the '
+ 'world&#8217;s largest trading banks, has also invested in a number of '
+ 'financial startups including NuBank, a Brazilian firm that offers digital '
+ 'credit card to smartphone users. It is also the <a '
+ 'href="https://techcrunch.com/2019/03/28/how-apple-card-works/">banking '
+ 'partner for Apple Card</a>.</p>\\n<p>ZestMoney aims to disburse credit of '
+ 'worth $1 billion in 18 months and reach 300 million users one day. Digital '
+ 'lending in India is expected to be a $1 trillion opportunity in the next '
+ 'five years, according to Boston Consulting Group.</p>\\n<img '
+ 'src="http://feeds.feedburner.com/~r/TechCrunch/Amazon/~4/dSwWFhccClY" '
+ 'height="1" width="1" alt=""/>\'}], \'wfw_commentrss\': '
+ "'https://techcrunch.com/2019/12/18/zestmoney-goldman-sachs/feed/', "
+ "'slash_comments': '0', 'post-id': '1925434', 'feedburner_origlink': "
+ "'https://techcrunch.com/2019/12/18/zestmoney-goldman-sachs/'}, {'title': "
+ "'Amazon will establish a new headquarters for its Kuiper satellite broadband "
+ "project', 'title_detail': {'type': 'text/plain', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': 'Amazon will "
+ "establish a new headquarters for its Kuiper satellite broadband project'}, "
+ "'links': [{'rel': 'alternate', 'type': 'text/html', 'href': "
+ "'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/p5UAg_AWM4g/'}], "
+ "'link': 'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/p5UAg_AWM4g/', "
+ "'comments': "
+ "'https://techcrunch.com/2019/12/18/amazon-will-establish-a-new-headquarters-for-its-kuiper-satellite-broadband-project/#respond', "
+ "'published': 'Wed, 18 Dec 2019 21:07:29 +0000', 'published_parsed': "
+ 'time.struct_time(tm_year=2019, tm_mon=12, tm_mday=18, tm_hour=21, tm_min=7, '
+ "tm_sec=29, tm_wday=2, tm_yday=352, tm_isdst=0), 'authors': [{'name': "
+ "'Darrell Etherington'}], 'author': 'Darrell Etherington', 'author_detail': "
+ "{'name': 'Darrell Etherington'}, 'tags': [{'term': 'Aerospace', 'scheme': "
+ "None, 'label': None}, {'term': 'Space', 'scheme': None, 'label': None}, "
+ "{'term': 'TC', 'scheme': None, 'label': None}, {'term': 'Amazon', 'scheme': "
+ "None, 'label': None}, {'term': 'Google', 'scheme': None, 'label': None}, "
+ "{'term': 'internet connectivity', 'scheme': None, 'label': None}, {'term': "
+ "'north america', 'scheme': None, 'label': None}, {'term': 'OneWeb', "
+ "'scheme': None, 'label': None}, {'term': 'redmond', 'scheme': None, 'label': "
+ "None}, {'term': 'satellite', 'scheme': None, 'label': None}, {'term': "
+ "'satellite internet', 'scheme': None, 'label': None}, {'term': 'Satellites', "
+ "'scheme': None, 'label': None}, {'term': 'Seattle', 'scheme': None, 'label': "
+ "None}, {'term': 'spacecraft', 'scheme': None, 'label': None}, {'term': "
+ "'spaceflight', 'scheme': None, 'label': None}, {'term': 'SpaceX', 'scheme': "
+ "None, 'label': None}, {'term': 'starlink', 'scheme': None, 'label': None}, "
+ "{'term': 'washington', 'scheme': None, 'label': None}], 'id': "
+ "'https://techcrunch.com/?p=1925800', 'guidislink': False, 'summary': 'Amazon "
+ 'is ramping operations for its Kuiper project, its forthcoming high-speed '
+ 'satellite internet product, with a new HQ and R&#38;D facility. From a small '
+ 'satellite constellation operating in low Earth orbit, Kuiper will provide '
+ 'internet connectivity to underserved communities &#8212; and in some cases, '
+ "to people without any access at all. If that tune sounds [&#8230;]', "
+ "'summary_detail': {'type': 'text/html', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': 'Amazon is ramping "
+ 'operations for its Kuiper project, its forthcoming high-speed satellite '
+ 'internet product, with a new HQ and R&#38;D facility. From a small satellite '
+ 'constellation operating in low Earth orbit, Kuiper will provide internet '
+ 'connectivity to underserved communities &#8212; and in some cases, to people '
+ "without any access at all. If that tune sounds [&#8230;]'}, 'content': "
+ "[{'type': 'text/html', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': '<p "
+ 'id="speakable-summary"><a class="crunchbase-link" '
+ 'href="https://crunchbase.com/organization/amazon" target="_blank" '
+ 'data-type="organization" data-entity="amazon">Amazon <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> is ramping operations for '
+ 'its Kuiper project, its forthcoming high-speed satellite internet product, '
+ 'with a new HQ and R&amp;D facility. From a small satellite constellation '
+ 'operating in low Earth orbit, Kuiper will provide internet connectivity to '
+ 'underserved communities &#8212; and in some cases, to people without any '
+ 'access at all.</p>\\n<p>If that tune sounds familiar, it&#8217;s because '
+ 'it&#8217;s a common enough goal these days &#8212; <a '
+ 'class="crunchbase-link" '
+ 'href="https://crunchbase.com/organization/space-exploration-technologies" '
+ 'target="_blank" data-type="organization" '
+ 'data-entity="space-exploration-technologies">SpaceX <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> is already launching '
+ 'satellites that will make up its Starlink constellation to provide similar '
+ 'service, first in North America and then eventually globally. <a '
+ 'class="crunchbase-link" href="https://crunchbase.com/organization/oneweb" '
+ 'target="_blank" data-type="organization" data-entity="oneweb">OneWeb <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> is launching satellites to '
+ 'provide global coverage, and is hoping to get started deploying its '
+ 'constellation in January. Google (or rather Alphabet, but they&#8217;re '
+ 'looking more like the same company than ever before these days) is looking '
+ 'to provide similar connectivity services in hard to reach areas through its '
+ 'Loon high-atmosphere balloon project, too.</p>\\n<p>Amazon&#8217;s approach '
+ 'involves launching thousands of satellites to low Earth orbit, over the '
+ 'course of multiple launches spanning multiple years. Using multiple, smaller '
+ 'satellites instead of large, single or small volume geostationary satellites '
+ '(as has been the primary approach for satellite internet in the past) means '
+ 'you can potentially offer better service, with wider reach, and at a lower '
+ 'ultimate cost.</p>\\n<p>Kuiper doesn&#8217;t yet have a timeline around '
+ 'deployment or availability for customers, but Amazon is clearly investing in '
+ 'the project with this new dedicated facility, which will be located in <a '
+ 'class="crunchbase-link" href="https://crunchbase.com/organization/redmond" '
+ 'target="_blank" data-type="organization" data-entity="redmond">Redmond, '
+ '<span class="crunchbase-tooltip-indicator"></span></a> Wash., near '
+ 'Amazon&#8217;s overall home base in Seattle. All told, the new facility will '
+ 'cover 219,000 square feet across two separate buildings, and it&#8217;ll '
+ 'house R&amp;D labs, office space and even prototype manufacturing for onsite '
+ 'satellite hardware production. Amazon anticipates Kuiper team members will '
+ 'start moving into the new site sometime next year.</p>\\n<img '
+ 'src="http://feeds.feedburner.com/~r/TechCrunch/Amazon/~4/p5UAg_AWM4g" '
+ 'height="1" width="1" alt=""/>\'}], \'wfw_commentrss\': '
+ "'https://techcrunch.com/2019/12/18/amazon-will-establish-a-new-headquarters-for-its-kuiper-satellite-broadband-project/feed/', "
+ "'slash_comments': '0', 'post-id': '1925800', 'feedburner_origlink': "
+ "'https://techcrunch.com/2019/12/18/amazon-will-establish-a-new-headquarters-for-its-kuiper-satellite-broadband-project/'}, "
+ "{'title': 'Here�s a Mickey Mouse version of Amazon�s Echo Wall Clock', "
+ "'title_detail': {'type': 'text/plain', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': 'Here�s a Mickey "
+ "Mouse version of Amazon�s Echo Wall Clock'}, 'links': [{'rel': 'alternate', "
+ "'type': 'text/html', 'href': "
+ "'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/3vrM15zrWIQ/'}], "
+ "'link': 'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/3vrM15zrWIQ/', "
+ "'comments': "
+ "'https://techcrunch.com/2019/12/18/heres-a-mickey-mouse-version-of-amazons-echo-wall-clock/#respond', "
+ "'published': 'Wed, 18 Dec 2019 15:59:28 +0000', 'published_parsed': "
+ 'time.struct_time(tm_year=2019, tm_mon=12, tm_mday=18, tm_hour=15, tm_min=59, '
+ "tm_sec=28, tm_wday=2, tm_yday=352, tm_isdst=0), 'authors': [{'name': 'Brian "
+ "Heater'}], 'author': 'Brian Heater', 'author_detail': {'name': 'Brian "
+ "Heater'}, 'tags': [{'term': 'Hardware', 'scheme': None, 'label': None}, "
+ "{'term': 'Amazon', 'scheme': None, 'label': None}, {'term': 'Disney', "
+ "'scheme': None, 'label': None}, {'term': 'echo', 'scheme': None, 'label': "
+ "None}, {'term': 'echo wall clock', 'scheme': None, 'label': None}, {'term': "
+ "'Mickey Mouse', 'scheme': None, 'label': None}], 'id': "
+ "'https://techcrunch.com/?p=1925604', 'guidislink': False, 'summary': "
+ "'Amazon�s original Echo Wall Clock was mostly fine. Some consumers ran into "
+ 'connectivity issues with the device, but it was mostly okay. It�s one of the '
+ 'most passive members of the Echo family of devices, mostly doing its wall '
+ 'clock thing, until you need a time set. The latest addition to the line has '
+ "something [&#8230;]', 'summary_detail': {'type': 'text/html', 'language': "
+ "None, 'base': 'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': "
+ "'Amazon�s original Echo Wall Clock was mostly fine. Some consumers ran into "
+ 'connectivity issues with the device, but it was mostly okay. It�s one of the '
+ 'most passive members of the Echo family of devices, mostly doing its wall '
+ 'clock thing, until you need a time set. The latest addition to the line has '
+ "something [&#8230;]'}, 'content': [{'type': 'text/html', 'language': None, "
+ "'base': 'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': '<p "
+ 'class="p1"><span class="s1">Amazon�s original Echo Wall Clock was mostly '
+ 'fine. Some consumers ran into connectivity issues with the device, but it '
+ 'was mostly okay. It�s one of the most passive members of the Echo family of '
+ 'devices, mostly doing its wall clock thing, until you need a time set. '
+ '</span></p>\\n<p class="p1"><span class="s1">The latest addition to the line '
+ 'has something its predecessor lacked, however: <a '
+ 'href="https://www.amazon.com/Echo-Wall-Clock-requires-compatible/dp/B07VZ2W7L4/">a '
+ 'giant Mickey Mouse</a>. From the looks of it, things are mostly exactly the '
+ 'same here, with the important addition of a large, smiling rodent whose '
+ 'little mouse arms point out the hours and minutes.</span></p>\\n<div '
+ 'class="embed breakout">\\n<blockquote class="wp-embedded-content" '
+ 'data-secret="VdHeFUWGJU"><p id="speakable-summary"><a '
+ 'href="https://techcrunch.com/2018/12/31/echo-wall-clock-review/">Echo Wall '
+ 'Clock review</a></p></blockquote>\\n<p><iframe title="&#8220;Echo Wall Clock '
+ 'review&#8221; &#8212; TechCrunch" class="wp-embedded-content" '
+ 'sandbox="allow-scripts" security="restricted" style="position: absolute; '
+ 'clip: rect(1px, 1px, 1px, 1px);" '
+ 'src="https://techcrunch.com/2018/12/31/echo-wall-clock-review/embed/#?secret=VdHeFUWGJU" '
+ 'data-secret="VdHeFUWGJU" width="800" height="450" frameborder="0" '
+ 'marginwidth="0" marginheight="0" scrolling="no"></iframe></div>\\n<p '
+ 'class="p1"><span class="s1">There�s the standard 60 LED ring that serves '
+ 'both to designate minutes and lights up for timer countdowns. The clock '
+ 'pairs with Echo devices, responding to voice commands and automatically '
+ 'adjusting for daylight savings time. Also these handy '
+ 'features:</span></p>\\n<ul>\\n<li class="p1">\\n<blockquote><p><span '
+ 'class="s1">Echo Wall Clock &#8211; Disney Mickey Mouse Edition helps you '
+ 'stay organized and on time.</span></p></blockquote>\\n</li>\\n<li '
+ 'class="p1">\\n<blockquote><p>Easy-to-read analog clock with iconic design '
+ 'cover shows the time of day.</p></blockquote>\\n</li>\\n</ul>\\n<p '
+ 'class="p1"><span class="s1">Which is to say, it�s a clock. Which is also to '
+ 'say that, even when it&#8217;s broken, it&#8217;s right twice a day. How '
+ 'many gadgets can say that? The Echo Wall Clock &#8211; Disney Mickey Mouse '
+ 'Edition is available now for those who still somehow have more room in their '
+ 'life for Disney, and should get to you before Christmas if you order now. It '
+ 'runs $50 � $20 more than the standard edition. </span></p>\\n<img '
+ 'src="http://feeds.feedburner.com/~r/TechCrunch/Amazon/~4/3vrM15zrWIQ" '
+ 'height="1" width="1" alt=""/>\'}], \'wfw_commentrss\': '
+ "'https://techcrunch.com/2019/12/18/heres-a-mickey-mouse-version-of-amazons-echo-wall-clock/feed/', "
+ "'slash_comments': '0', 'post-id': '1925604', 'feedburner_origlink': "
+ "'https://techcrunch.com/2019/12/18/heres-a-mickey-mouse-version-of-amazons-echo-wall-clock/'}, "
+ "{'title': 'Amazon, Apple, Google and Zigbee join forces for an open smart "
+ "home standard', 'title_detail': {'type': 'text/plain', 'language': None, "
+ "'base': 'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': 'Amazon, "
+ "Apple, Google and Zigbee join forces for an open smart home standard'}, "
+ "'links': [{'rel': 'alternate', 'type': 'text/html', 'href': "
+ "'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/I4bqV8BzrSo/'}], "
+ "'link': 'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/I4bqV8BzrSo/', "
+ "'comments': "
+ "'https://techcrunch.com/2019/12/18/amazon-apple-google-and-zigbee-join-forces-for-an-open-smart-home-standard/#respond', "
+ "'published': 'Wed, 18 Dec 2019 15:11:18 +0000', 'published_parsed': "
+ 'time.struct_time(tm_year=2019, tm_mon=12, tm_mday=18, tm_hour=15, tm_min=11, '
+ "tm_sec=18, tm_wday=2, tm_yday=352, tm_isdst=0), 'authors': [{'name': 'Brian "
+ "Heater'}], 'author': 'Brian Heater', 'author_detail': {'name': 'Brian "
+ "Heater'}, 'tags': [{'term': 'Hardware', 'scheme': None, 'label': None}, "
+ "{'term': 'Amazon', 'scheme': None, 'label': None}, {'term': 'Apple', "
+ "'scheme': None, 'label': None}, {'term': 'Google', 'scheme': None, 'label': "
+ "None}, {'term': 'smart home', 'scheme': None, 'label': None}], 'id': "
+ "'https://techcrunch.com/?p=1925566', 'guidislink': False, 'summary': 'The "
+ 'biggest names in the connected home category are reaching across the aisle '
+ 'to create an open-source standard. Marquee names Amazon, Apple, Google and '
+ 'the Zigbee Alliance are leading the charge here. There are a number of key '
+ 'partners on the board, as well, including Ikea, Legrand, NXP Semiconductors, '
+ "Resideo, Samsung SmartThings, Schneider Electric, Signify [&#8230;]', "
+ "'summary_detail': {'type': 'text/html', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': 'The biggest names "
+ 'in the connected home category are reaching across the aisle to create an '
+ 'open-source standard. Marquee names Amazon, Apple, Google and the Zigbee '
+ 'Alliance are leading the charge here. There are a number of key partners on '
+ 'the board, as well, including Ikea, Legrand, NXP Semiconductors, Resideo, '
+ "Samsung SmartThings, Schneider Electric, Signify [&#8230;]'}, 'content': "
+ "[{'type': 'text/html', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': '<p "
+ 'class="p1"><span class="s1">The biggest names in the connected home category '
+ 'are reaching across the aisle to create an open-source standard. Marquee '
+ 'names Amazon, Apple, Google and the Zigbee Alliance are leading the charge '
+ 'here. </span></p>\\n<p class="p1"><span class="s1">There are a number of key '
+ 'partners on the board, as well, including Ikea, Legrand, NXP Semiconductors, '
+ 'Resideo, Samsung SmartThings, Schneider Electric, Signify (nee Philips '
+ 'Lighting), Silicon Labs, Somfy and Wulian.</span></p>\\n<p class="p1"><span '
+ 'class="s1">The goals certainly seem solid from the outset. The Connected '
+ 'Home over IP project seeks to create a connectivity standard designed to '
+ 'increase compatibility across companies and devices. The landscape is pretty '
+ 'scattered at the moment, with each player digging pretty heavily into their '
+ 'own standard and forcing many smaller third-party players to pick sides. '
+ '</span></p>\\n<p class="p1"><span class="s1">There will no doubt continue to '
+ 'be a degree of that, but the more devices that can speak to one another, '
+ 'that would certainly appear to be a net positive for the consumer. The aim '
+ 'is to make it easier for hardware makers to build devices that work with '
+ 'Alexa, Assistant, Siri and the like. </span></p>\\n<p class="p1"><span '
+ 'class="s1">�The project is built around a shared belief that smart home '
+ 'devices should be secure, reliable, and seamless to use,� according to<a '
+ 'href="https://www.apple.com/newsroom/2019/12/amazon-apple-google-and-the-zigbee-alliance-to-develop-connectivity-standard/"> '
+ 'the joint release</a>. �By building upon Internet Protocol (IP), the project '
+ 'aims to enable communication across smart home devices, mobile apps, and '
+ 'cloud services and to define a specific set of IP-based networking '
+ 'technologies for device certification.�</span></p>\\n<p class="p1"><span '
+ 'class="s1">Security and privacy ought to be pretty high up on the list, as '
+ 'well. These topics are of utmost and increasing concern as we surrender more '
+ 'of our square footage to connected products. </span></p>\\n<img '
+ 'src="http://feeds.feedburner.com/~r/TechCrunch/Amazon/~4/I4bqV8BzrSo" '
+ 'height="1" width="1" alt=""/>\'}], \'wfw_commentrss\': '
+ "'https://techcrunch.com/2019/12/18/amazon-apple-google-and-zigbee-join-forces-for-an-open-smart-home-standard/feed/', "
+ "'slash_comments': '0', 'post-id': '1925566', 'feedburner_origlink': "
+ "'https://techcrunch.com/2019/12/18/amazon-apple-google-and-zigbee-join-forces-for-an-open-smart-home-standard/'}, "
+ "{'title': 'Daily Crunch: Amazon takes action against FedEx', 'title_detail': "
+ "{'type': 'text/plain', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': 'Daily Crunch: "
+ "Amazon takes action against FedEx'}, 'links': [{'rel': 'alternate', 'type': "
+ "'text/html', 'href': "
+ "'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/TMho8OC2MZo/'}], "
+ "'link': 'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/TMho8OC2MZo/', "
+ "'comments': "
+ "'https://techcrunch.com/2019/12/17/daily-crunch-amazon-fedex/#respond', "
+ "'published': 'Tue, 17 Dec 2019 17:59:51 +0000', 'published_parsed': "
+ 'time.struct_time(tm_year=2019, tm_mon=12, tm_mday=17, tm_hour=17, tm_min=59, '
+ "tm_sec=51, tm_wday=1, tm_yday=351, tm_isdst=0), 'authors': [{'name': "
+ "'Anthony Ha'}], 'author': 'Anthony Ha', 'author_detail': {'name': 'Anthony "
+ "Ha'}, 'tags': [{'term': 'eCommerce', 'scheme': None, 'label': None}, "
+ "{'term': 'Amazon', 'scheme': None, 'label': None}, {'term': 'Daily Crunch', "
+ "'scheme': None, 'label': None}], 'id': 'https://techcrunch.com/?p=1925142', "
+ "'guidislink': False, 'summary': 'The Daily Crunch is TechCrunch&#8217;s "
+ 'roundup of our biggest and most important stories. If you&#8217;d like to '
+ 'get this delivered to your inbox every day at around 9am Pacific, you can '
+ 'subscribe here. 1. Amazon�s third-party merchants are now barred from using '
+ 'FedEx Ground for Prime shipments Amazon recently told third-party vendors '
+ "that they are [&#8230;]', 'summary_detail': {'type': 'text/html', "
+ "'language': None, 'base': 'http://feeds.feedburner.com/TechCrunch/Amazon', "
+ "'value': 'The Daily Crunch is TechCrunch&#8217;s roundup of our biggest and "
+ 'most important stories. If you&#8217;d like to get this delivered to your '
+ 'inbox every day at around 9am Pacific, you can subscribe here. 1. Amazon�s '
+ 'third-party merchants are now barred from using FedEx Ground for Prime '
+ 'shipments Amazon recently told third-party vendors that they are '
+ "[&#8230;]'}, 'content': [{'type': 'text/html', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': '<p "
+ 'id="speakable-summary">The Daily Crunch is TechCrunch&#8217;s roundup of our '
+ 'biggest and most important stories. If you&#8217;d like to get this '
+ 'delivered to your inbox every day at around 9am Pacific, you can <a '
+ 'href="http://link.techcrunch.com/join/134/signup-all-newsletters">subscribe '
+ 'here</a>.</p>\\n<p><strong>1. <a '
+ 'href="https://techcrunch.com/2019/12/16/amazons-third-party-merchants-are-now-barred-from-using-fedex-ground-for-prime-shipments/">Amazon�s '
+ 'third-party merchants are now barred from using FedEx Ground for Prime '
+ 'shipments</a></strong></p>\\n<p><a class="crunchbase-link" '
+ 'href="https://crunchbase.com/organization/amazon" target="_blank" '
+ 'data-type="organization" data-entity="amazon">Amazon <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> recently told third-party '
+ 'vendors that they are barred from using FedEx�s ground delivery services for '
+ 'Prime shipments. The Wall Street Journal <a '
+ 'href="https://www.wsj.com/articles/amazon-blocks-sellers-from-using-fedex-ground-for-prime-shipments-11576525190">reports</a> '
+ 'that Amazon told merchants that the ban will last �until the delivery '
+ 'performance of these ship methods improves.�</p>\\n<p>The e-commerce '
+ 'platform will still allow FedEx Ground for non-Prime shipments and FedEx '
+ 'Express, a faster but pricier option, for Prime.</p>\\n<p><strong>2. <a '
+ 'href="https://techcrunch.com/2019/12/17/new-media-investment-firm-attention-capital-acquires-girlboss/">New '
+ 'media investment firm Attention Capital acquires '
+ 'Girlboss</a></strong></p>\\n<p>Attention Capital is a new outfit that buys, '
+ 'builds and scales media brands. Girlboss, meanwhile, is the female-focused '
+ 'multi-media business founded by Nastygal&#8217;s Sophia Amoruso, who will '
+ 'join the firm as a founder partner.</p>\\n<p><strong>3. <a '
+ 'href="https://techcrunch.com/2019/12/17/google-has-fired-another-worker-activist/">Google '
+ 'has fired another worker-activist</a></strong></p>\\n<p>Kathryn Spiers, who '
+ 'worked on the platform security team, was generally tasked with writing code '
+ 'for browser notifications to automatically notify employees about guidelines '
+ 'and company policies. According to Spiers, Google fired her because she '
+ 'created a browser notification to educate her colleagues about their labor '
+ 'rights.</p>\\n<p><strong>4. <a '
+ 'href="https://techcrunch.com/2019/12/17/automated-web-app-testing-startup-prodperfect-raises-13m-series-a-led-by-anthos-capital/">Automated '
+ 'web app testing startup ProdPerfect raises $13M Series A led by Anthos '
+ 'Capital</a></strong></p>\\n<p>ProdPerfect automates end-to-end testing for '
+ 'web developers. According to CEO Dan Widing, the product �followed some of '
+ 'the lessons of the product analytics industry to build a tool that lets us '
+ 'quantitatively understand how our customer�s live users traverse the '
+ 'customer�s web application.�</p>\\n<p><strong>5. <a '
+ 'href="https://techcrunch.com/2019/12/17/1-800-contacts-buys-the-at-home-eye-exam-provider-6over6-vision/">1-800 '
+ 'Contacts buys the at-home eye exam provider 6over6 '
+ 'Vision</a></strong></p>\\n<p>Based in Israel, 6over6 Vision previously '
+ 'raised $15 million to commercialize its in-home eye exams based on a '
+ 'combination of machine learning and sensors. The basic eye exams can be '
+ 'performed with nothing more than a smartphone or computer and '
+ 'camera.</p>\\n<p><strong>6. <a '
+ 'href="https://techcrunch.com/2019/12/16/instagram-fact-checking/">Instagram '
+ 'hides false content behind warnings, except for '
+ 'politicians</a></strong></p>\\n<p>Instagram is expanding its limited '
+ 'fact-checking test in the U.S. and will now work with 45 third-party '
+ 'organizations to assess the truthfulness of photo and video content on its '
+ 'app. One group that�s exempt from the fact checking, though, is '
+ 'politicians.</p>\\n<p><strong>7. <a '
+ 'href="https://techcrunch.com/2019/12/16/brand-power-vs-product-power/">Brand '
+ 'power vs. product power</a></strong></p>\\n<p>Carbonite&#8217;s co-founder '
+ 'offers an insider look at how the PC backup company built its brand. (Extra '
+ 'Crunch membership required.)</p>\\n<p><a '
+ 'href="http://link.techcrunch.com/join/134/signup-all-newsletters"><img '
+ 'class="aligncenter wp-image-1764565 size-large" '
+ 'src="https://techcrunch.com/wp-content/uploads/2019/01/Dk-_nQ.png?w=680" '
+ 'alt="" width="680" height="191" '
+ 'srcset="https://techcrunch.com/wp-content/uploads/2019/01/Dk-_nQ.png 680w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/01/Dk-_nQ.png?resize=150,42 '
+ '150w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/01/Dk-_nQ.png?resize=300,84 '
+ '300w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/01/Dk-_nQ.png?resize=50,14 '
+ '50w" sizes="(max-width: 680px) 100vw, 680px" /></a></p>\\n<img '
+ 'src="http://feeds.feedburner.com/~r/TechCrunch/Amazon/~4/TMho8OC2MZo" '
+ 'height="1" width="1" alt=""/>\'}], \'wfw_commentrss\': '
+ "'https://techcrunch.com/2019/12/17/daily-crunch-amazon-fedex/feed/', "
+ "'slash_comments': '0', 'post-id': '1925142', 'feedburner_origlink': "
+ "'https://techcrunch.com/2019/12/17/daily-crunch-amazon-fedex/'}, {'title': "
+ "'Anyscale, from the creators of the Ray distributed computing project, "
+ "launches with $20.6M led by a16z', 'title_detail': {'type': 'text/plain', "
+ "'language': None, 'base': 'http://feeds.feedburner.com/TechCrunch/Amazon', "
+ "'value': 'Anyscale, from the creators of the Ray distributed computing "
+ "project, launches with $20.6M led by a16z'}, 'links': [{'rel': 'alternate', "
+ "'type': 'text/html', 'href': "
+ "'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/yek07uQtOA0/'}], "
+ "'link': 'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/yek07uQtOA0/', "
+ "'comments': "
+ "'https://techcrunch.com/2019/12/17/anyscale-ray-project-distributed-computing-a16z/#respond', "
+ "'published': 'Tue, 17 Dec 2019 14:29:09 +0000', 'published_parsed': "
+ 'time.struct_time(tm_year=2019, tm_mon=12, tm_mday=17, tm_hour=14, tm_min=29, '
+ "tm_sec=9, tm_wday=1, tm_yday=351, tm_isdst=0), 'authors': [{'name': 'Ingrid "
+ "Lunden'}], 'author': 'Ingrid Lunden', 'author_detail': {'name': 'Ingrid "
+ "Lunden'}, 'tags': [{'term': 'Developer', 'scheme': None, 'label': None}, "
+ "{'term': 'Recent Funding', 'scheme': None, 'label': None}, {'term': "
+ "'Startups', 'scheme': None, 'label': None}, {'term': 'TC', 'scheme': None, "
+ "'label': None}, {'term': 'Amazon', 'scheme': None, 'label': None}, {'term': "
+ "'Amplify Partners', 'scheme': None, 'label': None}, {'term': 'Andreessen "
+ "Horowitz', 'scheme': None, 'label': None}, {'term': 'Ant Financial', "
+ "'scheme': None, 'label': None}, {'term': 'anyscale', 'scheme': None, "
+ "'label': None}, {'term': 'Apache Spark', 'scheme': None, 'label': None}, "
+ "{'term': 'artificial intelligence', 'scheme': None, 'label': None}, {'term': "
+ "'Ben Horowitz', 'scheme': None, 'label': None}, {'term': 'computing', "
+ "'scheme': None, 'label': None}, {'term': 'Conviva', 'scheme': None, 'label': "
+ "None}, {'term': 'Databricks', 'scheme': None, 'label': None}, {'term': "
+ "'distributed computing', 'scheme': None, 'label': None}, {'term': 'Google', "
+ "'scheme': None, 'label': None}, {'term': 'House Fund', 'scheme': None, "
+ "'label': None}, {'term': 'idc', 'scheme': None, 'label': None}, {'term': "
+ "'Intel Capital', 'scheme': None, 'label': None}, {'term': 'manufacturing', "
+ "'scheme': None, 'label': None}, {'term': 'Microsoft', 'scheme': None, "
+ "'label': None}, {'term': 'nea', 'scheme': None, 'label': None}, {'term': "
+ "'Python', 'scheme': None, 'label': None}, {'term': 'uc-berkeley', 'scheme': "
+ "None, 'label': None}], 'id': 'https://techcrunch.com/?p=1924851', "
+ "'guidislink': False, 'summary': 'Open source has become a critical building "
+ 'block of modern software, and today a new startup is coming out of stealth '
+ 'to capitalise on one of the newer frontiers in open source: using it to '
+ 'build and manage distributed application environments, an approach being '
+ 'used increasingly to handle large computing projects, such as those '
+ "involving [&#8230;]', 'summary_detail': {'type': 'text/html', 'language': "
+ "None, 'base': 'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': "
+ "'Open source has become a critical building block of modern software, and "
+ 'today a new startup is coming out of stealth to capitalise on one of the '
+ 'newer frontiers in open source: using it to build and manage distributed '
+ 'application environments, an approach being used increasingly to handle '
+ "large computing projects, such as those involving [&#8230;]'}, 'content': "
+ "[{'type': 'text/html', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': '<p "
+ 'id="speakable-summary">Open source has become a critical building block of '
+ 'modern software, and today a new startup is coming out of stealth to '
+ 'capitalise on one of the newer frontiers in open source: using it to build '
+ 'and manage distributed application environments, an approach being used '
+ 'increasingly to handle large computing projects, such as those involving '
+ 'artificial intelligence or scientific or other complex '
+ 'calculations.</p>\\n<p><a href="http://anyscale.io">Anyscale</a>, a startup '
+ 'founded by the same team that built the <a '
+ 'href="https://bair.berkeley.edu/blog/2018/01/09/ray/">Project Ray</a> '
+ 'open-source distributed programming framework out of UC Berkeley &#8212; '
+ 'Robert Nishihara, Philipp Moritz and Ion Stoica, and Berkeley professor '
+ 'Michael I. Jordan &#8212; has raised $20.6 million in a Series A round of '
+ 'funding led by Andreessen Horowitz, with participation also from NEA, Intel '
+ 'Capital, Ant Financial, Amplify Partners, 11.2 Capital and The House '
+ 'Fund.</p>\\n<p>The company plans to use the money to build out its first '
+ 'commercial products &#8212; details of which are still being kept under '
+ 'wraps but will more generally include the ability to easily scale out a '
+ 'computing project from one laptop to a cluster of machines; and a group of '
+ 'libraries and applications to manage projects. These are expected to launch '
+ 'next year.</p>\\n<p><span class="s1">&#8220;Right now we are focused on '
+ 'making Ray a standard for building applications,&#8221; said Stoica in an '
+ 'interview. &#8220;The company will build tools and a runtime platform for '
+ 'Ray. So, if you want to run a Ray application securely and with high '
+ 'performance then you will use our product.&#8221;</span></p>\\n<p>The '
+ 'funding is partly strategic: Intel is one of the big companies that has been '
+ 'using Ray for its own computing projects, alongside <a '
+ 'class="crunchbase-link" href="https://crunchbase.com/organization/amazon" '
+ 'target="_blank" data-type="organization" data-entity="amazon">Amazon, <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> Microsoft and Ant '
+ 'Financial.</p>\\n<p>�Intel IT has been leveraging Ray to scale Python '
+ 'workloads with minimal code modifications,� said Moty Fania, principal '
+ 'engineer and chief technology officer for Intel IT�s Enterprise and Platform '
+ 'Group, in a statement. �With the implementation into Intel�s manufacturing '
+ 'and testing processes, we have found that Ray helps increase the speed and '
+ 'scale of our hyperparameter selection techniques and auto modeling processes '
+ 'used for creating personalized chip tests. For us, this has resulted in '
+ 'reduced costs, additional capacity and improved quality.�</p>\\n<p>With an '
+ 'impressive user list like this for the free-to-use Ray, you might ask '
+ 'yourself, what is the purpose of Anyscale? As Stoica and Nishihara '
+ 'explained, the idea will be to create simpler and easier ways to implement '
+ 'Ray, to make it usable whether you&#8217;re one of the Amazons of the world, '
+ 'or a more modest, and possibly less tech-centric operation.</p>\\n<p '
+ 'class="p1"><span class="s1">&#8220;We see that this will be valuable mostly '
+ 'for companies who do not have engineering experts,&#8221; Stoica said. '
+ '</span></p>\\n<p>The problem that Anyscale is solving is a central one to '
+ 'the future of large-scale, involved computing projects: there are an '
+ 'increasing array of problems that are being tackled with computing '
+ 'solutions, but as the complexity of the work involved increases, there is a '
+ 'limit to how much work a single machine (even a big one) can handle. '
+ '(Indeed, Anyscale cites <a class="crunchbase-link" '
+ 'href="https://crunchbase.com/organization/idc" target="_blank" '
+ 'data-type="organization" data-entity="idc">IDC <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> figures estimating that the '
+ 'amount of data created and copied annually will reach 175 zettabytes by '
+ '2025.)</p>\\n<p>While one day there may be quantum-computing machines that '
+ 'can run efficiently and at scale to address these kinds of tasks, today this '
+ 'isn&#8217;t a realistic option, and so distributed computing has emerged as '
+ 'a solution.</p>\\n<p>Ray was devised as a standard to use to implement '
+ 'distributed computing environments, but on its own it&#8217;s too technical '
+ 'for the uninitiated to use.</p>\\n<p class="p1"><span '
+ 'class="s1">&#8220;Imagine you�re a biologist,&#8221; added Nishihara. '
+ '&#8220;You can write a simple program</span><span class="s1"> and run it at '
+ 'a large scale, but to do that successfully you need not only to be a biology '
+ 'expert but a computing expert. That&#8217;s just way too high a '
+ 'barrier.&#8221;</span></p>\\n<p class="p1">The people behind Anyscale (and '
+ 'Ray) have a long and very credible list of other work behind them that '
+ 'speaks to the opportunities that are being spotted here. <a '
+ 'href="https://en.wikipedia.org/wiki/Ion_Stoica">Stoica</a>, for example, was '
+ 'also the co-founder of Databricks, Conviva and one of the original '
+ 'developers of Apache Spark.</p>\\n<p class="p1"><span class="s1">&#8220;I '
+ 'worked on Databricks with Ion and that�s how it started,&#8221; Andreessen '
+ 'Horowitz co-founder </span><span class="s1">Ben Horowitz said in an '
+ 'interview. He added that the firm has been a regular investor into projects '
+ 'coming out of UC Berkeley. Ray, and more specifically Anyscale, is notable '
+ 'for its relevance to today&#8217;s computing needs.</span></p>\\n<p '
+ 'class="p1"><span class="s1">&#8220;W</span><span class="s1">ith Ray it was a '
+ 'very attractive project because of the open-source metrics but also because '
+ 'of the issue it addresses,&#8221; he said. </span></p>\\n<p class="p1"><span '
+ 'class="s1">&#8220;We&#8217;ve been grappling with Moore&#8217;s Law being '
+ 'over, but more interestingly, it&#8217;s inadequate for things like '
+ 'artificial intelligence applications,&#8221; where increasing computing '
+ 'power is needed that outstrips what any single machine can do. '
+ '&#8220;</span><span class="s1">You have to be able to deal with distributed '
+ 'computing, but the problem for everyone but Google is that distributed '
+ 'computing is hard, so we have been looking for a '
+ 'solution.&#8221;</span></p>\\n<img '
+ 'src="http://feeds.feedburner.com/~r/TechCrunch/Amazon/~4/yek07uQtOA0" '
+ 'height="1" width="1" alt=""/>\'}], \'wfw_commentrss\': '
+ "'https://techcrunch.com/2019/12/17/anyscale-ray-project-distributed-computing-a16z/feed/', "
+ "'slash_comments': '0', 'post-id': '1924851', 'feedburner_origlink': "
+ "'https://techcrunch.com/2019/12/17/anyscale-ray-project-distributed-computing-a16z/'}, "
+ "{'title': 'Amazon�s third-party merchants are now barred from using FedEx "
+ "Ground for Prime shipments', 'title_detail': {'type': 'text/plain', "
+ "'language': None, 'base': 'http://feeds.feedburner.com/TechCrunch/Amazon', "
+ "'value': 'Amazon�s third-party merchants are now barred from using FedEx "
+ "Ground for Prime shipments'}, 'links': [{'rel': 'alternate', 'type': "
+ "'text/html', 'href': "
+ "'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/Xh1gTgd87mg/'}], "
+ "'link': 'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/Xh1gTgd87mg/', "
+ "'comments': "
+ "'https://techcrunch.com/2019/12/16/amazons-third-party-merchants-are-now-barred-from-using-fedex-ground-for-prime-shipments/#respond', "
+ "'published': 'Tue, 17 Dec 2019 02:52:44 +0000', 'published_parsed': "
+ 'time.struct_time(tm_year=2019, tm_mon=12, tm_mday=17, tm_hour=2, tm_min=52, '
+ "tm_sec=44, tm_wday=1, tm_yday=351, tm_isdst=0), 'authors': [{'name': "
+ "'Catherine Shu'}], 'author': 'Catherine Shu', 'author_detail': {'name': "
+ "'Catherine Shu'}, 'tags': [{'term': 'Logistics', 'scheme': None, 'label': "
+ "None}, {'term': 'TC', 'scheme': None, 'label': None}, {'term': 'Amazon', "
+ "'scheme': None, 'label': None}, {'term': 'Amazon.com', 'scheme': None, "
+ "'label': None}, {'term': 'eCommerce', 'scheme': None, 'label': None}, "
+ "{'term': 'fedex', 'scheme': None, 'label': None}], 'id': "
+ "'https://techcrunch.com/?p=1924819', 'guidislink': False, 'summary': "
+ "'Third-party vendors were told by Amazon over the weekend that they are "
+ 'barred from using FedEx�s ground delivery services for Prime shipments. The '
+ 'Wall Street Journal reports that a message sent by Amazon to merchants on '
+ 'Sunday said the ban will last &#8220;until the delivery performance of these '
+ "ship methods improves.&#8221; The e-commerce platform will [&#8230;]', "
+ "'summary_detail': {'type': 'text/html', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': 'Third-party "
+ 'vendors were told by Amazon over the weekend that they are barred from using '
+ 'FedEx�s ground delivery services for Prime shipments. The Wall Street '
+ 'Journal reports that a message sent by Amazon to merchants on Sunday said '
+ 'the ban will last &#8220;until the delivery performance of these ship '
+ "methods improves.&#8221; The e-commerce platform will [&#8230;]'}, "
+ "'content': [{'type': 'text/html', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': '<p "
+ 'id="speakable-summary">Third-party vendors were told by <a '
+ 'class="crunchbase-link" href="https://crunchbase.com/organization/amazon" '
+ 'target="_blank" data-type="organization" data-entity="amazon">Amazon <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> over the weekend that they '
+ 'are barred from using FedEx�s ground delivery services for Prime shipments. '
+ 'The Wall Street Journal <a '
+ 'href="https://www.wsj.com/articles/amazon-blocks-sellers-from-using-fedex-ground-for-prime-shipments-11576525190">reports</a> '
+ 'that a message sent by Amazon to merchants on Sunday said the ban will last '
+ '&#8220;until the delivery performance of these ship methods improves.&#8221; '
+ 'The e-commerce platform will still allow FedEx Ground for non-Prime '
+ 'shipments and <a class="crunchbase-link" '
+ 'href="https://crunchbase.com/organization/fedex" target="_blank" '
+ 'data-type="organization" data-entity="fedex">FedEx <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> Express, a faster but '
+ 'pricier option, for Prime.</p>\\n<p>Third-party sellers now account for more '
+ 'than half the products sold on Amazon.com and the company�s decision on '
+ 'FedEx�s ground delivery comes during the peak of the holiday shopping '
+ 'season. Over the summer, FedEx ended partnerships with Amazon to provide it '
+ 'with <a '
+ 'href="https://techcrunch.com/2019/06/07/fedex-ends-express-delivery-contract-with-amazon/">express '
+ 'air deliveries </a>and <a '
+ 'href="https://techcrunch.com/2019/08/07/fedex-ends-ground-delivery-contract-with-amazon/">ground '
+ 'shipments</a>.</p>\\n<p>An Amazon spokesperson said that the company is '
+ 'managing cutoffs for delivery by Christmas and wants to ensure that '
+ 'customers receive their packages on time. TechCrunch has also contacted '
+ 'FedEx for comment.</p>\\n<p>Both FedEx and UPS experienced recent shipping '
+ 'delays, which they said <a '
+ 'href="https://www.toledoblade.com/local/transportation/2019/12/13/ups-fedex-say-bad-weather-nationwide-responsible-for-delivery-delays/stories/20191213078">were '
+ 'caused by record shipping volumes and weather issues</a>.</p>\\n<p>Amazon '
+ 'has also been under scrutiny by federal antitrust regulators, with <a '
+ 'href="https://www.bloomberg.com/news/articles/2019-11-08/amazon-merchant-lays-out-antitrust-case-in-letter-to-congress">some '
+ 'complaints centered on whether or not it forces sellers to rely on its own '
+ 'logistics network</a>. The company�s focus on its warehouse and delivery '
+ 'services, combined with its status as the largest online retailer in the '
+ 'U.S., has turned it into a major competitor against FedEx, UPS and the '
+ 'United States Postal Service.</p>\\n<p>A <a '
+ 'href="https://www.supplychaindive.com/news/amazon-logistics-volume-surpass-ups-fedex-2022-morgan-stanley/569044/">recent '
+ 'Morgan Stanley report</a> estimates that Amazon is currently delivering '
+ 'about 46% of the items ordered through its U.S. site and predicts Amazon '
+ 'Logistics will not only start providing shipments for non-Amazon orders, but '
+ 'overtake FedEx, UPS and the USPS in shipment volume by 2022.</p>\\n<img '
+ 'src="http://feeds.feedburner.com/~r/TechCrunch/Amazon/~4/Xh1gTgd87mg" '
+ 'height="1" width="1" alt=""/>\'}], \'wfw_commentrss\': '
+ "'https://techcrunch.com/2019/12/16/amazons-third-party-merchants-are-now-barred-from-using-fedex-ground-for-prime-shipments/feed/', "
+ "'slash_comments': '0', 'post-id': '1924819', 'feedburner_origlink': "
+ "'https://techcrunch.com/2019/12/16/amazons-third-party-merchants-are-now-barred-from-using-fedex-ground-for-prime-shipments/'}, "
+ "{'title': 'Kid-focused STEM device startup Kano sees layoffs as it puts "
+ "Disney e-device on ice', 'title_detail': {'type': 'text/plain', 'language': "
+ "None, 'base': 'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': "
+ "'Kid-focused STEM device startup Kano sees layoffs as it puts Disney "
+ "e-device on ice'}, 'links': [{'rel': 'alternate', 'type': 'text/html', "
+ "'href': "
+ "'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/_9WsEhrU9X8/'}], "
+ "'link': 'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/_9WsEhrU9X8/', "
+ "'comments': "
+ "'https://techcrunch.com/2019/12/16/kid-focused-stem-device-startup-kano-sees-layoffs-as-it-puts-disney-e-device-on-ice/#respond', "
+ "'published': 'Mon, 16 Dec 2019 15:18:44 +0000', 'published_parsed': "
+ 'time.struct_time(tm_year=2019, tm_mon=12, tm_mday=16, tm_hour=15, tm_min=18, '
+ "tm_sec=44, tm_wday=0, tm_yday=350, tm_isdst=0), 'authors': [{'name': "
+ "'Natasha Lomas'}], 'author': 'Natasha Lomas', 'author_detail': {'name': "
+ "'Natasha Lomas'}, 'tags': [{'term': 'Education', 'scheme': None, 'label': "
+ "None}, {'term': 'Europe', 'scheme': None, 'label': None}, {'term': "
+ "'Gadgets', 'scheme': None, 'label': None}, {'term': 'Hardware', 'scheme': "
+ "None, 'label': None}, {'term': 'TC', 'scheme': None, 'label': None}, "
+ "{'term': 'Amazon', 'scheme': None, 'label': None}, {'term': 'Barclays', "
+ "'scheme': None, 'label': None}, {'term': 'China', 'scheme': None, 'label': "
+ "None}, {'term': 'Collaborative Fund', 'scheme': None, 'label': None}, "
+ "{'term': 'computing', 'scheme': None, 'label': None}, {'term': 'Disney', "
+ "'scheme': None, 'label': None}, {'term': 'Google', 'scheme': None, 'label': "
+ "None}, {'term': 'harry potter', 'scheme': None, 'label': None}, {'term': "
+ "'Intel', 'scheme': None, 'label': None}, {'term': 'Kano', 'scheme': None, "
+ "'label': None}, {'term': 'London', 'scheme': None, 'label': None}, {'term': "
+ "'Marc Benioff', 'scheme': None, 'label': None}, {'term': 'Microsoft', "
+ "'scheme': None, 'label': None}, {'term': 'microsoft windows', 'scheme': "
+ "None, 'label': None}, {'term': 'United States', 'scheme': None, 'label': "
+ "None}], 'id': 'https://techcrunch.com/?p=1924360', 'guidislink': False, "
+ "'summary': 'London-based STEM device maker Kano has confirmed it&#8217;s "
+ 'cutting a number of jobs which it claims is part of a restructuring effort '
+ 'to shift focus to &#8220;educational computing&#8221;. The job cuts &#8212; '
+ 'from 65 to 50 staff &#8212; were reported earlier by The Telegraph. Kano '
+ "founder Alex Klein confirmed in a call with TechCrunch that [&#8230;]', "
+ "'summary_detail': {'type': 'text/html', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': 'London-based STEM "
+ 'device maker Kano has confirmed it&#8217;s cutting a number of jobs which it '
+ 'claims is part of a restructuring effort to shift focus to '
+ '&#8220;educational computing&#8221;. The job cuts &#8212; from 65 to 50 '
+ 'staff &#8212; were reported earlier by The Telegraph. Kano founder Alex '
+ "Klein confirmed in a call with TechCrunch that [&#8230;]'}, 'content': "
+ "[{'type': 'text/html', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': '<p "
+ 'id="speakable-summary">London-based STEM device maker <a '
+ 'href="https://techcrunch.com/tag/kano/">Kano</a> has confirmed it&#8217;s '
+ 'cutting a number of jobs which it claims is part of a restructuring effort '
+ 'to shift focus to &#8220;educational computing&#8221;.</p>\\n<p>The job cuts '
+ '&#8212; from 65 to 50 staff &#8212; were reported earlier by <a '
+ 'href="https://www.telegraph.co.uk/technology/2019/12/16/cutbacks-kano-diy-computer-start-up-hunts-fresh-funding/">The '
+ 'Telegraph</a>. Kano founder Alex Klein confirmed in a call with TechCrunch '
+ 'that <a class="crunchbase-link" '
+ 'href="https://crunchbase.com/organization/kano" target="_blank" '
+ 'data-type="organization" data-entity="kano">Kano <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> will have 50 staff going '
+ 'into next year. Although he said the kid-focused learn to code device '
+ 'business is also adding jobs in engineering and design, as well as '
+ 'eliminating other roles as it shifts focus.</p>\\n<p>He also suggested some '
+ 'of the cuts are seasonal and cyclical &#8212; related to getting through the '
+ 'holiday season.</p>\\n<p>Per Klein, jobs are being taking out as the company '
+ 'moves from building atop the Raspberry Pi platform &#8212; where it started, '
+ '<a '
+ 'href="https://techcrunch.com/2013/12/19/the-kano-build-it-yourself-computer-for-kids-raises-1-4m-on-kickstarter/">back '
+ 'in 2013</a>, with its crowdfunded DIY computer &#8212; to a Windows-based '
+ 'learning platform.</p>\\n<p>Other factors he pointed to in relation to the '
+ 'layoffs include a new manufacturing setup in China, with a &#8220;simpler, '
+ 'larger contract manufacturer&#8221;; fewer physical retail outlets to '
+ 'support, with Kano leaning more on <a class="crunchbase-link" '
+ 'href="https://crunchbase.com/organization/amazon" target="_blank" '
+ 'data-type="organization" data-entity="amazon">Amazon <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> (which he said is '
+ '&#8220;cheaper to support&#8221;); fewer dependencies on large partners and '
+ 'agencies, with Klein claiming 18% of US parents with kids aged 6-12 are now '
+ 'familiar with the brand, reducing its marketing overhead; and a desire to '
+ 'shrink the number of corporate managers vs makers on its books as '
+ '&#8220;we&#8217;ve seen a stronger response to our first-party Kano products '
+ '&#8212; Computer Kit, Pixel Kit, Motion Sensor Kit &#8212; than expected '
+ 'this year&#8221;.</p>\\n<p>&#8220;We have brought on some roles that are '
+ 'more focused on this new platform [Kano PC], and some roles that were '
+ 'focused on the Raspberry Pi are no longer with us,&#8221; he also told '
+ 'TechCrunch.</p>\\n<p>Kano unveiled its <a '
+ 'href="https://techcrunch.com/2019/06/19/kano-the-kids-focused-coding-and-hardware-startup-inks-deal-with-microsoft-launches-300-kano-pc/">first '
+ 'Windows-based PC this fall</a>. The 11.6-inch touch-enabled, Intel '
+ 'Atom-powered computer costs $300 &#8212; which puts it in the ballpark '
+ 'price-range of Google&#8217;s Chromebook.</p>\\n<p>The tech giant has '
+ 'maintained a steady focus on the educational computing market &#8212; '
+ 'putting a competitive squeeze on smaller players like Kano who are trying to '
+ 'carve out a business selling their own brand of STEM-focused hardware. '
+ 'Against the <a class="crunchbase-link" '
+ 'href="https://crunchbase.com/organization/google" target="_blank" '
+ 'data-type="organization" data-entity="google">Google <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> Goliath, Klein touts '
+ 'factors such as relative repairability and attention to computing '
+ 'performance for the Kano PC (which he claims is &#8220;on a par with the '
+ 'Surface Go&#8221;), in addition to having now thrown its lot in with rival '
+ 'giant, Microsoft.</p>\\n<p>&#8220;The more and more we got into school '
+ 'environments the more and more we were in conversations with major North '
+ 'American distributors to schools, the more we saw that people wanted that '
+ '&#8216;DIY&#8217;&#8230; product design, they wanted the hackability and '
+ 'extensibility of the kit, they wanted the tools to be open source and '
+ 'manipulable but they also wanted to be able to run Photoshop and to run '
+ 'Class Dashboard and to run <a class="crunchbase-link" '
+ 'href="https://crunchbase.com/organization/microsoft" target="_blank" '
+ 'data-type="organization" data-entity="microsoft">Microsoft <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> Office. And so that was '
+ 'when we struck the partnership with Microsoft,&#8221; said '
+ 'Klein.</p>\\n<p>&#8220;The Windows computer is packed with content and '
+ 'curriculum for teachers and an integration with Microsoft Teams which '
+ 'requires a different sort of development capability,&#8221; he '
+ 'added.</p>\\n<p>&#8220;The roles we&#8217;re adding are around subscription, '
+ 'they&#8217;re around the computer, building new applications and tools for '
+ 'the computer and continuing to enrich the number of projects that are '
+ 'available for our members now &#8212; so we&#8217;re doing things like '
+ 'allowing people to connect the sensors in their wands to household IoT '
+ 'devices. We&#8217;re introducing, over the Christmas period, a new '
+ 'collaborative drawing app.&#8221;</p>\\n<p>According to Klein, Kano is '
+ '&#8220;already seeing demand for 60,000 units in this next calendar '
+ 'year&#8221; for its Windows-based PC &#8212; which he said is &#8220;well '
+ 'beyond what we expect&#8230; given the price-point&#8221;.</p>\\n<p>Although '
+ 'he did not put a figure on exact sales to date of the Kano PC.</p>\\n<p>He '
+ 'also\\xa0<span style="font-size: 1.125rem; letter-spacing: '
+ '-0.1px;">confirmed </span>Kano will be dialling back the range of products '
+ 'it offers next year.</p>\\n<p>It recently emerged that an own-brand camera '
+ 'device, which Kano first trailed back in <a '
+ 'href="https://techcrunch.com/2016/09/27/kano-moves-beyond-pi-with-code-your-own-device-kits-for-kids/">2016</a>, '
+ 'will not now be shipping. Klein also told us that another co-branded Disney '
+ 'product they&#8217;d been planning for 2020 is being &#8220;put back&#8221; '
+ '&#8212; with no new date for release as yet.</p>\\n<p>Klein denied sales '
+ 'have been lacklustre &#8212; claiming the current <a '
+ 'href="https://techcrunch.com/2019/01/15/kano-will-start-releasing-star-wars-and-other-disney-branded-products-later-this-year/"><em>Star '
+ 'War</em>s and <em>Frozen</em> e-products</a> have &#8220;done enough for '
+ 'us&#8221;. (While a co-branded <em>Harry Potter</em> e-wand is selling '
+ 'faster than expected, per Klein, who said they had expected to have stock '
+ 'until March but are &#8220;selling out&#8221;.)</p>\\n<p>&#8220;The '
+ 'reorganization we&#8217;ve done has nothing to do with growth and '
+ 'users,&#8221; he told us. &#8220;We are on track to sell through more units '
+ 'as well as products at a higher average selling price this fiscal year. '
+ 'We&#8217;re selling out of wands when we expected to have stock all the way '
+ 'to March. We have more pre-launch demand for the Kano PC than anything '
+ 'we&#8217;ve ever done.&#8221;</p>\\n<p>Of the additional, co-branded Disney '
+ 'e-product which is being delayed &#8212; and may not now launch at all next '
+ 'year &#8212; Klein told us: &#8220;The fact is we&#8217;re in negotiations '
+ 'with Disney around this &#8212; and around the timing of it. Given that '
+ 'we&#8217;re not certain we&#8217;re going to be doing it in 2020 some of the '
+ 'contractor roles in particular that we brought on to do the licensing sign '
+ 'off pieces, to develop some of the content around those brands, some of the '
+ 'apparatus set up to manage those partnerships &#8212; we don&#8217;t need '
+ 'any more.&#8221;</p>\\n<p>&#8220;We introduced three new hardware SKUs this '
+ 'year. I don&#8217;t think we&#8217;ll do three new hardware SKUs next '
+ 'year,&#8221; he added, confirming the intention is to trim the number of '
+ 'device launches in 2020 to focus on the Kano PC.</p>\\n<p>One source we '
+ 'spoke to suggested Kano is considering sunsetting its partner strategy '
+ 'entirely. However Klein did not go that far in his comments to '
+ 'us.</p>\\n<p>&#8220;We&#8217;ve been riding a certain bear for a few years. '
+ 'We&#8217;re jumping to a new bear. That&#8217;s always going to create a bit '
+ 'of exhilaration. But I think this is a place of real promise,&#8221; was how '
+ 'he couched the pivot.</p>\\n<p>&#8220;I think what Kano does better than '
+ 'anyone else in the world is crafting an experience around technology that '
+ 'opens up its attributes to a wider audience,&#8221; Klein also said when '
+ 'asked whether hardware or software will be its main focus going forward. '
+ '&#8220;The hardware element is crucial and beautiful and we make some of the '
+ 'world&#8217;s most interesting dynamic physical products. It&#8217;s an '
+ 'often told story that hardware&#8217;s very hard and is brutal &#8212; and '
+ 'yeah, because if you get it right you change the fabric of '
+ 'society.</p>\\n<p>&#8220;It&#8217;s hard for me to draw a line between '
+ 'hardware and software for the business because we&#8217;ve always been asked '
+ 'that and seven years into the business we&#8217;ve found the greatest things '
+ 'that people do with the products&#8230; it&#8217;s always when there&#8217;s '
+ 'a combination of the two. So we&#8217;re proud that we&#8217;re good at '
+ 'combining the two and we&#8217;re going to continue to do '
+ 'it.&#8221;</p>\\n<p>The STEM device space has been going through bumpy times '
+ 'in recent years as early hype and investment has failed to translate into '
+ 'sustained revenues at every twist and turn.</p>\\n<p>The category is '
+ 'certainly filled with challenges &#8212; from low barrier to entry leading '
+ 'to plentiful (if varied quality) competition, to the demands of building '
+ 'safe, robust and appealing products for (fickle) kids that tightly and '
+ 'reliably integrate hardware and software, to checking all the relevant boxes '
+ 'and processes to win over teachers and support schools&#8217; curriculum '
+ 'requirements that&#8217;s essential for selling direct to the education '
+ 'market.</p>\\n<p>Given so many demands on STEM device makers it&#8217;s not '
+ 'surprising this year has seen a number of these startups exiting to other '
+ 'players and/or larger electronics makers &#8212; such as <a '
+ 'href="https://techcrunch.com/2019/08/23/sphero-is-buying-littlebits/">Sphero '
+ 'picking up littleBits</a>. A <a '
+ 'href="https://techcrunch.com/2018/01/21/sphero-lays-off-dozens-as-it-shifts-focus-to-education/">couple '
+ 'of years ago</a> Sphero went through its own pivot <a '
+ 'href="https://techcrunch.com/2018/12/18/sphero-is-finished-making-star-wars-products/">away '
+ 'from selling co-branded Disney</a> &#8216;learn to code&#8217; gizmos to '
+ 'zoom in on the education space.</p>\\n<p>While another UK-based STEM device '
+ 'maker &#8212; <a '
+ 'href="https://techcrunch.com/2019/08/22/reliability-concerns-raised-over-pi-tops-stem-learning-laptop/">pi-top</a> '
+ '&#8212; has also been <a '
+ 'href="https://techcrunch.com/2019/08/12/london-edtech-startup-pi-top-sees-layoffs-after-major-contract-loss/">through</a> '
+ '<a '
+ 'href="https://techcrunch.com/2019/11/15/more-layoffs-at-pivoting-london-edtech-startup-pi-top/">several '
+ 'rounds of layoffs</a> recently, apparently as part of its own pivot to the '
+ 'U.S. edtech market.</p>\\n<p>More consolidation in the category seems highly '
+ 'likely. And given the new relationship between Kano and Microsoft joining '
+ 'Redmond, via acquisition, may be the obvious end point for the '
+ 'startup.</p>\\n<p>Per the <em>Telegraph</em>&#8216;s report, Kano is in the '
+ 'process of looking to raise more funding. However Klein did not comment when '
+ 'asked to confirm the company&#8217;s funding situation.</p>\\n<p>The startup '
+ 'last reported a raise just over <a '
+ 'href="https://techcrunch.com/2017/11/01/kano-raises-28m-as-its-its-kid-friendly-computer-kits-hit-4500-stores/">two '
+ 'years ago</a> &#8212; when it closed a $28M Series B round led by Thames '
+ 'Trust and Breyer Capital. Index Ventures, the Stanford Engineering Venture '
+ 'Fund, LocalGlobe, Marc Benioff, John Makinson, Collaborative Fund, Triple '
+ 'Point Capital, and Barclays also '
+ 'participated.</p>\\n<p><em>TechCrunch&#8217;s Ingrid Lunden contributed to '
+ 'this report</em></p>\\n<p><em>We updated this report to correct a typo in '
+ 'the founder&#8217;s surname\\xa0</em></p>\\n<div class="embed '
+ 'breakout">\\n<blockquote class="wp-embedded-content" '
+ 'data-secret="UsNHj3UMSs"><p><a '
+ 'href="https://techcrunch.com/2019/11/26/gift-guide-stem-toys-for-your-builders-in-training/">Gift '
+ 'Guide: STEM toys for your '
+ 'builders-in-training</a></p></blockquote>\\n<p><iframe title="&#8220;Gift '
+ 'Guide: STEM toys for your builders-in-training&#8221; &#8212; TechCrunch" '
+ 'class="wp-embedded-content" sandbox="allow-scripts" security="restricted" '
+ 'style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" '
+ 'src="https://techcrunch.com/2019/11/26/gift-guide-stem-toys-for-your-builders-in-training/embed/#?secret=UsNHj3UMSs" '
+ 'data-secret="UsNHj3UMSs" width="800" height="450" frameborder="0" '
+ 'marginwidth="0" marginheight="0" scrolling="no"></iframe></div>\\n<img '
+ 'src="http://feeds.feedburner.com/~r/TechCrunch/Amazon/~4/_9WsEhrU9X8" '
+ 'height="1" width="1" alt=""/>\'}], \'wfw_commentrss\': '
+ "'https://techcrunch.com/2019/12/16/kid-focused-stem-device-startup-kano-sees-layoffs-as-it-puts-disney-e-device-on-ice/feed/', "
+ "'slash_comments': '0', 'post-id': '1924360', 'feedburner_origlink': "
+ "'https://techcrunch.com/2019/12/16/kid-focused-stem-device-startup-kano-sees-layoffs-as-it-puts-disney-e-device-on-ice/'}, "
+ "{'title': 'Amazon launches Audible Suno free app featuring short-stories in "
+ "India', 'title_detail': {'type': 'text/plain', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': 'Amazon launches "
+ "Audible Suno free app featuring short-stories in India'}, 'links': [{'rel': "
+ "'alternate', 'type': 'text/html', 'href': "
+ "'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/b-StG03uCAs/'}], "
+ "'link': 'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/b-StG03uCAs/', "
+ "'comments': "
+ "'https://techcrunch.com/2019/12/12/amazon-audible-suno-india/#respond', "
+ "'published': 'Thu, 12 Dec 2019 16:23:45 +0000', 'published_parsed': "
+ 'time.struct_time(tm_year=2019, tm_mon=12, tm_mday=12, tm_hour=16, tm_min=23, '
+ "tm_sec=45, tm_wday=3, tm_yday=346, tm_isdst=0), 'authors': [{'name': 'Manish "
+ "Singh'}], 'author': 'Manish Singh', 'author_detail': {'name': 'Manish "
+ "Singh'}, 'tags': [{'term': 'Apps', 'scheme': None, 'label': None}, {'term': "
+ "'Asia', 'scheme': None, 'label': None}, {'term': 'Media', 'scheme': None, "
+ "'label': None}, {'term': 'Mobile', 'scheme': None, 'label': None}, {'term': "
+ "'Amazon', 'scheme': None, 'label': None}, {'term': 'Audible', 'scheme': "
+ "None, 'label': None}, {'term': 'india', 'scheme': None, 'label': None}], "
+ "'id': 'https://techcrunch.com/?p=1923755', 'guidislink': False, 'summary': "
+ "'Amazon is having another go at expanding its reach to listeners in India. "
+ 'The company, which launched pay-to-use Audible in the country last year, '
+ 'today introduced a new service called Audible Suno that offers free access '
+ 'to �hundreds of hours of audio entertainment, enlightenment and learning.� '
+ "And it�s banking on major Indian celebrities to draw [&#8230;]', "
+ "'summary_detail': {'type': 'text/html', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': 'Amazon is having "
+ 'another go at expanding its reach to listeners in India. The company, which '
+ 'launched pay-to-use Audible in the country last year, today introduced a new '
+ 'service called Audible Suno that offers free access to �hundreds of hours of '
+ 'audio entertainment, enlightenment and learning.� And it�s banking on major '
+ "Indian celebrities to draw [&#8230;]'}, 'content': [{'type': 'text/html', "
+ "'language': None, 'base': 'http://feeds.feedburner.com/TechCrunch/Amazon', "
+ '\'value\': \'<p id="speakable-summary"><a class="crunchbase-link" '
+ 'href="https://crunchbase.com/organization/amazon" target="_blank" '
+ 'data-type="organization" data-entity="amazon">Amazon <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> is having another go at '
+ 'expanding its reach to listeners in India. The company, which launched '
+ 'pay-to-use Audible in the country last year, today introduced a new service '
+ 'called <a href="https://www.audible.in/ep/suno">Audible Suno</a> that offers '
+ 'free access to �hundreds of hours of audio entertainment, enlightenment and '
+ 'learning.�</p>\\n<p>And it�s banking on major Indian celebrities to draw the '
+ 'listeners.</p>\\n<p><a class="crunchbase-link" '
+ 'href="https://crunchbase.com/organization/audible" target="_blank" '
+ 'data-type="organization" data-entity="audible">Audible <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> Suno, which is exclusively '
+ 'available to users in India, features more than 60 original and exclusive '
+ 'episodes (of 20 to 60 minutes in length) in both Hindi and English '
+ 'languages. Audible, the world�s largest seller and producer of audio '
+ 'content, said Suno is aimed at filling the �idle time� listeners have each '
+ 'day during their commutes and performing other daily chores.</p>\\n<p>The '
+ 'company says Audible Suno, available to users through a dedicated Android '
+ 'app and via iOS Audible app, is also free of advertisements.</p>\\n<p>The '
+ 'launch of Audible Suno in India illustrates the commitment the company has '
+ 'in the country, said Audible founder and chief executive Don Katz. Amazon '
+ 'has invested more than $5.5 billion in its business in India to date. The '
+ 'company�s <a '
+ 'href="https://techcrunch.com/2019/10/09/amazon-walmart-confront-indias-slowing-economy-as-holiday-season-growth-slows/">tentacles '
+ 'today reach a number of categories</a> in the country, including e-commerce, '
+ 'payments, <a '
+ 'href="https://techcrunch.com/2019/11/02/movie-tickets-india-amazon/">online '
+ 'ticketing business</a>, video and audio streaming and <a '
+ 'href="https://techcrunch.com/2019/11/25/shuttl-india-bus-aggregator/">VC '
+ 'deals</a>.</p>\\n<p>�I�ve always been passionate about the transformative '
+ 'power of the spoken word, and I�m delighted to be able to offer this breadth '
+ 'of famous voices and culturally resonant genres with unlimited access, '
+ 'ad-free and free of charge,� said Katz.</p>\\n<p>Who are these famous voices '
+ 'you ask? Here�s the list: Amitabh Bachchan, Katrina Kaif, Karan Johar, Anil '
+ 'Kapoor, Farhan Akhtar, Mouni Roy, Anurag Kashyap, Neelesh Misra, Tabu, '
+ 'Nawazuddin Siddiqui, Diljit Dosanjh, Vir Das and Vicky '
+ 'Kaushal.</p>\\n<p>Audible Suno currently offers shows in a range of genres, '
+ 'including horror (Kaali Awaazein), romance and relationships (Matrimonial '
+ 'Anonymous and Piya Milan Chowk), suspense (Thriller Factory) and comedy '
+ 'series (The Unexperts by Abish Mathew). Non-fiction series include '
+ 'interviews with some of the country�s biggest stars, and socially relevant '
+ 'subjects such as mental health, sex education and the rights of the LGBTQI+ '
+ 'community.</p>\\n<div class="embed breakout">\\n<blockquote '
+ 'class="wp-embedded-content" data-secret="oaOKS3Sm36"><p><a '
+ 'href="https://techcrunch.com/2019/02/19/amazons-audible-expands-its-original-programming-with-new-comedy-series/">Amazon&#8217;s '
+ 'Audible expands its original programming with new comedy '
+ 'series</a></p></blockquote>\\n<p><iframe title="&#8220;Amazon&#8217;s '
+ 'Audible expands its original programming with new comedy series&#8221; '
+ '&#8212; TechCrunch" class="wp-embedded-content" sandbox="allow-scripts" '
+ 'security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, '
+ '1px);" '
+ 'src="https://techcrunch.com/2019/02/19/amazons-audible-expands-its-original-programming-with-new-comedy-series/embed/#?secret=oaOKS3Sm36" '
+ 'data-secret="oaOKS3Sm36" width="800" height="450" frameborder="0" '
+ 'marginwidth="0" marginheight="0" scrolling="no"></iframe></div>\\n<img '
+ 'src="http://feeds.feedburner.com/~r/TechCrunch/Amazon/~4/b-StG03uCAs" '
+ 'height="1" width="1" alt=""/>\'}], \'wfw_commentrss\': '
+ "'https://techcrunch.com/2019/12/12/amazon-audible-suno-india/feed/', "
+ "'slash_comments': '0', 'post-id': '1923755', 'feedburner_origlink': "
+ "'https://techcrunch.com/2019/12/12/amazon-audible-suno-india/'}, {'title': "
+ "'Chatbots spotlight machine learning�s trillion-dollar potential', "
+ "'title_detail': {'type': 'text/plain', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': 'Chatbots "
+ "spotlight machine learning�s trillion-dollar potential'}, 'links': [{'rel': "
+ "'alternate', 'type': 'text/html', 'href': "
+ "'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/bISkoepzSRA/'}], "
+ "'link': 'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/bISkoepzSRA/', "
+ "'comments': "
+ "'https://techcrunch.com/2019/12/12/chatbots-spotlight-machine-learnings-trillion-dollar-potential/#respond', "
+ "'published': 'Thu, 12 Dec 2019 15:26:07 +0000', 'published_parsed': "
+ 'time.struct_time(tm_year=2019, tm_mon=12, tm_mday=12, tm_hour=15, tm_min=26, '
+ "tm_sec=7, tm_wday=3, tm_yday=346, tm_isdst=0), 'authors': [{'name': 'Walter "
+ "Thompson'}], 'author': 'Walter Thompson', 'author_detail': {'name': 'Walter "
+ "Thompson'}, 'tags': [{'term': 'Artificial Intelligence', 'scheme': None, "
+ "'label': None}, {'term': 'Column', 'scheme': None, 'label': None}, {'term': "
+ "'Accenture', 'scheme': None, 'label': None}, {'term': 'Amazon', 'scheme': "
+ "None, 'label': None}, {'term': 'artificial intelligence', 'scheme': None, "
+ "'label': None}, {'term': 'Bank of America', 'scheme': None, 'label': None}, "
+ "{'term': 'Banking', 'scheme': None, 'label': None}, {'term': 'chatbots', "
+ "'scheme': None, 'label': None}, {'term': 'Cortana', 'scheme': None, 'label': "
+ "None}, {'term': 'financial services', 'scheme': None, 'label': None}, "
+ "{'term': 'Google', 'scheme': None, 'label': None}, {'term': 'Instant "
+ "Messaging', 'scheme': None, 'label': None}, {'term': 'Messenger', 'scheme': "
+ "None, 'label': None}, {'term': 'Microsoft', 'scheme': None, 'label': None}, "
+ "{'term': 'PWC', 'scheme': None, 'label': None}, {'term': 'ray kurzweil', "
+ "'scheme': None, 'label': None}, {'term': 'retail', 'scheme': None, 'label': "
+ "None}, {'term': 'Salesforce', 'scheme': None, 'label': None}, {'term': "
+ "'Zendesk', 'scheme': None, 'label': None}], 'id': "
+ "'https://techcrunch.com/?p=1923365', 'guidislink': False, 'summary': 'The "
+ 'directional trends are clear: chatbots are an important component of our '
+ "AI-driven future, and the C-suite is taking notice.', 'summary_detail': "
+ "{'type': 'text/html', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': 'The directional "
+ 'trends are clear: chatbots are an important component of our AI-driven '
+ "future, and the C-suite is taking notice.'}, 'content': [{'type': "
+ "'text/html', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': '<div "
+ 'class="article__contributor-byline-wrapper">\\n<div '
+ 'class="article__contributor-byline">\\n\\t<div '
+ 'class="contributor-byline__contributor">\\n\\t\\t<div '
+ 'class="byline__author">\\n\\t\\t\\t\\t\\t\\t\\t<span '
+ 'class="byline__author-name">Gustavo Par�s</span>\\n\\t\\t\\t\\t\\t\\t<span '
+ 'class="byline__author-title" style="display: '
+ 'block;">Contributor</span>\\n\\t\\t</div>\\n\\n\\t\\t\\t\\t<div '
+ 'class="contributor__twitter">\\n\\t\\t\\t<a target="_blank" '
+ 'href="https://twitter.com/NDSCognitiveLab">\\n\\t\\t\\t\\t\\t<svg '
+ 'class="icon icon--twitter icon--white" viewBox="0 0 20 20" version="1.1" '
+ 'aria-labelledby="title">\\n\\t\\t<title>Share on '
+ 'Twitter</title>\\n\\t\\t<path '
+ 'd="M20,4c-0.7,0.3-1.5,0.6-2.4,0.7c0.9-0.5,1.5-1.4,1.8-2.3c-0.8,0.5-1.7,0.8-2.6,1C16.1,2.5,15,2,13.8,2c-2.3,0-4.1,1.9-4.1,4.2c0,0.3,0,0.7,0.1,1C6.4,7,3.4,5.4,1.4,2.9C1,3.5,0.8,4.1,0.8,4.9c0,1.4,0.7,2.7,1.8,3.5C2,8.4,1.4,8.2,0.8,7.9v0.1c0,2,1.4,3.7,3.3,4.1c-0.4,0.1-0.7,0.2-1.1,0.2c-0.3,0-0.5,0-0.8-0.1c0.5,1.7,2,2.9,3.8,2.9c-1.4,1.1-3.2,2-5.1,2c-0.3,0-0.7,0-1-0.1c1.8,1.2,4,1.7,6.3,1.7c7.5,0,11.7-6.4,11.7-12V6.1C18.8,5.6,19.4,4.8,20,4z"/>\\t</svg>\\n\\t\\t\\t\\t</a>\\n\\t\\t</div>\\n\\t\\t\\t</div>\\n\\n\\t\\t<div '
+ 'class="contributor-byline__bio">\\n\\t\\tGustavo Par�s is CEO of <a '
+ 'href="https://ndscognitivelabs.com/">NDS Cognitive Labs</a>, a leader in '
+ 'cognitive computing and AI business solutions. A Professor at Instituto '
+ "Tecnol�gico y de Estudios Superiores de Monterrey (ITESM), he\\'s partnered "
+ 'with Microsoft, IBM and Google to deliver digital transformation and '
+ 'cognitive technology services.\\t</div>\\n\\t\\n\\t</div>\\n</div><p '
+ 'id="speakable-summary">The global industry potential of artificial '
+ 'intelligence is well-documented, yet the vision of this AI future is '
+ 'uncertain.</p>\\n<p>AI and automation trends are generating significant '
+ 'debate among economists and governments, particularly around employment '
+ 'impact and uncertain social outcomes. The mainstream attention is warranted. '
+ 'According to <a class="crunchbase-link" '
+ 'href="https://crunchbase.com/organization/pwc" target="_blank" '
+ 'data-type="organization" data-entity="pwc">PwC, <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> AI �could contribute up '
+ 'to\\xa0<a '
+ 'href="https://www.pwc.com/gx/en/issues/analytics/assets/pwc-ai-analysis-sizing-the-prize-report.pdf" '
+ 'data-saferedirecturl="https://www.google.com/url?q=https://www.pwc.com/gx/en/issues/analytics/assets/pwc-ai-analysis-sizing-the-prize-report.pdf&amp;source=gmail&amp;ust=1576224577930000&amp;usg=AFQjCNE3XYmvOfkofENN8UaSBsi3CJ2lJQ">$15.7 '
+ 'trillion to the global economy in 2030</a>, more than the current output of '
+ 'China and India combined.�</p>\\n<p>AI is at a crossroads, and its long-term '
+ 'outlook is still hotly debated. Despite social media giants, automotive '
+ 'companies and numerous other industries investing hundreds of billions of '
+ 'dollars in AI, many automation technologies are not yet directly generating '
+ 'revenue and instead are forecasted to become profitable in the coming '
+ 'decades. This creates additional uncertainty of AI�s true market potential. '
+ 'The realistic potential value of AI is unknown, yet, as the technology '
+ 'advances, the ultimate impact could be of great consequence to virtually '
+ 'every economy.</p>\\n<p>There are many reasons to view AI�s future from an '
+ 'optimistic lens, however: chatbots provide significant\\xa0evidence for AI�s '
+ 'positive impact\\xa0on both business growth and employment markets. Today, '
+ 'chatbots are increasingly capable of mimicking human interactions and '
+ 'conversations to assist business-to-business, business-to-consumer, '
+ 'business-to-government, advertising audiences and other diverse groups. The '
+ 'evolution of the cognitive computer science behind conversational chatbots '
+ 'is perhaps one of the best examples of AI technologies driving revenue. '
+ 'Further, chatbot technology shows some of the greatest promise for '
+ 'augmenting, rather than replacing human workers.</p>\\n<h2><strong>AI is '
+ 'driving value while augmenting human workers</strong></h2>\\n<p><a '
+ 'class="crunchbase-link" href="https://crunchbase.com/organization/chatbots" '
+ 'target="_blank" data-type="organization" data-entity="chatbots">Chatbots '
+ '<span class="crunchbase-tooltip-indicator"></span></a> are delivering real '
+ 'revenue today for some of the world�s leading financial services (<a '
+ 'class="crunchbase-link" '
+ 'href="https://crunchbase.com/organization/bank-of-america" target="_blank" '
+ 'data-type="organization" data-entity="bank-of-america">Bank of America), '
+ '<span class="crunchbase-tooltip-indicator"></span></a> retail (Levi�s), and '
+ 'technology companies (<a class="crunchbase-link" '
+ 'href="https://crunchbase.com/organization/zendesk" target="_blank" '
+ 'data-type="organization" data-entity="zendesk">Zendesk) <span '
+ 'class="crunchbase-tooltip-indicator"></span></a>.\\xa0We�re seeing more '
+ 'consumers taking the next step in a transaction or even making a purchase '
+ 'decision based off conversations with chatbots. Beyond driving sales, '
+ 'chatbots have numerous applications to a wide range of organizations. '
+ 'Nonprofits, NGOs, and even political campaigns find value in deploying '
+ 'chatbots to help handle the influx of inquiries from stakeholders and '
+ 'relevant audiences.</p>\\n<p>Rather than these chatbots replacing human '
+ 'workers, organizations are finding chatbots to be a helpful and '
+ 'value-creating opportunity that frees employees to focus on more strategic '
+ 'tasks. Apple�s Siri, <a class="crunchbase-link" '
+ 'href="https://crunchbase.com/organization/amazon" target="_blank" '
+ 'data-type="organization" data-entity="amazon">Amazon <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> Alexa and Microsoft Cortana '
+ 'aren�t replacing executive assistants today, but these technologies are all '
+ 'capable of supporting the executive assistant function in the '
+ 'workplace.</p>\\n<p>Gartner predicts AI augmentation, defined as a '
+ '�human-centered partnership model of people and AI working together to '
+ 'enhance cognitive performance,� could generate<a '
+ 'href="https://www.gartner.com/en/newsroom/press-releases/2019-08-05-gartner-says-ai-augmentation-will-create-2point9-trillion-of-business-value-in-2021" '
+ 'data-saferedirecturl="https://www.google.com/url?q=https://www.gartner.com/en/newsroom/press-releases/2019-08-05-gartner-says-ai-augmentation-will-create-2point9-trillion-of-business-value-in-2021&amp;source=gmail&amp;ust=1576224577930000&amp;usg=AFQjCNGY_dvKJqRS436v4nx1axoatI_dfQ">\\xa0$2.9 '
+ 'trillion of business value</a>\\xa0by 2021. Many industries see potential '
+ 'for chatbots to augment functions like sales, customer support and IT, '
+ 'enabling workers to create value in more strategic ways. Bain &amp; '
+ 'Company\\xa0<a '
+ 'href="https://www.bain.com/insights/customer-experience-tools-artificial-intelligence/" '
+ 'data-saferedirecturl="https://www.google.com/url?q=https://www.bain.com/insights/customer-experience-tools-artificial-intelligence/&amp;source=gmail&amp;ust=1576224577930000&amp;usg=AFQjCNEnW-sDOBgAP2W_qqyjBRZSPXGVqg">finds '
+ 'chatbots</a>\\xa0to be among the most notable examples of artificial '
+ 'intelligence and automation in practice: �Companies use AI applications to '
+ 'understand industry trends, manage their workforce, address problems, power '
+ 'chatbots and personalize content to enable self-service.�</p>\\n<p>Clearly, '
+ 'the implications of scaled, human-like engagement are stunning in their '
+ 'capacity to carry out tasks. A chatbot�s ability to simultaneously hold tens '
+ 'of thousands of conversations � pulling from many millions of data points � '
+ 'is comparable to what a human customer service rep could accomplish in more '
+ 'than 1,000 years of nonstop work. Scaling customer service via AI allows '
+ 'service professionals to focus on big picture and more complex issues, and '
+ 'it provides rich data on customer interactions. We anticipate seeing more '
+ 'companies look to build better customer service experiences through '
+ 'chatbots, <a '
+ 'href="https://techcrunch.com/2019/04/10/salesforce-and-google-want-to-build-a-smarter-customer-service-experience/" '
+ 'data-saferedirecturl="https://www.google.com/url?q=https://techcrunch.com/2019/04/10/salesforce-and-google-want-to-build-a-smarter-customer-service-experience/&amp;source=gmail&amp;ust=1576224577930000&amp;usg=AFQjCNEIsVavxfBjorcufeVm7YR_xPDBxA">as '
+ 'Google and Salesforce announced in April</a>.</p>\\n<h2><strong>The '
+ 'transformative impact of chatbots across industries</strong></h2>\\n<p>From '
+ 'our research and work with leading global companies, it�s clear that '
+ 'enterprises are finding that chatbots bring about tremendous value while '
+ 'supporting both people employment and long-term business growth '
+ 'opportunities today. Ultimately, chatbots are on track to showcase some of '
+ 'the most optimistic examples of AI augmentation. Consider three '
+ 'examples:<div class="extra-crunch-offer-container"></div><img '
+ 'src="http://feeds.feedburner.com/~r/TechCrunch/Amazon/~4/bISkoepzSRA" '
+ 'height="1" width="1" alt=""/>\'}], \'wfw_commentrss\': '
+ "'https://techcrunch.com/2019/12/12/chatbots-spotlight-machine-learnings-trillion-dollar-potential/feed/', "
+ "'slash_comments': '0', 'post-id': '1923365', 'feedburner_origlink': "
+ "'https://techcrunch.com/2019/12/12/chatbots-spotlight-machine-learnings-trillion-dollar-potential/'}, "
+ "{'title': 'Klarna CEO says �maybe� of taking public Europe�s most valuable "
+ "fintech next year (but he�s not ruling out another round, either)', "
+ "'title_detail': {'type': 'text/plain', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': 'Klarna CEO says "
+ '�maybe� of taking public Europe�s most valuable fintech next year (but he�s '
+ "not ruling out another round, either)'}, 'links': [{'rel': 'alternate', "
+ "'type': 'text/html', 'href': "
+ "'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/OO_IpalzWJY/'}], "
+ "'link': 'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/OO_IpalzWJY/', "
+ "'comments': "
+ "'https://techcrunch.com/2019/12/12/klarna-ceo-taking-public-the-valuable-fintech0/#respond', "
+ "'published': 'Thu, 12 Dec 2019 14:25:01 +0000', 'published_parsed': "
+ 'time.struct_time(tm_year=2019, tm_mon=12, tm_mday=12, tm_hour=14, tm_min=25, '
+ "tm_sec=1, tm_wday=3, tm_yday=346, tm_isdst=0), 'authors': [{'name': 'Connie "
+ "Loizos'}], 'author': 'Connie Loizos', 'author_detail': {'name': 'Connie "
+ "Loizos'}, 'tags': [{'term': 'eCommerce', 'scheme': None, 'label': None}, "
+ "{'term': 'Finance', 'scheme': None, 'label': None}, {'term': 'Online "
+ "lending', 'scheme': None, 'label': None}, {'term': 'TC', 'scheme': None, "
+ "'label': None}, {'term': 'affirm', 'scheme': None, 'label': None}, {'term': "
+ "'Amazon', 'scheme': None, 'label': None}, {'term': 'Fintech', 'scheme': "
+ "None, 'label': None}, {'term': 'Klarna', 'scheme': None, 'label': None}, "
+ "{'term': 'PayPal', 'scheme': None, 'label': None}, {'term': 'sequoia "
+ "capital', 'scheme': None, 'label': None}], 'id': "
+ "'https://techcrunch.com/?p=1923309', 'guidislink': False, 'summary': "
+ "'Yesterday at TechCrunch Berlin, we sat down with Sebastian Siemiatkowski, "
+ 'the co-founder and CEO of Klarna, a 15-year-old company that&#8217;s '
+ 'currently the most highly valued privately held fintech in Europe, following '
+ 'a $460 million investment that pegged the company&#8217;s worth at $5.5 '
+ 'billion back in August. (Asked yesterday to confirm that the company has '
+ "raised [&#8230;]', 'summary_detail': {'type': 'text/html', 'language': None, "
+ "'base': 'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': 'Yesterday "
+ 'at TechCrunch Berlin, we sat down with Sebastian Siemiatkowski, the '
+ 'co-founder and CEO of Klarna, a 15-year-old company that&#8217;s currently '
+ 'the most highly valued privately held fintech in Europe, following a $460 '
+ 'million investment that pegged the company&#8217;s worth at $5.5 billion '
+ 'back in August. (Asked yesterday to confirm that the company has raised '
+ "[&#8230;]'}, 'content': [{'type': 'text/html', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': '<p "
+ 'id="speakable-summary">Yesterday at TechCrunch Berlin, we sat down with '
+ 'Sebastian Siemiatkowski, the co-founder and CEO of <a '
+ 'href="https://www.klarna.com">Klarna</a>, a 15-year-old company that&#8217;s '
+ 'currently the most highly valued privately held fintech in Europe, following '
+ 'a <a '
+ 'href="https://techcrunch.com/2019/08/06/klarna-raises-460-million-looks-to-expand-its-payments-presence-in-the-u-s/">$460 '
+ 'million</a> investment that pegged the company&#8217;s worth at $5.5 billion '
+ 'back in August. (Asked yesterday to confirm that the company has raised $<a '
+ 'href="https://www.crunchbase.com/organization/klarna">1.2 billion</a> '
+ 'altogether from investors, Siemiatkowski joked &#8212; without confirming '
+ 'the amount &#8212; &#8220;It sounds like you know better than I '
+ 'do.&#8221;)</p>\\n<p>Siemiatkowski came to the event largely to take the '
+ 'wraps off a <a '
+ 'href="https://www.prnewswire.co.uk/news-releases/klarna-opens-tech-hub-in-berlin-885625338.html">new</a> '
+ 'tech hub in Berlin that will house 500 employees in product and engineering. '
+ 'But we were far more interested in discussing the future of the company, '
+ 'which is best known for providing instant credit to online shoppers at the '
+ 'point of checkout and is growing fast, with nearly 3,000 employees across 17 '
+ 'countries. Klarna has also begun competing more aggressively in the U.S. '
+ '&#8212; as well as fending off a growing spate of competitors, from publicly '
+ 'traded<a href="https://www.afterpay.com/en-AU/index"> AfterPay</a> to Max '
+ 'Levchin&#8217;s <a href="https://www.affirm.com/">Affirm </a>to <a '
+ 'href="https://sezzle.com/">Sezzle</a>, a company in Minneapolis that '
+ 'seemingly appeared from out of the blue a few years ago.</p>\\n<p>Of course, '
+ 'the toughest competition of all may come from <a class="crunchbase-link" '
+ 'href="https://crunchbase.com/organization/amazon" target="_blank" '
+ 'data-type="organization" data-entity="amazon">Amazon <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> and Google, which are '
+ 'increasingly embedding their payment systems &#8212; Amazon Pay and and '
+ 'Google Pay &#8212; into the sites of merchants. We talked with Siemiatkowski '
+ 'about how <a class="crunchbase-link" '
+ 'href="https://crunchbase.com/organization/klarna" target="_blank" '
+ 'data-type="organization" data-entity="klarna">Klarna <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> survives as they gobble up '
+ 'more of the retail industry. We also asked about whether Amazon might be an '
+ 'acquirer, or whether Klarna might be eyeing an IPO in 2020 instead. You can '
+ 'check out our conversation below. It has been lightly edited for length and '
+ 'clarity.</p>\\n<p><strong>TC: The last time we sat down together was four '
+ 'years or so ago, when Klarna was best known for its checkout product. What '
+ 'are some of the ways in which the company has evolved since '
+ 'then?</strong></p>\\n<p>SS: There&#8217;s a massive opportunity. For '
+ 'consumers, when they shop online today, they have so many friction points. '
+ 'One of them might be the ability to get free credit without all the fees and '
+ 'things that people associate with credit cards. But there&#8217;s also other '
+ 'things like, where&#8217;s my package? When will it arrive? How do I do '
+ 'returns? Where are the best offers? Where are the best discounts? '
+ 'There&#8217;s a lot of things that people still struggle with. And so what '
+ 'we&#8217;re trying to do is create that super-smooth shopping experience, '
+ 'and the more problems we solve for these customers, the better, and the '
+ 'happier they are, and the more they&#8217;re going to use '
+ 'it.</p>\\n<p><strong>TC: Do you have any other financial products, like '
+ '[longer-term] loans?</strong></p>\\n<p>SS: We do direct type of payments '
+ 'like that. And then, in some countries here in Europe, we&#8217;ve already '
+ 'launched a plastic card, as well. So you can use this like that. And then we '
+ 'also do this kind of Mint.com-like financial dashboard that shows you your '
+ 'spending habits, and all that kind of stuff.</p>\\n<p><strong>TC: '
+ 'You&#8217;re adding this hub in Berlin, but you&#8217;re already in '
+ 'Germany&#8211;</strong></p>\\n<p>SS: Yes, Germany is actually our largest '
+ 'market. In Germany, we have about 30 million users, which, you know, takes '
+ 'us about 10 million ahead of that American wallet thing [<a '
+ 'class="crunchbase-link" href="https://crunchbase.com/organization/paypal" '
+ 'target="_blank" data-type="organization" data-entity="paypal">PayPal], <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> which is quite cool. So '
+ 'Germany is super important for us, but right now what&#8217;s exciting is '
+ 'the U.S., so right now we&#8217;re adding customers at a pace that will be '
+ 'about six million customers on an annual basis right now. So the U.S. is '
+ 'really taking off.</p>\\n<p><div id="attachment_1923897" style="width: '
+ '2058px" class="wp-caption alignnone"><img '
+ 'aria-describedby="caption-attachment-1923897" '
+ 'src="https://techcrunch.com/wp-content/uploads/2019/12/49204023052_6746bc21e0_k.jpg" '
+ 'class="breakout size-full wp-image-1923897" alt="" width="2048" '
+ 'height="1366" '
+ 'srcset="https://techcrunch.com/wp-content/uploads/2019/12/49204023052_6746bc21e0_k.jpg '
+ '2048w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/12/49204023052_6746bc21e0_k.jpg?resize=150,100 '
+ '150w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/12/49204023052_6746bc21e0_k.jpg?resize=300,200 '
+ '300w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/12/49204023052_6746bc21e0_k.jpg?resize=768,512 '
+ '768w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/12/49204023052_6746bc21e0_k.jpg?resize=680,454 '
+ '680w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/12/49204023052_6746bc21e0_k.jpg?resize=1536,1025 '
+ '1536w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/12/49204023052_6746bc21e0_k.jpg?resize=50,33 '
+ '50w" sizes="(max-width: 2048px) 100vw, 2048px" /><p '
+ 'id="caption-attachment-1923897" class="wp-caption-text">BERLIN, GERMANY '
+ '&#8211; DECEMBER 11: Co-founder and CEO of Klarna Sebastian Siemiatkowski '
+ 'and Connie Loizos speak on stage at TechCrunch Disrupt Berlin 2019 at Arena '
+ 'Berlin on December 11, 2019 in Berlin, Germany. (Photo by Noam Galai/Getty '
+ 'Images for TechCrunch)</p></div></p>\\n<p><strong>TC: This instant credit '
+ 'product is still the biggest producer of revenue?</strong></p>\\n<p>SS: Yes. '
+ 'If you look at those two things going on here, first is that millennials, in '
+ 'the U.S. and U.K., they don&#8217;t have credit cards, they have debit cards '
+ '&#8212; 70% of millennials in the U.S. only have debit cards. But '
+ 'they&#8217;re still looking sometimes to get a cash flow ease. What&#8217;s '
+ 'good about our services is it doesn&#8217;t cost a consumer anything, so '
+ 'it&#8217;s not like the old credit cards, which were really expensive for '
+ 'users.</p>\\n<p>It&#8217;s merchant-funded, so that allows the consumers to '
+ 'then sometimes be able to either ease their cash flow by paying in four '
+ 'installments, or try before they buy [meaning they can defer the payment for '
+ 'some period] and stuff like. People forget that people who have debit cards '
+ 'have much harder issues shopping online than people with credit cards, and '
+ 'that&#8217;s a big piece of what we&#8217;re solving '
+ 'for.</p>\\n<p><strong>TC: Do you always break the payments into four '
+ 'installments? Do you customize these plans?</strong></p>\\n<p>SS: Breaking '
+ '[into] four [payments] is great and that&#8217;s one option. What '
+ 'we&#8217;ve seen is that consumers have different needs, so some people '
+ 'really like our try-before-you-buy product [where] you pay nothing at the '
+ 'time but then [pay] everything 30 days later when you receive the products. '
+ 'Sometimes, if it&#8217;s a bigger purchase, like you&#8217;re buying a sofa '
+ 'or something, you split it over 24 months of financing or something like '
+ 'that, which is kind of different. And sometimes people just want to pay for '
+ 'everything instantly. So we just want to make sure that people have all the '
+ 'options that they want.</p>\\n<p><strong>TC: How much can users spend? '
+ 'What&#8217;s the upper boundary?</strong></p>\\n<p>SS: I&#8217;m sure there '
+ 'is one but it&#8217;s really hard to answer because it&#8217;s very '
+ 'individual, on an individual basis.</p>\\n<p><strong>TC: And to be clear, '
+ 'you&#8217;re buying these receivables from merchants at a discount? Is that '
+ 'how it works?</strong></p>\\n<p>SS: Basically, the merchant sets up with us, '
+ 'they pay us a merchant fee just like they do with PayPal or somebody else. '
+ 'Then we process the payments for them, and we take the full risk, and all '
+ 'the customer care and everything related to the '
+ 'transaction.</p>\\n<p><strong>TC: I&#8217;m assuming you&#8217;re not using '
+ 'your [venture funding] to do this. You have a bank charter in Sweden . . '
+ '.</strong></p>\\n<p>SS: Yes, we&#8217;re a fully licensed bank and we have '
+ 'deposits to fund the balance sheet. So people in Germany can actually save '
+ 'with Klarna and get 1%, which doesn&#8217;t sound like a lot, but it&#8217;s '
+ 'massively more than they get with any of the traditional banks in '
+ 'Germany.</p>\\n<p><strong>TC: What about interest fees and late fees? How do '
+ 'those work?</strong></p>\\n<p>SS: Basically, we keep them extremely low. '
+ 'There are sometimes if you&#8217;re late, there might be a late fee, but the '
+ 'whole purpose here is that it&#8217;s merchant-funded. So merchants pay for '
+ 'this, and the consumers get a much better product than the traditional '
+ 'credit card or other options.</p>\\n<p><strong>TC: What&#8217;s the default '
+ 'rate?</strong></p>\\n<p>SS: Super low. If you look at overall Klarna, for '
+ 'all markets, it&#8217;s less than 1%.</p>\\n<p><strong>TC: There is a '
+ 'competitor of yours, AfterPay, that was criticized last year because '
+ 'something like a quarter of its revenue was coming from late payments. Where '
+ '[is your revenue coming from]?</strong></p>\\n<p>SS: Most of it is coming '
+ 'from merchant fees, and late fees in general are never bigger than the '
+ 'losses that you&#8217;re making. But I think it&#8217;s definitely an '
+ 'important topic, where all the companies in this industry need to be very '
+ 'careful about how you set up your products.</p>\\n<p>I think Klarna &#8212; '
+ 'maybe because we&#8217;ve been around longer than the competitor '
+ 'you&#8217;re referring to and because we&#8217;re five times their size in '
+ 'totality &#8212; maybe we have just come a little bit further in how we '
+ 'think about consumer value and making sure that fees are right and so forth. '
+ 'So those are important topics to keep an eye on. But I also think that '
+ 'what&#8217;s even more important is that you have this credit card industry, '
+ 'which in general has charged massive interest rates, a lot of late fees, and '
+ 'been not a very transparent and great industry. And I think, actually, the '
+ 'big opportunity is for people like us, and the one you refer to and others, '
+ 'to disrupt that industry. It&#8217;s the credit card industry that '
+ 'we&#8217;re going after.</p>\\n<p><strong>TC: Sure, and I&#8217;m not going '
+ 'to defend the credit card industry, but did you say what your interest fees '
+ 'are?</strong></p>\\n<p>SS: It depends on an individual basis, but it&#8217;s '
+ 'definitely lower than the average credit card fee.</p>\\n<p><div '
+ 'id="attachment_1923896" style="width: 2058px" class="wp-caption '
+ 'alignnone"><img aria-describedby="caption-attachment-1923896" '
+ 'src="https://techcrunch.com/wp-content/uploads/2019/12/49203810891_495bc1ffa1_k.jpg" '
+ 'class="breakout size-full wp-image-1923896" alt="" width="2048" '
+ 'height="1365" '
+ 'srcset="https://techcrunch.com/wp-content/uploads/2019/12/49203810891_495bc1ffa1_k.jpg '
+ '2048w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/12/49203810891_495bc1ffa1_k.jpg?resize=150,100 '
+ '150w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/12/49203810891_495bc1ffa1_k.jpg?resize=300,200 '
+ '300w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/12/49203810891_495bc1ffa1_k.jpg?resize=768,512 '
+ '768w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/12/49203810891_495bc1ffa1_k.jpg?resize=680,453 '
+ '680w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/12/49203810891_495bc1ffa1_k.jpg?resize=1536,1024 '
+ '1536w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/12/49203810891_495bc1ffa1_k.jpg?resize=50,33 '
+ '50w" sizes="(max-width: 2048px) 100vw, 2048px" /><p '
+ 'id="caption-attachment-1923896" class="wp-caption-text">BERLIN, GERMANY '
+ '&#8211; DECEMBER 11: Co-founder and CEO of Klarna Sebastian Siemiatkowski '
+ 'and Connie Loizos speak on stage at TechCrunch Disrupt Berlin 2019 at Arena '
+ 'Berlin on December 11, 2019 in Berlin, Germany. (Photo by Noam Galai/Getty '
+ 'Images for TechCrunch)</p></div></p>\\n<p><strong>TC: Meanwhile, '
+ 'you&#8217;re charging merchants more than credit card companies, which you '
+ 'can do because you&#8217;re basically increasing their customers&#8217; '
+ 'purchasing power.</strong></p>\\n<p>SS: Yes. If you look to some markets '
+ 'like Brazil and Turkey, that&#8217;s kind of how the whole world works. So '
+ 'in a way, that&#8217;s kind of the direction we&#8217;re heading in, because '
+ 'as a merchant, you&#8217;ll have more buying power than as a single '
+ 'individual consumer, so you&#8217;ll be able to negotiate better rates, and '
+ 'be able to offer these products at a better rate than this as a single '
+ 'individual [receives].</p>\\n<p><strong>TC: Obviously you&#8217;ve heard '
+ 'concerns that, especially as we&#8217;re maybe heading into a recession, '
+ 'easy credit may be dangerous for consumers. Your technology can assess '
+ 'whether or not someone is a good credit risk and whether or not an attempted '
+ 'transaction is fraudulent, but you&#8217;re not really getting a picture of '
+ 'a customer&#8217;s other financial obligations or '
+ 'burdens.&nbsp;</strong></p>\\n<p>SS: We do thorough credit checks. It '
+ 'depends because it&#8217;s hard to answer these questions when you&#8217;re '
+ 'active in 17 markets, because they&#8217;re all different. But it&#8217;s a '
+ 'definite obvious for us that we need to be able to assess people&#8217;s '
+ 'ability to pay, as well as their intent to pay . . . We&#8217;ve been doing '
+ 'this for 15 years, so we really learned how to identify that and do it in a '
+ 'thoughtful and in a good way for the consumer.</p>\\n<p><strong>TC: A lot of '
+ 'competitors have sprung up in recent years. Why hasn&#8217;t there been more '
+ 'consolidation in the space? Is it too soon?</strong></p>\\n<p>SS: I think it '
+ 'might come eventually, but I do think again that there&#8217;s a lot of '
+ 'focus on these companies right now . . . and the point is that like, what '
+ 'we&#8217;re trying to do all of us, all these companies together, is really '
+ 'going after the trillion-dollar credit card industry that hasn&#8217;t '
+ 'served customers well, that has been all about hiding fees and hasn&#8217;t '
+ 'been transparent and whose products and services are fairly poor '
+ 'quality.</p>\\n<p>There&#8217;s a big opportunity to change how this whole '
+ '[industry works] and that&#8217;s true for us and to some degree also true '
+ 'for [mobile-only banks] N26 and Monzo and all the banking disruptors. '
+ 'We&#8217;re all going after these big banks that haven&#8217;t really served '
+ 'their customers well.</p>\\n<p><strong>TC: It&#8217;s interesting that a lot '
+ 'of them are taking stakes in companies like yours. Visa made a strategic '
+ 'investment in Klarna in 2017. Why aren&#8217;t they pulling the trigger on '
+ 'more acquisitions? Is it a matter of them not knowing how to integrate these '
+ 'new technologies into their legacy systems but wanting at the same time to '
+ 'keep tabs on things?</strong></p>\\n<p>SS: I genuinely think &#8212; '
+ 'I&#8217;ve been doing this now for 15 years, which is kind of crazy; I was '
+ '23 when we started &#8212; that the bank disruption is actually happening '
+ '<em>now</em> and I&#8217;m one of the people who would never say that. '
+ 'I&#8217;m always like, &#8216;Oh, [something] is just a trend, it&#8217;s '
+ 'hype, it&#8217;s going to pass, it&#8217;s going to take longer than people '
+ 'expect.&#8217; But I see it happening. Consumers are switching en masse to '
+ 'these new services.</p>\\n<p>So what the legacy incumbents can do is '
+ '[choose] from three options: transform themselves, which demands a very '
+ 'courageous CEO to really change a business like that; secondly, M&amp;A; and '
+ 'third, go away and die as a company. So I do think that&#8217;s what '
+ 'you&#8217;re going to see in the market. In general, if you look at the '
+ 'whole industry, you&#8217;re going to see a lot of investments in M&amp;A '
+ 'activity going on, because that&#8217;s just how you defend yourself as as '
+ 'an incumbent versus disruption.</p>\\n<p><strong>TC: Have you been '
+ 'approached?</strong></p>\\n<p>SS: We get approached all the time, '
+ 'yeah.</p>\\n<p><strong>TC: I thought it was interesting that you announced '
+ 'in October that AWS is now your preferred cloud provider. I imagine that '
+ 'Amazon is an important partner for you.</strong></p>\\n<p>SS: '
+ 'Yes.</p>\\n<p><strong>TC: I&#8217;m wondering especially about Amazon given '
+ 'that Amazon and Google are now embedding payment systems into their '
+ 'platforms. How do you and your rivals [compete against '
+ 'them]?</strong></p>\\n<p>SS: I&#8217;m [someone who] believes that sticking '
+ 'to core is so important and so, like, what&#8217;s happening is we&#8217;ve '
+ 'seen a lot of the big tech giants trying to kind of do more and more and '
+ 'more and more things. And I just think that&#8217;s very hard to do over '
+ 'time.</p>\\n<p>The other thing we do at Klarna is try to consistently stay '
+ 'ahead. When we started 15 years ago, payments online was all about safety; '
+ 'that was the only thing people [cared about] because they felt unsafe '
+ 'shopping online. I think 2010 to 2020 has been about simplicity &#8212; one '
+ 'click, one click, one click &#8212; because Amazon really taught us that one '
+ 'click was important and everyone wants to do one click. The question is, '
+ 'what happens from 2020 to 2030? That&#8217;s what we&#8217;ve been thinking '
+ 'about. How do we stay ahead of the game? How do we innovate? How do we keep '
+ 'creating new services and improvements to consumers so that they feel that '
+ 'this is better than what&#8217;s out there right now.</p>\\n<p>In my '
+ 'opinion, that really demands you to be passionate and in love with your '
+ 'business. And I think it&#8217;s hard for tech giants to be that at that '
+ 'scale. It&#8217;s easy to recognize what&#8217;s going on right now; '
+ 'it&#8217;s much harder [for them] to guess what&#8217;s going to happen five '
+ 'years from now. That really demands that passion and closeness to what '
+ 'you&#8217;re doing.</p>\\n<p><strong>TC: Talking about the future, I saw '
+ 'that you talked to the Financial Times this summer, and when they asked you '
+ 'about going public after all these years, you said that, &#8220;In many ways '
+ 'we have most of the things in place that we need. It&#8217;s more a question '
+ 'of timing and focus.&#8221; So how is 2020 looking in terms of '
+ 'timing?</strong></p>\\n<p>SS: Yeah, I don&#8217;t know, maybe it could '
+ 'happen. It was kind of funny, because I was reading an interview with '
+ 'Michael Moritz, who&#8217;s on our board, and he was saying that we were '
+ 'going to stay private forever. So, I don&#8217;t know, it&#8217;s hard for '
+ 'me to know what&#8217;s true anymore. People are reporting different things '
+ 'about Klarna.</p>\\n<p><strong>TC: You never do know what Michael Moritz is '
+ 'going to say. But if you were to go public, I assume it would be a U.S. '
+ 'listing.</strong></p>\\n<p>SS: I would assume so, too.</p>\\n<p><strong>TC: '
+ 'What do you make of this whole direct listing concept that your neighbor [in '
+ 'Stockholm, Spotify, pioneered]?</strong></p>\\n<p>SS: I think it&#8217;s '
+ 'wise. I mean Michael [Moritz] is a big proponent of it. I think it makes '
+ 'sense. I read all the arguments, and it looks '
+ 'interesting.</p>\\n<p><strong>TC: But you&#8217;re not raising money with '
+ 'direct listings &#8212; your existing shareholders are instead selling their '
+ 'shares on the open market &#8212; which sort of begs the question: will you '
+ 'be raising [another private round] of funding again? You raised a big round '
+ 'in summer.</strong></p>\\n<p>SS: We are in a very exciting phase right now, '
+ 'where the U.S. and U.K. is growing so fast for us. . . And we want to '
+ 'continue investing. We think the potential market in in the U.S. is just '
+ 'massive . . . So we&#8217;ll see what happens, but I wouldn&#8217;t rule it '
+ 'out, that one thing that could happen is raise even more money to be '
+ 'investing even more in growth and product delivery, and new products and '
+ 'services, as well as sales and marketing in the U.S.</p>\\n<p><strong>TC: Of '
+ 'course, every time you raise money it impacts whether or not you&#8217;re '
+ 'profitable. Are you profitable now? Have you ever '
+ 'been?</strong></p>\\n<p>SS: Klarna has been profitable every year up until '
+ 'this year.</p>\\n<p><strong>TC: That giant fundraise [in summer] kind of '
+ 'threw you off.</strong></p>\\n<p>SS: Yeah, exactly. '
+ '[Laughs.]</p>\\n<p><em>More of our interview '
+ 'below.</em></p>\\n<p>\\n\\t\\t<div class="embed breakout" id="vidible_div_0" '
+ 'data-pid="56df4e9de4b0c9c31d626c18" data-bcid="564f313b67b6231408bc51ee" '
+ 'data-video="5df0f919d21f1a50af3f1837"></div>\\n\\t\\t<span><script '
+ 'type="text/javascript" '
+ 'src="https://techcrunch.com/wp-content/themes/techcrunch-2017/features/shortcodes/vidible-callback-js.php?id=0"></script></span>\\n\\t\\t</p>\\n<img '
+ 'src="http://feeds.feedburner.com/~r/TechCrunch/Amazon/~4/OO_IpalzWJY" '
+ 'height="1" width="1" alt=""/>\'}], \'wfw_commentrss\': '
+ "'https://techcrunch.com/2019/12/12/klarna-ceo-taking-public-the-valuable-fintech0/feed/', "
+ "'slash_comments': '0', 'post-id': '1923309', 'feedburner_origlink': "
+ "'https://techcrunch.com/2019/12/12/klarna-ceo-taking-public-the-valuable-fintech0/'}, "
+ "{'title': 'Why D2C holding companies are here to stay', 'title_detail': "
+ "{'type': 'text/plain', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': 'Why D2C holding "
+ "companies are here to stay'}, 'links': [{'rel': 'alternate', 'type': "
+ "'text/html', 'href': "
+ "'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/rBNDEW6NKqc/'}], "
+ "'link': 'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/rBNDEW6NKqc/', "
+ "'comments': "
+ "'https://techcrunch.com/2019/12/10/why-d2c-holding-companies-are-here-to-stay/#respond', "
+ "'published': 'Tue, 10 Dec 2019 15:51:16 +0000', 'published_parsed': "
+ 'time.struct_time(tm_year=2019, tm_mon=12, tm_mday=10, tm_hour=15, tm_min=51, '
+ "tm_sec=16, tm_wday=1, tm_yday=344, tm_isdst=0), 'authors': [{'name': 'Walter "
+ "Thompson'}], 'author': 'Walter Thompson', 'author_detail': {'name': 'Walter "
+ "Thompson'}, 'tags': [{'term': 'Column', 'scheme': None, 'label': None}, "
+ "{'term': 'eCommerce', 'scheme': None, 'label': None}, {'term': 'TC', "
+ "'scheme': None, 'label': None}, {'term': 'Venture Capital', 'scheme': None, "
+ "'label': None}, {'term': 'Amazon', 'scheme': None, 'label': None}, {'term': "
+ "'brand management', 'scheme': None, 'label': None}, {'term': 'bravo', "
+ "'scheme': None, 'label': None}, {'term': 'D2C', 'scheme': None, 'label': "
+ "None}, {'term': 'digital marketing', 'scheme': None, 'label': None}, "
+ "{'term': 'e-commerce', 'scheme': None, 'label': None}, {'term': 'Edgewell "
+ "Personal Care', 'scheme': None, 'label': None}, {'term': 'forerunner "
+ "ventures', 'scheme': None, 'label': None}, {'term': 'glossier', 'scheme': "
+ "None, 'label': None}, {'term': 'Great Jones', 'scheme': None, 'label': "
+ "None}, {'term': 'Iris Nova', 'scheme': None, 'label': None}, {'term': "
+ "'Pattern', 'scheme': None, 'label': None}, {'term': 'RRE Ventures', "
+ "'scheme': None, 'label': None}, {'term': 'Shopify', 'scheme': None, 'label': "
+ "None}, {'term': 'SMS', 'scheme': None, 'label': None}, {'term': 'Target', "
+ "'scheme': None, 'label': None}, {'term': 'unilever', 'scheme': None, "
+ "'label': None}, {'term': 'Vault', 'scheme': None, 'label': None}, {'term': "
+ "'Walmart', 'scheme': None, 'label': None}, {'term': 'Warby Parker', "
+ "'scheme': None, 'label': None}, {'term': 'win', 'scheme': None, 'label': "
+ "None}], 'id': 'https://techcrunch.com/?p=1921262', 'guidislink': False, "
+ "'summary': 'Digitally-native, vertically-integrated brands pool resources, "
+ 'operational costs and institutional knowledge to accelerate growth and '
+ "achieve profitability at a faster rate.', 'summary_detail': {'type': "
+ "'text/html', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': 'Digitally-native, "
+ 'vertically-integrated brands pool resources, operational costs and '
+ 'institutional knowledge to accelerate growth and achieve profitability at a '
+ "faster rate.'}, 'content': [{'type': 'text/html', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': '<div "
+ 'class="article__contributor-byline-wrapper">\\n<div '
+ 'class="article__contributor-byline">\\n\\t<div '
+ 'class="contributor-byline__contributor">\\n\\t\\t<div '
+ 'class="byline__author">\\n\\t\\t\\t\\t\\t\\t\\t<span '
+ 'class="byline__author-name">Alex Song</span>\\n\\t\\t\\t\\t\\t\\t<span '
+ 'class="byline__author-title" style="display: '
+ 'block;">Contributor</span>\\n\\t\\t</div>\\n\\n\\t\\t\\t\\t<div '
+ 'class="contributor__twitter">\\n\\t\\t\\t<a target="_blank" '
+ 'href="https://twitter.com/1alexsong1">\\n\\t\\t\\t\\t\\t<svg class="icon '
+ 'icon--twitter icon--white" viewBox="0 0 20 20" version="1.1" '
+ 'aria-labelledby="title">\\n\\t\\t<title>Share on '
+ 'Twitter</title>\\n\\t\\t<path '
+ 'd="M20,4c-0.7,0.3-1.5,0.6-2.4,0.7c0.9-0.5,1.5-1.4,1.8-2.3c-0.8,0.5-1.7,0.8-2.6,1C16.1,2.5,15,2,13.8,2c-2.3,0-4.1,1.9-4.1,4.2c0,0.3,0,0.7,0.1,1C6.4,7,3.4,5.4,1.4,2.9C1,3.5,0.8,4.1,0.8,4.9c0,1.4,0.7,2.7,1.8,3.5C2,8.4,1.4,8.2,0.8,7.9v0.1c0,2,1.4,3.7,3.3,4.1c-0.4,0.1-0.7,0.2-1.1,0.2c-0.3,0-0.5,0-0.8-0.1c0.5,1.7,2,2.9,3.8,2.9c-1.4,1.1-3.2,2-5.1,2c-0.3,0-0.7,0-1-0.1c1.8,1.2,4,1.7,6.3,1.7c7.5,0,11.7-6.4,11.7-12V6.1C18.8,5.6,19.4,4.8,20,4z"/>\\t</svg>\\n\\t\\t\\t\\t</a>\\n\\t\\t</div>\\n\\t\\t\\t</div>\\n\\n\\t\\t<div '
+ 'class="contributor-byline__bio">\\n\\t\\tAlex is CEO and co-founder of <a '
+ 'href="https://www.innovationdept.com/">Innovation Department</a>, a '
+ 'tech-empowered platform building the next generation of consumer brands. '
+ 'Previously, he worked at Goldman Sachs and Pershing Square Capital '
+ 'Management.\\t</div>\\n\\t\\n\\t</div>\\n</div><p '
+ 'id="speakable-summary"><span style="font-weight: 400;">It wasn�t that long '
+ 'ago that digitally-native, vertically-integrated brands (DNVBs) were the '
+ 'talk of the startup world. </span></p>\\n<p><span style="font-weight: '
+ '400;">Venture capitalists and founders watched as Warby Parker, Casper, '
+ 'Glossier, Harry�s and Honest Company became the belles of the D2C ball, '
+ 'trotting their way towards unicorn valuations. Not long after, the �startup '
+ 'studio� was unmasked as the elusive unicorn breeding grounds (think Hims). '
+ 'Today, there�s yet another buzzword that�s all the rage and it goes by the '
+ 'name �D2C Holding Company.� And it�s not going away anytime '
+ 'soon.</span></p>\\n<h2>What are DNVBs?</h2>\\n<p><span style="font-weight: '
+ '400;">In 2017, DNVBs were a game-changer. Different than e-commerce, DNVBs '
+ 'sell products online directly to consumers and maintain control and '
+ 'transparency through each stage of the production and distribution process, '
+ 'all without the involvement of middlemen.</span> <span style="font-weight: '
+ '400;">This allows DNVBs to determine where and how their products are sold '
+ 'and to collect customer data that helps optimize their marketing '
+ 'strategies.\\xa0</span></p>\\n<p><span style="font-weight: 400;">DNVBs have '
+ 'exploded over the last decade, growing sales and venture capital funding at '
+ 'a rapid pace. These brands use digital engagement strategies to create '
+ 'stronger relationships with consumers, which � when implemented alongside '
+ 'captivating content � contribute heavily to brand success by increasing '
+ 'customer LTV and creating compounding unit economics.</span></p>\\n<h2>The '
+ 'problem with DNVBs</h2>\\n<p><span style="font-weight: 400;">In the last '
+ 'three years alone, more DNVBs have launched than in the entirety of the '
+ 'previous decade. </span></p>\\n<p><span style="font-weight: 400;">While this '
+ 'growth is encouraging, the problem is that these DNVBs are raising so much '
+ 'venture capital that in order to meet the return requirements of their '
+ 'investors, they need a significant purchase offer or IPO valuation. With '
+ 'more than </span><a '
+ 'href="https://files.pitchbook.com/website/files/pdf/PitchBook_1Q_2019_MA_Report.pdf"><span '
+ 'style="font-weight: 400;">85 percent of acquisitions happening below $250 '
+ 'million</span></a><span style="font-weight: 400;"> in purchase price, '
+ 'strategic acquisitions offers that meet investor expectations are few and '
+ 'far between. </span></p>\\n<p><span style="font-weight: 400;">This '
+ 'ultimately creates a state of startup purgatory where DNVBs have no choice '
+ 'but to take a downround to find a lifeline � sorry, Honest Company � making '
+ 'it difficult to develop disciplined operational habits and achieve '
+ 'sustainable growth. With these challenges becoming more glaringly apparent '
+ 'in recent years, there came a need for a new approach to D2C at large. Enter '
+ 'the modern D2C holding company.</span></p>\\n<h2><b>Make way for the D2C '
+ 'holding company model</b></h2>\\n<p><span style="font-weight: 400;">Today�s '
+ 'version of the holding company model takes what companies like Procter &amp; '
+ 'Gamble and Unilever did in the 1950s and modernizes it for the existing D2C '
+ 'market. Instead of taking a siloed approach, brands pool resources, '
+ 'operational costs and institutional knowledge to accelerate growth and '
+ 'achieve profitability at a faster rate.\\xa0</span></p>\\n<p><span '
+ 'style="font-weight: 400;">DNVB darlings Harry�s and Glossier are great '
+ 'examples of this. Harry�s diversification efforts have been centerstage as '
+ 'the company works to grow beyond men�s grooming to include personal care for '
+ 'men and women, household items and baby products. In May, Edgewell Personal '
+ 'Care, which owns brands like Schick, Banana Boat, and Wet Ones, acquired '
+ 'Harry�s for $1.37 billion. Glossier is also working to diversify its '
+ 'portfolio, with the launch of Glossier Play, a younger, more colorful sister '
+ 'brand to its original.</span></p>\\n<p><span style="font-weight: 400;">For '
+ 'DNVBs to successfully pivot to a holding company model, they will need to '
+ 'prioritize 1) diversification to satisfy customers� short attention spans, '
+ '2) a data-first mindset to deliver the best possible customer experience, '
+ 'and 3) operational and capital efficiency to not only stay afloat, but '
+ 'thrive.\\xa0</span></p>\\n<h2><b>An evolving landscape</b></h2>\\n<p><span '
+ 'style="font-weight: 400;">The landscape for D2C holding companies is just '
+ 'starting to take shape, but here are some of the key players who have '
+ 'adopted this approach and are finding early success: <div '
+ 'class="extra-crunch-offer-container"></div><img '
+ 'src="http://feeds.feedburner.com/~r/TechCrunch/Amazon/~4/rBNDEW6NKqc" '
+ 'height="1" width="1" alt=""/>\'}], \'wfw_commentrss\': '
+ "'https://techcrunch.com/2019/12/10/why-d2c-holding-companies-are-here-to-stay/feed/', "
+ "'slash_comments': '0', 'post-id': '1921262', 'feedburner_origlink': "
+ "'https://techcrunch.com/2019/12/10/why-d2c-holding-companies-are-here-to-stay/'}, "
+ "{'title': 'Will the 2020s be online advertising�s holistic decade?', "
+ "'title_detail': {'type': 'text/plain', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': 'Will the 2020s be "
+ "online advertising�s holistic decade?'}, 'links': [{'rel': 'alternate', "
+ "'type': 'text/html', 'href': "
+ "'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/SI3uGKsUiZQ/'}], "
+ "'link': 'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/SI3uGKsUiZQ/', "
+ "'comments': "
+ "'https://techcrunch.com/2019/12/06/will-the-2020s-be-online-advertisings-holistic-decade/#respond', "
+ "'published': 'Fri, 06 Dec 2019 21:04:26 +0000', 'published_parsed': "
+ 'time.struct_time(tm_year=2019, tm_mon=12, tm_mday=6, tm_hour=21, tm_min=4, '
+ "tm_sec=26, tm_wday=4, tm_yday=340, tm_isdst=0), 'authors': [{'name': 'Walter "
+ "Thompson'}], 'author': 'Walter Thompson', 'author_detail': {'name': 'Walter "
+ "Thompson'}, 'tags': [{'term': 'Advertising Tech', 'scheme': None, 'label': "
+ "None}, {'term': 'Column', 'scheme': None, 'label': None}, {'term': "
+ "'eCommerce', 'scheme': None, 'label': None}, {'term': 'Media', 'scheme': "
+ "None, 'label': None}, {'term': 'TC', 'scheme': None, 'label': None}, "
+ "{'term': 'Amazon', 'scheme': None, 'label': None}, {'term': 'brand "
+ "management', 'scheme': None, 'label': None}, {'term': 'customer experience', "
+ "'scheme': None, 'label': None}, {'term': 'e-commerce', 'scheme': None, "
+ "'label': None}, {'term': 'Facebook', 'scheme': None, 'label': None}, "
+ "{'term': 'Google', 'scheme': None, 'label': None}, {'term': 'location-based "
+ "advertising', 'scheme': None, 'label': None}, {'term': 'Marketing', "
+ "'scheme': None, 'label': None}, {'term': 'mobile device', 'scheme': None, "
+ "'label': None}, {'term': 'online advertising', 'scheme': None, 'label': "
+ "None}, {'term': 'targeted advertising', 'scheme': None, 'label': None}], "
+ "'id': 'https://techcrunch.com/?p=1920366', 'guidislink': False, 'summary': "
+ "'With less than two months left in the decade, advertising is again entering "
+ "a new phase of rapid expansion with customer experience front and center.', "
+ "'summary_detail': {'type': 'text/html', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': 'With less than "
+ 'two months left in the decade, advertising is again entering a new phase of '
+ "rapid expansion with customer experience front and center.'}, 'content': "
+ "[{'type': 'text/html', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': '<div "
+ 'class="article__contributor-byline-wrapper">\\n<div '
+ 'class="article__contributor-byline">\\n\\t<div '
+ 'class="contributor-byline__contributor">\\n\\t\\t<div '
+ 'class="byline__author">\\n\\t\\t\\t\\t\\t\\t\\t<span '
+ 'class="byline__author-name">Todd Dipaola</span>\\n\\t\\t\\t\\t\\t\\t<span '
+ 'class="byline__author-title" style="display: '
+ 'block;">Contributor</span>\\n\\t\\t</div>\\n\\n\\t\\t\\t\\t<div '
+ 'class="contributor__twitter">\\n\\t\\t\\t<a target="_blank" '
+ 'href="https://twitter.com/inmarket_media">\\n\\t\\t\\t\\t\\t<svg class="icon '
+ 'icon--twitter icon--white" viewBox="0 0 20 20" version="1.1" '
+ 'aria-labelledby="title">\\n\\t\\t<title>Share on '
+ 'Twitter</title>\\n\\t\\t<path '
+ 'd="M20,4c-0.7,0.3-1.5,0.6-2.4,0.7c0.9-0.5,1.5-1.4,1.8-2.3c-0.8,0.5-1.7,0.8-2.6,1C16.1,2.5,15,2,13.8,2c-2.3,0-4.1,1.9-4.1,4.2c0,0.3,0,0.7,0.1,1C6.4,7,3.4,5.4,1.4,2.9C1,3.5,0.8,4.1,0.8,4.9c0,1.4,0.7,2.7,1.8,3.5C2,8.4,1.4,8.2,0.8,7.9v0.1c0,2,1.4,3.7,3.3,4.1c-0.4,0.1-0.7,0.2-1.1,0.2c-0.3,0-0.5,0-0.8-0.1c0.5,1.7,2,2.9,3.8,2.9c-1.4,1.1-3.2,2-5.1,2c-0.3,0-0.7,0-1-0.1c1.8,1.2,4,1.7,6.3,1.7c7.5,0,11.7-6.4,11.7-12V6.1C18.8,5.6,19.4,4.8,20,4z"/>\\t</svg>\\n\\t\\t\\t\\t</a>\\n\\t\\t</div>\\n\\t\\t\\t</div>\\n\\n\\t\\t<div '
+ 'class="contributor-byline__bio">\\n\\t\\tTodd Dipaola founded <a '
+ 'href="http://inmarket.com/">inMarket</a> to bring the performance and '
+ 'accountability of digital advertising to offline brands. '
+ '\\t</div>\\n\\t\\n\\t</div>\\n</div><p id="speakable-summary"><span '
+ 'style="font-weight: 400;">With less than two months left in the decade, '
+ 'advertising is again entering a new phase of rapid expansion with customer '
+ 'experience front and center. </span></p>\\n<p><span style="font-weight: '
+ '400;">The explosion of data and identity management, combined with technical '
+ 'advancements in real-time signal detection and machine learning, present new '
+ 'opportunities to respond to consumers, but mastering this ability enables '
+ 'marketers to create �magic moments� � instances of hyper-relevant content, '
+ 'delivered at the perfect time and place.\\xa0</span></p>\\n<p><span '
+ 'style="font-weight: 400;">We�ll see evolutions on the back end in terms of '
+ 'delivery and measurement � as well as on the consumer-facing end � through '
+ 'new creative deployments that enhance the brick-and-mortar shopping trip. '
+ 'Marketers will be held to a higher standard, both by clients demanding '
+ 'world-class performance and proof, as well as consumers who want relevancy, '
+ 'helpfulness and privacy from their brand '
+ 'relationships.\\xa0</span></p>\\n<p><span style="font-weight: '
+ '400;">Achieving this balance won&#8217;t be an easy task, but the most '
+ 'progressive marketers will succeed in driving this industry toward a more '
+ 'customer-centric future because they took steps to evolve before it was too '
+ 'late. With that in mind, here are five ways we expect advertising to become '
+ 'more holistic in the 2020s:\\xa0</span></p>\\n<h2><b>Smart data will take '
+ 'priority over big data</b></h2>\\n<p><span style="font-weight: 400;">Most '
+ 'marketers have heard the adage, �garbage in, garbage out.� For too long, the '
+ 'industry relied on sheer quantity of data with no quality metrics for making '
+ 'key audience assumptions. This mentality has had a detrimental effect on our '
+ 'industry, creating an ecosystem where people simply </span><a '
+ 'href="https://www.nytimes.com/2019/10/28/business/media/advertising-industry-research.html"><span '
+ 'style="font-weight: 400;">hate ads</span></a><span style="font-weight: '
+ '400;"> and brands focus on viewability over ROI.</span></p>\\n<p><span '
+ 'style="font-weight: 400;">To truly understand our audiences, we must first '
+ 'turn data from multi-channel interactions into smart, actionable insights. '
+ 'This involves not only understanding who the customer is, but what motivates '
+ 'them.\\xa0</span></p>\\n<p><span style="font-weight: 400;">Progressive '
+ 'marketers will continue to invest heavily in identity graphs to tie critical '
+ 'data and behaviors to individual profiles across channels. Using data '
+ 'science and machine learning, marketers will then be able to advance their '
+ 'knowledge about consumers to new levels, employing new messaging tactics '
+ 'based not only on value, but also on what inspires action. Key nuances, like '
+ 'distinguishing a deal-seeker from a value-seeker, will lead to more engaging '
+ 'personalized experiences and ultimately better ROI for '
+ 'advertisers.</span></p>\\n<h2><b>We�ll see a flurry of investment in '
+ 'real-time engagement</b></h2>\\n<p><span style="font-weight: 400;">We live '
+ 'in a world where our technology predicts where we are going, what we are '
+ 'seeking and how long it will take to get there by recognizing our patterns '
+ 'and everyday behaviors. The benefits in terms of convenience and knowledge '
+ 'are addictive. Look no further than email, social and Alexa to see how '
+ 'real-time awareness and time savings from these interactions impact our '
+ 'everyday lives.\\xa0\\xa0</span></p>\\n<p><span style="font-weight: '
+ '400;">For marketers, capturing this lightning in a bottle has always been '
+ 'elusive � until now. The rise of real-time advertising, customer data '
+ 'platforms (CDPs), data science and machine learning have created the ability '
+ 'to detect purchases as well as online and real world location signals in '
+ 'real-time. This enables marketers to not only predict the next shopping '
+ 'trip, but what a consumer is likely to buy, when it matters '
+ 'most.</span></p>\\n<p><span style="font-weight: 400;">These '
+ 'sense-and-respond capabilities will enable progressive marketers to create '
+ 'experiences of enormous value at the moments that matter, such as triggering '
+ 'an offer of relevance upon entering a store or delivering a tailored '
+ 'experience at a specific time and location. The new decade will bring about '
+ 'massive investments into these technologies given their immediate ability to '
+ 'influence consumers during the actual purchase process. We�ll see budgets '
+ 'being specifically carved out to support real-time advertising and '
+ 'technologies as marketers optimize and convert users with greater '
+ 'effectiveness.\\xa0\\xa0</span></p>\\n<p><span style="font-weight: 400;">For '
+ 'consumers, it means that the in-store experience will continue to become '
+ 'more interactive, with mobile devices as the connecting point between '
+ 'e-commerce and brick and mortar. Brands that thrive in this environment will '
+ 'win by delivering meaningful creative that connects both online and offline '
+ 'worlds in a helpful and relevant way.</span></p>\\n<h2><b>Cutting-edge tech '
+ 'will create new ad experiences<div '
+ 'class="extra-crunch-offer-container"></div><img '
+ 'src="http://feeds.feedburner.com/~r/TechCrunch/Amazon/~4/SI3uGKsUiZQ" '
+ 'height="1" width="1" alt=""/>\'}], \'wfw_commentrss\': '
+ "'https://techcrunch.com/2019/12/06/will-the-2020s-be-online-advertisings-holistic-decade/feed/', "
+ "'slash_comments': '0', 'post-id': '1920366', 'feedburner_origlink': "
+ "'https://techcrunch.com/2019/12/06/will-the-2020s-be-online-advertisings-holistic-decade/'}, "
+ "{'title': 'Prolific wants to challenge Amazon�s Mechanical Turk in the "
+ "online research space', 'title_detail': {'type': 'text/plain', 'language': "
+ "None, 'base': 'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': "
+ "'Prolific wants to challenge Amazon�s Mechanical Turk in the online research "
+ "space'}, 'links': [{'rel': 'alternate', 'type': 'text/html', 'href': "
+ "'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/LcTi0rVWE_g/'}], "
+ "'link': 'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/LcTi0rVWE_g/', "
+ "'comments': 'https://techcrunch.com/2019/12/04/prolific/#respond', "
+ "'published': 'Wed, 04 Dec 2019 09:00:44 +0000', 'published_parsed': "
+ 'time.struct_time(tm_year=2019, tm_mon=12, tm_mday=4, tm_hour=9, tm_min=0, '
+ "tm_sec=44, tm_wday=2, tm_yday=338, tm_isdst=0), 'authors': [{'name': "
+ '"Steve O\'Hear"}], \'author\': "Steve O\'Hear", \'author_detail\': '
+ '{\'name\': "Steve O\'Hear"}, \'tags\': [{\'term\': \'Europe\', \'scheme\': '
+ "None, 'label': None}, {'term': 'Fundings & Exits', 'scheme': None, 'label': "
+ "None}, {'term': 'Recent Funding', 'scheme': None, 'label': None}, {'term': "
+ "'Startups', 'scheme': None, 'label': None}, {'term': 'TC', 'scheme': None, "
+ "'label': None}, {'term': 'Amazon', 'scheme': None, 'label': None}, {'term': "
+ "'Amazon Mechanical Turk', 'scheme': None, 'label': None}, {'term': "
+ "'computing', 'scheme': None, 'label': None}, {'term': 'crowdsourcing', "
+ "'scheme': None, 'label': None}, {'term': 'machine learning', 'scheme': None, "
+ "'label': None}, {'term': 'market research', 'scheme': None, 'label': None}, "
+ "{'term': 'Oxford', 'scheme': None, 'label': None}, {'term': 'Pioneer Fund', "
+ "'scheme': None, 'label': None}, {'term': 'prolific', 'scheme': None, "
+ "'label': None}, {'term': 'Qualtrics', 'scheme': None, 'label': None}, "
+ "{'term': 'research', 'scheme': None, 'label': None}, {'term': 'Research "
+ "Now', 'scheme': None, 'label': None}, {'term': 'stanford', 'scheme': None, "
+ "'label': None}, {'term': 'SurveyMonkey', 'scheme': None, 'label': None}, "
+ "{'term': 'TechCrunch', 'scheme': None, 'label': None}, {'term': 'upenn', "
+ "'scheme': None, 'label': None}, {'term': 'World Bank', 'scheme': None, "
+ "'label': None}, {'term': 'Y Combinator', 'scheme': None, 'label': None}, "
+ "{'term': 'yale', 'scheme': None, 'label': None}, {'term': 'YouGov', "
+ "'scheme': None, 'label': None}], 'id': 'https://techcrunch.com/?p=1918647', "
+ "'guidislink': False, 'summary': 'Prolific, a U.K.-based startup that wants "
+ 'to make it easier to conduct online research, has raised $1.2 million in '
+ 'seed funding. The round is co-led by Silicon Valley-based Pioneer Fund, and '
+ 'Altair Capital, with support from various angel investors based in the Bay '
+ 'Area. Prolific is also a graduate of Y Combinator and presented at '
+ "[&#8230;]', 'summary_detail': {'type': 'text/html', 'language': None, "
+ "'base': 'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': 'Prolific, "
+ 'a U.K.-based startup that wants to make it easier to conduct online '
+ 'research, has raised $1.2 million in seed funding. The round is co-led by '
+ 'Silicon Valley-based Pioneer Fund, and Altair Capital, with support from '
+ 'various angel investors based in the Bay Area. Prolific is also a graduate '
+ "of Y Combinator and presented at [&#8230;]'}, 'content': [{'type': "
+ "'text/html', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': '<p "
+ 'id="speakable-summary"><a href="https://www.prolific.co/">Prolific</a>, a '
+ 'U.K.-based startup that wants to make it easier to conduct online research, '
+ 'has raised $1.2 million in seed funding.</p>\\n<p>The round is co-led by '
+ 'Silicon Valley-based <a class="crunchbase-link" '
+ 'href="https://crunchbase.com/organization/pioneer-fund" target="_blank" '
+ 'data-type="organization" data-entity="pioneer-fund">Pioneer Fund, <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> and Altair Capital, with '
+ 'support from various angel investors based in the Bay Area. <a '
+ 'class="crunchbase-link" '
+ 'href="https://crunchbase.com/organization/prolific-academic" target="_blank" '
+ 'data-type="organization" data-entity="prolific-academic">Prolific <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> is also a graduate of Y '
+ 'Combinator and presented at <a '
+ 'href="https://techcrunch.com/2019/08/19/all-84-startups-from-y-combinators-s19-demo-day-1/">YC&#8217;s '
+ 'demo day</a> this past summer.</p>\\n<p>Founded in 2014 by Ekaterina Damer '
+ 'and Phelim Bradley, doctoral students at Sheffield and Oxford universities, '
+ 'respectively, at the time, Prolific offers an online tool to easily recruit '
+ 'and pay research participants and conduct what it calls &#8220;ethical and '
+ 'trustworthy&#8221; research. The idea was born out of Damer&#8217;s own '
+ 'frustration with existing options, including <a class="crunchbase-link" '
+ 'href="https://crunchbase.com/organization/amazon" target="_blank" '
+ 'data-type="organization" data-entity="amazon">Amazon�s <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> Mechanical Turk (MTurk), '
+ 'when carrying out research for her own PhD.</p>\\n<p>&#8220;I was struggling '
+ 'to recruit participants for my research,&#8221; she tells <a '
+ 'class="crunchbase-link" '
+ 'href="https://crunchbase.com/organization/techcrunch" target="_blank" '
+ 'data-type="organization" data-entity="techcrunch">TechCrunch <span '
+ 'class="crunchbase-tooltip-indicator"></span></a>. &#8220;None of the '
+ 'available tools were fit for purpose because they were either obscure, '
+ 'expensive or really slow! By &#8216;obscure&#8217; I mean: It wasn&#8217;t '
+ 'clear who the participants were, how they were treated and whether the data '
+ 'quality would be any good! I considered Amazon&#8217;s Mechanical Turk '
+ '(MTurk), the most widely used tool for academic research, but it only had '
+ 'U.S. American and Indian participants and a distinct lack of European '
+ 'ones.&#8221;</p>\\n<p>This led her and Bradley to create Prolific as a '
+ 'better alternative to MTurk, and it wasn&#8217;t long before other '
+ 'colleagues at Sheffield and Oxford started using the product. Just a year '
+ 'in, Prolific was being used by researchers globally, including those from '
+ 'Stanford, Oxford, <a class="crunchbase-link" '
+ 'href="https://crunchbase.com/organization/yale-security-inc" target="_blank" '
+ 'data-type="organization" data-entity="yale-security-inc">Yale <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> and '
+ 'UPenn.</p>\\n<p>&#8220;It&#8217;s grown from there almost purely through '
+ 'word-of-mouth, with over 3,000 customers now from researchers and companies '
+ 'around the world!,&#8221; says Damer.</p>\\n<p>Prolific also counts the '
+ 'World Bank and several Fortune 500 companies as customers, and claims to '
+ 'reach a network of 70,000-plus active research participants from a wide '
+ 'range of backgrounds.</p>\\n<p>&#8220;The problem is that behavioural '
+ 'research on the internet is broken,&#8221; Damer explains. &#8220;Finding '
+ 'participants is difficult and slow and the data you get from other platforms '
+ 'is often low quality because incentives are not aligned or you&#8217;re '
+ 'dealing with legacy platforms that don&#8217;t leverage '
+ 'tech.</p>\\n<p>&#8220;Customers want participants and data they can trust, '
+ 'but they typically have to resort to platforms which provide disengaged '
+ 'people who sign up for pennies. Or they even end up collecting data from '
+ 'fraudsters and human-assisted bots. Researchers across academia and industry '
+ 'are desperate for higher quality sampling solutions.&#8221;</p>\\n<p>To fix '
+ 'these issues, Damer says that Prolific is building research technology that '
+ 'makes people-based research &#8220;more effective and efficient&#8221; than '
+ 'existing solutions, from sourcing participants, to prescreening for the '
+ 'right target demographics, to automating participant payments. The startup '
+ 'also employs what it calls proprietary user validation technology that uses '
+ 'statistical algorithms and machine learning to catch bots and bad actors, '
+ 'which Damer says plague many of the company&#8217;s '
+ 'competitors.</p>\\n<p>&#8220;It&#8217;s actually quite shocking how '
+ 'competitors often squeeze their participants (or &#8216;workers&#8217;) '
+ 'because they see them as a commodity,&#8221; she adds. &#8220;This means '
+ 'that participants are either disengaged or try to game the system. In '
+ 'contrast, we have many positive incentives built into our platform. '
+ 'Participants can prequalify for studies so they never get kicked out '
+ 'randomly, we encourage and collect two-way feedback&#8230; researchers love '
+ 'that they can talk to participants directly through our interface in case '
+ 'questions, feedback or concerns arise, and we mandate a minimum pay of $6.50 '
+ '(�5) per hour. All of this creates trust and virtuous cycles that power our '
+ 'growth.&#8221;</p>\\n<p>Damer frames Prolific&#8217;s broader mission as '
+ 'making &#8220;trustworthy data about people more accessible.&#8221; '
+ '&#8220;Our core belief is that access to high-quality psychological and '
+ 'behavioural data is the foundation for great research and ultimately, for '
+ 'progress in business, tech, and society,&#8221; she says. &#8220;The bigger '
+ 'vision is to build the most powerful and flexible infrastructure for '
+ 'research on the internet.&#8221;</p>\\n<p>That&#8217;s not to say that '
+ 'Prolific doesn&#8217;t have competitors that are also attempting to make '
+ 'online research and insights more accessible and of better '
+ 'quality.</p>\\n<p>Companies like CloudResearch and Positly utilise '
+ 'MTurk&#8217;s API, but Damer says that has limitations because &#8220;great '
+ 'data and great research starts with a great community,&#8221; which, <a '
+ 'href="https://medium.com/@ekadamer/stop-using-mturk-for-research-4b9c7b4f6f56">arguably</a>, '
+ 'MTurk isn&#8217;t.</p>\\n<p>There are also well-established operations such '
+ 'as Nielsen, Dynata (formally <a class="crunchbase-link" '
+ 'href="https://crunchbase.com/organization/dalsan-research" target="_blank" '
+ 'data-type="organization" data-entity="dalsan-research">Research <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> Now SSI), YouGov, Cint, '
+ 'IpsosMori, Qualtrics Panels and SurveyMonkey Audience, along with newer '
+ 'players like <a '
+ 'href="https://techcrunch.com/2017/04/10/market-research-tech-startup-attest-raises-3-1m/">Attest</a> '
+ 'and Respondent.io.</p>\\n<img '
+ 'src="http://feeds.feedburner.com/~r/TechCrunch/Amazon/~4/LcTi0rVWE_g" '
+ 'height="1" width="1" alt=""/>\'}], \'wfw_commentrss\': '
+ "'https://techcrunch.com/2019/12/04/prolific/feed/', 'slash_comments': '0', "
+ "'post-id': '1918647', 'feedburner_origlink': "
+ "'https://techcrunch.com/2019/12/04/prolific/'}, {'title': 'AWS launches "
+ "managed Cassandra services', 'title_detail': {'type': 'text/plain', "
+ "'language': None, 'base': 'http://feeds.feedburner.com/TechCrunch/Amazon', "
+ "'value': 'AWS launches managed Cassandra services'}, 'links': [{'rel': "
+ "'alternate', 'type': 'text/html', 'href': "
+ "'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/PhfwWhOpltI/'}], "
+ "'link': 'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/PhfwWhOpltI/', "
+ "'comments': "
+ "'https://techcrunch.com/2019/12/03/aws-launches-managed-cassandra-services/#respond', "
+ "'published': 'Tue, 03 Dec 2019 18:16:00 +0000', 'published_parsed': "
+ 'time.struct_time(tm_year=2019, tm_mon=12, tm_mday=3, tm_hour=18, tm_min=16, '
+ "tm_sec=0, tm_wday=1, tm_yday=337, tm_isdst=0), 'authors': [{'name': "
+ "'Jonathan Shieber'}], 'author': 'Jonathan Shieber', 'author_detail': "
+ "{'name': 'Jonathan Shieber'}, 'tags': [{'term': 'Developer', 'scheme': None, "
+ "'label': None}, {'term': 'TC', 'scheme': None, 'label': None}, {'term': "
+ "'Amazon', 'scheme': None, 'label': None}, {'term': 'Amazon Neptune', "
+ "'scheme': None, 'label': None}, {'term': 'Amazon Web Services', 'scheme': "
+ "None, 'label': None}, {'term': 'apache cassandra', 'scheme': None, 'label': "
+ "None}, {'term': 'api', 'scheme': None, 'label': None}, {'term': 'AWS', "
+ "'scheme': None, 'label': None}, {'term': 'AWS re:Invent 2019', 'scheme': "
+ "None, 'label': None}, {'term': 'cloud infrastructure', 'scheme': None, "
+ "'label': None}, {'term': 'cloud storage', 'scheme': None, 'label': None}, "
+ "{'term': 'data management', 'scheme': None, 'label': None}, {'term': "
+ "'encryption', 'scheme': None, 'label': None}, {'term': 'Netflix', 'scheme': "
+ "None, 'label': None}, {'term': 'nosql', 'scheme': None, 'label': None}, "
+ "{'term': 'ooyala', 'scheme': None, 'label': None}, {'term': 'Openwave', "
+ "'scheme': None, 'label': None}, {'term': 'Reddit', 'scheme': None, 'label': "
+ "None}, {'term': 'serverless computing', 'scheme': None, 'label': None}, "
+ "{'term': 'Uber', 'scheme': None, 'label': None}, {'term': 'web hosting', "
+ "'scheme': None, 'label': None}], 'id': 'https://techcrunch.com/?p=1919195', "
+ "'guidislink': False, 'summary': 'Today at AWS re:Invent, Amazon announced a "
+ 'new ability to manage Cassandra databases on AWS. Already used by companies '
+ 'as diverse as Grubhub.com, Netflix, Ooyala, Openwave, Reddit and Uber to '
+ 'manage distributed NoSQL databases that handle large amounts of data across '
+ 'commodity servers, the new Amazon Managed Apache Cassandra Service is '
+ "AWS&#8217;s attempt to offer [&#8230;]', 'summary_detail': {'type': "
+ "'text/html', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': 'Today at AWS "
+ 're:Invent, Amazon announced a new ability to manage Cassandra databases on '
+ 'AWS. Already used by companies as diverse as Grubhub.com, Netflix, Ooyala, '
+ 'Openwave, Reddit and Uber to manage distributed NoSQL databases that handle '
+ 'large amounts of data across commodity servers, the new Amazon Managed '
+ "Apache Cassandra Service is AWS&#8217;s attempt to offer [&#8230;]'}, "
+ "'content': [{'type': 'text/html', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': '<p "
+ 'id="speakable-summary">Today at AWS re:Invent, <a class="crunchbase-link" '
+ 'href="https://crunchbase.com/organization/amazon" target="_blank" '
+ 'data-type="organization" data-entity="amazon">Amazon <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> announced a new ability to '
+ 'manage Cassandra databases on AWS.</p>\\n<p>Already used by companies as '
+ 'diverse as Grubhub.com, <a class="crunchbase-link" '
+ 'href="https://crunchbase.com/organization/netflix" target="_blank" '
+ 'data-type="organization" data-entity="netflix">Netflix, <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> Ooyala, <a '
+ 'class="crunchbase-link" href="https://crunchbase.com/organization/openwave" '
+ 'target="_blank" data-type="organization" data-entity="openwave">Openwave, '
+ '<span class="crunchbase-tooltip-indicator"></span></a> Reddit and <a '
+ 'class="crunchbase-link" href="https://crunchbase.com/organization/uber" '
+ 'target="_blank" data-type="organization" data-entity="uber">Uber <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> to manage distributed NoSQL '
+ 'databases that handle large amounts of data across commodity servers, the '
+ 'new <a href="http://aws.amazon.com/mcs">Amazon Managed Apache Cassandra '
+ 'Service</a> is AWS&#8217;s attempt to offer Cassandra directly instead of '
+ 'through third-party vendors.</p>\\n<p>The Amazon MCS is serverless, so users '
+ 'pay for the resources they use and it can automatically scale up and down in '
+ 'response to application traffic, the company says. It enables the '
+ 'development of applications that can serve thousands of requests per second '
+ 'with unlimited throughput and storage (something that can be incredibly '
+ 'attractive for IOT customers).</p>\\n<p>With the new services, developers '
+ 'can run Cassandra workloads on AWS using the same application code and '
+ 'developer tools they&#8217;re already using. Application updates just '
+ 'require\\xa0<a href="https://docs.aws.amazon.com/console/mcs/cqlsh">changing '
+ 'the endpoint to the one in the\\xa0</a><a title="" '
+ 'href="http://aws.amazon.com/mcs">Amazon MCS</a> service table, the company '
+ 'said.</p>\\n<p>The data is also encrypted at rest by default using '
+ 'encryption keys that are stored in\\xa0<a title="" '
+ 'href="https://aws.amazon.com/kms/">AWS Key Management Service (KMS)</a>. And '
+ '<a title="" href="http://aws.amazon.com/mcs">Amazon MCS</a>\\xa0is also '
+ 'integrated with\\xa0<a title="" href="https://aws.amazon.com/iam/">AWS '
+ 'Identity and Access Management (IAM)</a> to help developers manage and '
+ 'access table data, the company said.</p>\\n<p>Amazon also said it would work '
+ 'with the Cassandra API libraries and contribute to bug fixes to the '
+ 'open-source <a class="crunchbase-link" '
+ 'href="https://crunchbase.com/organization/apache-cassandra" target="_blank" '
+ 'data-type="organization" data-entity="apache-cassandra">Apache Cassandra '
+ '<span class="crunchbase-tooltip-indicator"></span></a> project. AWS is '
+ 'charging for on-demand capacity during the preview and at general '
+ 'availability the company will make provisioned throughput available for more '
+ 'predictable workloads.</p>\\n<p>For now, the product is a part of '
+ 'Amazon&#8217;s free tier; for the first three months companies can receive a '
+ 'free tier of 30 million write request units, 30 million read request units '
+ 'and one gig of storage.</p>\\n<p><a '
+ 'href="https://techcrunch.com/tag/aws-reinvent-2019"><img '
+ 'src="https://techcrunch.com/wp-content/uploads/2019/11/aws-reinvent-2019-banner.png" '
+ '/></a></p>\\n<img '
+ 'src="http://feeds.feedburner.com/~r/TechCrunch/Amazon/~4/PhfwWhOpltI" '
+ 'height="1" width="1" alt=""/>\'}], \'wfw_commentrss\': '
+ "'https://techcrunch.com/2019/12/03/aws-launches-managed-cassandra-services/feed/', "
+ "'slash_comments': '0', 'post-id': '1919195', 'feedburner_origlink': "
+ "'https://techcrunch.com/2019/12/03/aws-launches-managed-cassandra-services/'}, "
+ "{'title': 'Walmart tops Amazon as most-downloaded US shopping app on Black "
+ "Friday', 'title_detail': {'type': 'text/plain', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': 'Walmart tops "
+ "Amazon as most-downloaded US shopping app on Black Friday'}, 'links': "
+ "[{'rel': 'alternate', 'type': 'text/html', 'href': "
+ "'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/5VPNIouCZA8/'}], "
+ "'link': 'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/5VPNIouCZA8/', "
+ "'comments': "
+ "'https://techcrunch.com/2019/12/03/walmart-tops-amazon-as-most-downloaded-u-s-shopping-app-on-black-friday/#respond', "
+ "'published': 'Tue, 03 Dec 2019 18:11:34 +0000', 'published_parsed': "
+ 'time.struct_time(tm_year=2019, tm_mon=12, tm_mday=3, tm_hour=18, tm_min=11, '
+ "tm_sec=34, tm_wday=1, tm_yday=337, tm_isdst=0), 'authors': [{'name': 'Sarah "
+ "Perez'}], 'author': 'Sarah Perez', 'author_detail': {'name': 'Sarah Perez'}, "
+ "'tags': [{'term': 'Apps', 'scheme': None, 'label': None}, {'term': "
+ "'eCommerce', 'scheme': None, 'label': None}, {'term': 'TC', 'scheme': None, "
+ "'label': None}, {'term': 'Amazon', 'scheme': None, 'label': None}, {'term': "
+ "'Mobile', 'scheme': None, 'label': None}, {'term': 'retail', 'scheme': None, "
+ "'label': None}, {'term': 'shopping', 'scheme': None, 'label': None}, "
+ "{'term': 'Walmart', 'scheme': None, 'label': None}], 'id': "
+ "'https://techcrunch.com/?p=1919609', 'guidislink': False, 'summary': 'Amazon "
+ 'says Cyber Monday 2019 has now become the retailer&#8217;s biggest shopping '
+ 'day of all time, based on the number of items sold worldwide. However, in '
+ 'the U.S., a different trend took shape over the big sales holiday weekend '
+ 'kicked off by Black Friday. This year, Walmart became the No. 1 shopping app '
+ "in the [&#8230;]', 'summary_detail': {'type': 'text/html', 'language': None, "
+ "'base': 'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': 'Amazon "
+ 'says Cyber Monday 2019 has now become the retailer&#8217;s biggest shopping '
+ 'day of all time, based on the number of items sold worldwide. However, in '
+ 'the U.S., a different trend took shape over the big sales holiday weekend '
+ 'kicked off by Black Friday. This year, Walmart became the No. 1 shopping app '
+ "in the [&#8230;]'}, 'content': [{'type': 'text/html', 'language': None, "
+ "'base': 'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': '<p "
+ 'id="speakable-summary"><a class="crunchbase-link" '
+ 'href="https://crunchbase.com/organization/amazon" target="_blank" '
+ 'data-type="organization" data-entity="amazon">Amazon <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> <a '
+ 'href="https://blog.aboutamazon.com/shopping/the-single-biggest-shopping-day-in-amazon-history">says</a> '
+ 'Cyber Monday 2019 has now become the retailer&#8217;s biggest shopping day '
+ 'of all time, based on the number of items sold worldwide. However, in the '
+ 'U.S., a different trend took shape over the big sales holiday weekend kicked '
+ 'off by Black Friday. This year, Walmart became the No. 1 shopping app in the '
+ 'U.S. on Black Friday for the first time ever, according to\\xa0<a '
+ 'href="https://sensortower.com/blog/top-shopping-apps-black-friday-2019">Sensor '
+ 'Tower&#8217;s analysis</a>.</p>\\n<p><a class="crunchbase-link" '
+ 'href="https://crunchbase.com/organization/walmart" target="_blank" '
+ 'data-type="organization" data-entity="walmart">Walmart&#8217;s <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> app reached No. 1 among all '
+ 'shopping in the U.S. after peaking on Thanksgiving as No. 6 among all apps '
+ '(not just shopping), noted App Annie, based on both iOS and Android '
+ 'downloads.</p>\\n<p>Sensor Tower confirmed the same, noting that Walmart was '
+ 'the most-installed shopping app on the U.S. App Store on Black Friday, with '
+ '113,000 new downloads, representing a year-over-year increase of '
+ '23%.</p>\\n<p>Remarkably, this made 2019 the first year that Amazon&#8217;s '
+ 'app didn&#8217;t top the App Store&#8217;s list of most-downloaded shopping '
+ 'apps, the firm says.</p>\\n<p>Amazon&#8217;s app was a close second, with '
+ '102,000 first-time installs, but this figure represented a 10% decrease from '
+ 'Black Friday 2018.</p>\\n<p><img class="aligncenter size-large '
+ 'wp-image-1919632" '
+ 'src="https://techcrunch.com/wp-content/uploads/2019/12/top-shopping-apps-black-friday-2019.jpg?w=680" '
+ 'alt="" width="680" height="405" '
+ 'srcset="https://techcrunch.com/wp-content/uploads/2019/12/top-shopping-apps-black-friday-2019.jpg '
+ '1450w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/12/top-shopping-apps-black-friday-2019.jpg?resize=150,89 '
+ '150w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/12/top-shopping-apps-black-friday-2019.jpg?resize=300,179 '
+ '300w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/12/top-shopping-apps-black-friday-2019.jpg?resize=768,458 '
+ '768w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/12/top-shopping-apps-black-friday-2019.jpg?resize=680,405 '
+ '680w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/12/top-shopping-apps-black-friday-2019.jpg?resize=50,30 '
+ '50w" sizes="(max-width: 680px) 100vw, 680px" /></p>\\n<p>The further top 10 '
+ 'list included: Target, Best Buy, GOAT, Nike, Kohl&#8217;s, Wish, '
+ 'Macy&#8217;s and Adidas. Combined, these top 10 most-download apps grew 11% '
+ 'year-over-year, reaching a total 527,000 installs. That&#8217;s 28.8% of all '
+ 'downloads for the Shopping category &#8212; the largest percentage since the '
+ 'Shopping category&#8217;s creation in 2015.</p>\\n<p>Overall, the number of '
+ 'first-time downloads in the U.S. App Store&#8217;s Shopping category on '
+ 'Black Friday increased 8% year-over-year, and totaled 1.8 million '
+ 'downloads.</p>\\n<p>Though Walmart was No. 1 in the U.S., Amazon was No. 1 '
+ 'when apps were ranked globally instead of U.S.-only, and it was No. 1 among '
+ 'all U.S. online-only apps.</p>\\n<p><img class="aligncenter size-large '
+ 'wp-image-1919654" '
+ 'src="https://techcrunch.com/wp-content/uploads/2019/12/us-app-store-downloads-chart.jpg?w=680" '
+ 'alt="" width="680" height="399" '
+ 'srcset="https://techcrunch.com/wp-content/uploads/2019/12/us-app-store-downloads-chart.jpg '
+ '1450w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/12/us-app-store-downloads-chart.jpg?resize=150,88 '
+ '150w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/12/us-app-store-downloads-chart.jpg?resize=300,176 '
+ '300w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/12/us-app-store-downloads-chart.jpg?resize=768,450 '
+ '768w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/12/us-app-store-downloads-chart.jpg?resize=680,399 '
+ '680w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/12/us-app-store-downloads-chart.jpg?resize=50,29 '
+ '50w" sizes="(max-width: 680px) 100vw, 680px" /></p>\\n<p>While Sensor '
+ 'Tower&#8217;s analysis is based on Black Friday installs, not Cyber Monday '
+ 'data, Amazon&#8217;s worldwide dominance on this day does seem to back up '
+ 'the retailer&#8217;s own claims of its record-breaking sales on a global '
+ 'basis on Monday.</p>\\n<p><a '
+ 'href="https://blog.aboutamazon.com/shopping/the-single-biggest-shopping-day-in-amazon-history">Amazon '
+ 'said</a> customers bought &#8220;hundreds of millions&#8221; of products '
+ 'between Thanksgiving and Cyber Monday. And it said &#8220;millions '
+ 'more&#8221; customers bought Amazon devices, like Echo Dot and Fire TV '
+ 'Stick, compared with the same period last year. (That may be true, but '
+ 'Amazon devices are <a '
+ 'href="https://www.theverge.com/2018/10/24/18020262/amazon-echo-italy-spain-available-languages-cultural-features">also '
+ 'more broadly available</a> <a '
+ 'href="https://www.theverge.com/2018/6/6/17433060/alexa-echo-france-price-date-specs">to '
+ 'customers worldwide</a> compared with 2018 &#8212; so perhaps this '
+ 'isn&#8217;t the fairest comparison.)</p>\\n<p><img class="aligncenter '
+ 'size-large wp-image-1919645" '
+ 'src="https://techcrunch.com/wp-content/uploads/2019/12/walmart-black-friday-2019.jpeg?w=680" '
+ 'alt="" width="680" height="443" '
+ 'srcset="https://techcrunch.com/wp-content/uploads/2019/12/walmart-black-friday-2019.jpeg '
+ '1840w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/12/walmart-black-friday-2019.jpeg?resize=150,98 '
+ '150w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/12/walmart-black-friday-2019.jpeg?resize=300,196 '
+ '300w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/12/walmart-black-friday-2019.jpeg?resize=768,501 '
+ '768w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/12/walmart-black-friday-2019.jpeg?resize=680,443 '
+ '680w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/12/walmart-black-friday-2019.jpeg?resize=1536,1002 '
+ '1536w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/12/walmart-black-friday-2019.jpeg?resize=50,33 '
+ '50w" sizes="(max-width: 680px) 100vw, 680px" /></p>\\n<p>Walmart, meanwhile, '
+ 'didn&#8217;t tout its Cyber Monday event&#8217;s numbers, but said '
+ '&#8220;millions&#8221; of customers<a '
+ 'href="https://corporate.walmart.com/newsroom/2019/11/28/incredible-prices-on-quality-brands-plus-convenience-heres-how-walmarts-black-friday-delivered"> '
+ 'joined for Black Friday sales online and in stores</a>.</p>\\n<p>One thing '
+ 'that could have boosted Walmart&#8217;s app downloads this year was its '
+ 'focus on the in-store customer.</p>\\n<p>The app now includes an updated '
+ 'Store Map that makes it easier to navigate Walmart&#8217;s aisles, and it '
+ 'features &#8220;Check out with Me&#8221; &#8212; a way for shoppers to avoid '
+ 'checkout lines and instead check out with store personnel in the '
+ 'aisles.</p>\\n<p><em><strong>Update, Dec 5, 2019: </strong>At the time of '
+ 'publication, App Annie&#8217;s analysis had also shown Walmart took over '
+ 'Amazon&#8217;s spot on Black Friday. The company has now retracted that '
+ 'claim and says Amazon was, in fact, ahead.\\xa0</em></p>\\n<img '
+ 'src="http://feeds.feedburner.com/~r/TechCrunch/Amazon/~4/5VPNIouCZA8" '
+ 'height="1" width="1" alt=""/>\'}], \'wfw_commentrss\': '
+ "'https://techcrunch.com/2019/12/03/walmart-tops-amazon-as-most-downloaded-u-s-shopping-app-on-black-friday/feed/', "
+ "'slash_comments': '0', 'post-id': '1919609', 'feedburner_origlink': "
+ "'https://techcrunch.com/2019/12/03/walmart-tops-amazon-as-most-downloaded-u-s-shopping-app-on-black-friday/'}, "
+ "{'title': 'AWS announces EKS on Fargate is available', 'title_detail': "
+ "{'type': 'text/plain', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': 'AWS announces EKS "
+ "on Fargate is available'}, 'links': [{'rel': 'alternate', 'type': "
+ "'text/html', 'href': "
+ "'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/Y-zN1HWX-do/'}], "
+ "'link': 'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/Y-zN1HWX-do/', "
+ "'comments': "
+ "'https://techcrunch.com/2019/12/03/aws-announces-eks-on-fargate-is-available/#respond', "
+ "'published': 'Tue, 03 Dec 2019 17:18:21 +0000', 'published_parsed': "
+ 'time.struct_time(tm_year=2019, tm_mon=12, tm_mday=3, tm_hour=17, tm_min=18, '
+ "tm_sec=21, tm_wday=1, tm_yday=337, tm_isdst=0), 'authors': [{'name': 'Ron "
+ "Miller'}], 'author': 'Ron Miller', 'author_detail': {'name': 'Ron Miller'}, "
+ "'tags': [{'term': 'Cloud', 'scheme': None, 'label': None}, {'term': "
+ "'Developer', 'scheme': None, 'label': None}, {'term': 'TC', 'scheme': None, "
+ "'label': None}, {'term': 'Amazon', 'scheme': None, 'label': None}, {'term': "
+ "'AWS', 'scheme': None, 'label': None}, {'term': 'AWS Fargate', 'scheme': "
+ "None, 'label': None}, {'term': 'AWS re:Invent 2019', 'scheme': None, "
+ "'label': None}, {'term': 'containers', 'scheme': None, 'label': None}, "
+ "{'term': 'Kubernetes', 'scheme': None, 'label': None}], 'id': "
+ "'https://techcrunch.com/?p=1919577', 'guidislink': False, 'summary': 'Today "
+ 'at AWS re:Invent in Las Vegas, the company announced that Elastic Kubernetes '
+ 'Service is available on Fargate. EKS is Amazon�s flavor of Kubernetes. '
+ 'Fargate is a service announced in 2017 that enables you to launch '
+ 'containerized applications without worrying about the underlying '
+ 'infrastructure. �Starting today, you can start using Amazon Elastic '
+ "Kubernetes Service to [&#8230;]', 'summary_detail': {'type': 'text/html', "
+ "'language': None, 'base': 'http://feeds.feedburner.com/TechCrunch/Amazon', "
+ "'value': 'Today at AWS re:Invent in Las Vegas, the company announced that "
+ 'Elastic Kubernetes Service is available on Fargate. EKS is Amazon�s flavor '
+ 'of Kubernetes. Fargate is a service announced in 2017 that enables you to '
+ 'launch containerized applications without worrying about the underlying '
+ 'infrastructure. �Starting today, you can start using Amazon Elastic '
+ "Kubernetes Service to [&#8230;]'}, 'content': [{'type': 'text/html', "
+ "'language': None, 'base': 'http://feeds.feedburner.com/TechCrunch/Amazon', "
+ '\'value\': \'<p id="speakable-summary">Today at AWS re:Invent in Las Vegas, '
+ 'the company announced that Elastic <a class="crunchbase-link" '
+ 'href="https://crunchbase.com/organization/kubernetes" target="_blank" '
+ 'data-type="organization" data-entity="kubernetes">Kubernetes <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> Service is available on '
+ 'Fargate.</p>\\n<p>EKS is <a class="crunchbase-link" '
+ 'href="https://crunchbase.com/organization/amazon" target="_blank" '
+ 'data-type="organization" data-entity="amazon">Amazon�s <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> flavor of Kubernetes. '
+ 'Fargate is a <a '
+ 'href="https://techcrunch.com/2017/11/29/aws-fargate-lets-you-run-containers-without-managing-infrastructure/">service '
+ 'announced in 2017</a> that enables you to launch containerized applications '
+ 'without worrying about the underlying infrastructure.</p>\\n<p>�Starting '
+ 'today, you can start using Amazon Elastic Kubernetes Service to run '
+ 'Kubernetes pods on AWS Fargate. Amazon EKS and Fargate make it '
+ 'straightforward to run Kubernetes-based applications on AWS by removing the '
+ 'need to provision and manage infrastructure for pods,� the company wrote <a '
+ 'href="https://aws.amazon.com/blogs/aws/amazon-eks-on-aws-fargate-now-generally-available/">in '
+ 'a blog post</a> announcing the new feature.</p>\\n<p><img class="breakout '
+ 'alignnone size-full wp-image-1919614" '
+ 'src="https://techcrunch.com/wp-content/uploads/2019/12/1-4_v2.jpg" alt="" '
+ 'width="810" height="421" '
+ 'srcset="https://techcrunch.com/wp-content/uploads/2019/12/1-4_v2.jpg 810w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/12/1-4_v2.jpg?resize=150,78 '
+ '150w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/12/1-4_v2.jpg?resize=300,156 '
+ '300w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/12/1-4_v2.jpg?resize=768,399 '
+ '768w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/12/1-4_v2.jpg?resize=680,353 '
+ '680w, '
+ 'https://techcrunch.com/wp-content/uploads/2019/12/1-4_v2.jpg?resize=50,26 '
+ '50w" sizes="(max-width: 810px) 100vw, 810px" /></p>\\n<p>Pods are simply a '
+ 'group of containers you launch on the same Kubernetes cluster. If you think '
+ 'about the fact that Kubernetes enables you to launch these pods in an '
+ 'automated fashion, it makes sense to also provision the underlying '
+ 'infrastructure required to run those pods in an automated '
+ 'fashion.</p>\\n<p>�With AWS Fargate, you pay only for the amount of vCPU and '
+ 'memory resources that your pod needs to run. This includes the resources the '
+ 'pod requests in addition to a small amount of memory needed to run '
+ 'Kubernetes components alongside the pod. Pods running on Fargate follow the '
+ 'existing pricing model,� the company wrote in the blog.</p>\\n<p>That means '
+ 'developers won�t have to worry about over provisioning because Fargate '
+ 'should run the exact number of resources needed to run that pod at any given '
+ 'moment, and no more.</p>\\n<p>This feature is available starting today in '
+ 'U.S. East (N. Virginia), U.S. East (Ohio), Europe (Ireland) and Asia Pacific '
+ '(Tokyo).</p>\\n<div class="embed breakout">\\n<blockquote '
+ 'class="wp-embedded-content" data-secret="ZbCURdN0Nd"><p><a '
+ 'href="https://techcrunch.com/2017/11/29/aws-fargate-lets-you-run-containers-without-managing-infrastructure/">AWS '
+ 'Fargate lets you run containers without managing '
+ 'infrastructure</a></p></blockquote>\\n<p><iframe title="&#8220;AWS Fargate '
+ 'lets you run containers without managing infrastructure&#8221; &#8212; '
+ 'TechCrunch" class="wp-embedded-content" sandbox="allow-scripts" '
+ 'security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, '
+ '1px);" '
+ 'src="https://techcrunch.com/2017/11/29/aws-fargate-lets-you-run-containers-without-managing-infrastructure/embed/#?secret=ZbCURdN0Nd" '
+ 'data-secret="ZbCURdN0Nd" width="800" height="450" frameborder="0" '
+ 'marginwidth="0" marginheight="0" scrolling="no"></iframe></div>\\n<p><a '
+ 'href="https://techcrunch.com/tag/aws-reinvent-2019"><img '
+ 'src="https://techcrunch.com/wp-content/uploads/2019/11/aws-reinvent-2019-banner.png" '
+ '/></a></p>\\n<img '
+ 'src="http://feeds.feedburner.com/~r/TechCrunch/Amazon/~4/Y-zN1HWX-do" '
+ 'height="1" width="1" alt=""/>\'}], \'wfw_commentrss\': '
+ "'https://techcrunch.com/2019/12/03/aws-announces-eks-on-fargate-is-available/feed/', "
+ "'slash_comments': '0', 'post-id': '1919577', 'feedburner_origlink': "
+ "'https://techcrunch.com/2019/12/03/aws-announces-eks-on-fargate-is-available/'}, "
+ "{'title': 'Amazon Robotics head Tye Brady will be speaking at TC Sessions: "
+ "Robotics+AI 2020 at UC Berkeley', 'title_detail': {'type': 'text/plain', "
+ "'language': None, 'base': 'http://feeds.feedburner.com/TechCrunch/Amazon', "
+ "'value': 'Amazon Robotics head Tye Brady will be speaking at TC Sessions: "
+ "Robotics+AI 2020 at UC Berkeley'}, 'links': [{'rel': 'alternate', 'type': "
+ "'text/html', 'href': "
+ "'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/sxIYH4jpIlo/'}], "
+ "'link': 'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/sxIYH4jpIlo/', "
+ "'comments': "
+ "'https://techcrunch.com/2019/12/03/amazon-robotics-head-tye-brady-will-be-speaking-at-tc-sessions-roboticsai-2020-at-uc-berkeley/#respond', "
+ "'published': 'Tue, 03 Dec 2019 17:15:20 +0000', 'published_parsed': "
+ 'time.struct_time(tm_year=2019, tm_mon=12, tm_mday=3, tm_hour=17, tm_min=15, '
+ "tm_sec=20, tm_wday=1, tm_yday=337, tm_isdst=0), 'authors': [{'name': 'Brian "
+ "Heater'}], 'author': 'Brian Heater', 'author_detail': {'name': 'Brian "
+ "Heater'}, 'tags': [{'term': 'Events', 'scheme': None, 'label': None}, "
+ "{'term': 'Robotics', 'scheme': None, 'label': None}, {'term': 'Amazon', "
+ "'scheme': None, 'label': None}, {'term': 'amazon robotics', 'scheme': None, "
+ "'label': None}, {'term': 'artificial intelligence', 'scheme': None, 'label': "
+ "None}, {'term': 'Kiva Systems', 'scheme': None, 'label': None}, {'term': "
+ "'MassRobotics', 'scheme': None, 'label': None}, {'term': 'retail', 'scheme': "
+ "None, 'label': None}, {'term': 'technology', 'scheme': None, 'label': None}, "
+ "{'term': 'Tye Brady', 'scheme': None, 'label': None}, {'term': 'United "
+ "States', 'scheme': None, 'label': None}, {'term': 'warehouses', 'scheme': "
+ "None, 'label': None}], 'id': 'https://techcrunch.com/?p=1917204', "
+ "'guidislink': False, 'summary': 'We�re gearing up for another great TC "
+ 'Sessions: Robotics+AI\\xa0March 3 at UC Berkeley, and we�ve got some big '
+ 'names to announce. Last week, it was AI expert Stuart Russell, and today '
+ 'we�re pleased to note that we�ll be joined by Amazon Robotics Chief '
+ 'Technologist Tye Brady. A co-founder of MassRobotics, Brady has held a '
+ "number [&#8230;]', 'summary_detail': {'type': 'text/html', 'language': None, "
+ "'base': 'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': 'We�re "
+ 'gearing up for another great TC Sessions: Robotics+AI\\xa0March 3 at UC '
+ 'Berkeley, and we�ve got some big names to announce. Last week, it was AI '
+ 'expert Stuart Russell, and today we�re pleased to note that we�ll be joined '
+ 'by Amazon Robotics Chief Technologist Tye Brady. A co-founder of '
+ "MassRobotics, Brady has held a number [&#8230;]'}, 'content': [{'type': "
+ "'text/html', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': '<p "
+ 'class="p1"><span class="s1">We�re gearing up for another great <strong><a '
+ 'href="https://techcrunch.com/events/tc-sessions-robotics-ai-2020/?gclid=EAIaIQobChMIvM6mlpea5gIVjIbACh283A3YEAAYASAAEgLab_D_BwE">TC '
+ 'Sessions: Robotics+AI</a></strong>\\xa0March 3 at UC Berkeley, and we�ve got '
+ 'some big names to announce. Last week, it was AI expert <a '
+ 'href="https://techcrunch.com/2019/11/25/ai-expert-stuart-russell-to-join-tcs-roboticsai-2020-at-uc-berkeley/"><strong>Stuart '
+ 'Russell</strong></a>, and today we�re pleased to note that we�ll be joined '
+ 'by Amazon Robotics Chief Technologist <strong>Tye Brady</strong>. '
+ '</span></p>\\n<p class="p1"><span class="s1">A co-founder of '
+ '<strong>MassRobotics</strong>, Brady has held a number of high-profile '
+ 'positions throughout the robotics and aerospace industries, including '
+ 'positions at Draper Laboratory, the Massachusetts Autonomous Air Vehicle '
+ 'Research and Innovation Consortium and IEEE. It�s at Amazon, however, that '
+ 'he�s had his largest impact on the future of robotics and retail. '
+ '</span></p>\\n<p class="p1"><span class="s1">Founded in 2012 with the '
+ 'acquisition of Kiva Systems, Amazon Robotics leverages fulfillment center '
+ 'robots to transform warehouses across the nation. Amazon has amassed one of '
+ 'the world�s largest robotic workforces, with more than 100,000 deployed '
+ 'across various warehouses across the U.S. The system presents unique '
+ 'potential to help streamline the company�s massive number of packages '
+ 'processed. </span></p>\\n<p class="p1"><span class="s1">During Brady�s '
+ 'tenure, robotics have become an increasingly essential element of Amazon�s '
+ 'day-to-day operations, working alongside human counterparts to increase the '
+ 'efficiency of the company�s already speedy services. The executive will join '
+ 'us to discuss the company�s efforts and the future of the automation-driven '
+ 'workforce. </span></p>\\n<p class="p1"><span class="s1">Join our fourth '
+ 'annual <a '
+ 'href="https://techcrunch.com/events/tc-sessions-robotics-ai-2020/?gclid=EAIaIQobChMIvM6mlpea5gIVjIbACh283A3YEAAYASAAEgLab_D_BwE"><strong>TC '
+ 'Sessions: Robotics+AI</strong></a> on March 3 at UC Berkeley�s Zellerbach '
+ 'Hall for a remarkable day with the world�s top roboticists, investors, '
+ 'founders and AI engineers. The day features a full day of programming led by '
+ 'TechCrunch�s editors on the main stage, a pitch-off competition featuring '
+ 'early-stage startups, numerous breakout and speaker Q&amp;A sessions and '
+ 'much more. </span></p>\\n<p class="p1"><span class="s1">Get your early-bird '
+ 'pass <a '
+ 'href="https://techcrunch.com/events/tc-sessions-robotics-ai-2020/#tickets">here</a> '
+ 'and save $100 before prices go up. Interested in sponsoring? <a '
+ 'href="http://info.techcrunch.com/SponsorshipsInterest.html?_ga=2.147735806.874617471.1572269011-985484541.1566312242">Please '
+ 'get in touch</a>.</span></p>\\n<p '
+ 'id="speakable-summary">\\t<iframe\\n\\t\\t\\tid="wpcom-iframe-a4fad19c68e846fecc75f11477e3b068"\\n\\t\\t\\twidth="100%"\\n\\t\\t\\theight="550"\\n\\t\\t\\tsrc="https://tcprotectedembed.com/protected-iframe/a4fad19c68e846fecc75f11477e3b068"\\n\\t\\t\\tscrolling="true"\\n\\t\\t\\tframeborder="0"\\n\\t\\t\\tclass="wpcom-protected-iframe"\\n\\t>\\n\\t</iframe>\\n\\t<script '
+ 'type="text/javascript">\\n\\t\\t( function() {\\n\\t\\t\\tvar func = '
+ 'function() {\\n\\t\\t\\t\\tvar iframe = '
+ "document.getElementById(\\'wpcom-iframe-a4fad19c68e846fecc75f11477e3b068\\')\\n\\t\\t\\t\\tif "
+ '( iframe ) {\\n\\t\\t\\t\\t\\tiframe.onload = function() '
+ '{\\n\\t\\t\\t\\t\\t\\tiframe.contentWindow.postMessage( '
+ "{\\n\\t\\t\\t\\t\\t\\t\\t\\'msg_type\\': "
+ "\\'poll_size\\',\\n\\t\\t\\t\\t\\t\\t\\t\\'frame_id\\': "
+ "\\'wpcom-iframe-a4fad19c68e846fecc75f11477e3b068\\'\\n\\t\\t\\t\\t\\t\\t}, "
+ '"https:\\\\/\\\\/tcprotectedembed.com" '
+ ');\\n\\t\\t\\t\\t\\t}\\n\\t\\t\\t\\t}\\n\\n\\t\\t\\t\\t// Autosize '
+ 'iframe\\n\\t\\t\\t\\tvar funcSizeResponse = function( e ) '
+ "{\\n\\n\\t\\t\\t\\t\\tvar origin = document.createElement( \\'a\\' "
+ ');\\n\\t\\t\\t\\t\\torigin.href = e.origin;\\n\\n\\t\\t\\t\\t\\t// Verify '
+ "message origin\\n\\t\\t\\t\\t\\tif ( \\'tcprotectedembed.com\\' !== "
+ 'origin.host )\\n\\t\\t\\t\\t\\t\\treturn;\\n\\n\\t\\t\\t\\t\\t// Verify '
+ "message is in a format we expect\\n\\t\\t\\t\\t\\tif ( \\'object\\' !== "
+ 'typeof e.data || undefined === e.data.msg_type '
+ ')\\n\\t\\t\\t\\t\\t\\treturn;\\n\\n\\t\\t\\t\\t\\tswitch ( e.data.msg_type ) '
+ '{\\n\\t\\t\\t\\t\\t\\tcase '
+ "\\'poll_size:response\\':\\n\\t\\t\\t\\t\\t\\t\\tvar iframe = "
+ 'document.getElementById( e.data._request.frame_id '
+ ");\\n\\n\\t\\t\\t\\t\\t\\t\\tif ( iframe && \\'\\' === iframe.width "
+ ')\\n\\t\\t\\t\\t\\t\\t\\t\\tiframe.width = '
+ "\\'100%\\';\\n\\t\\t\\t\\t\\t\\t\\tif ( iframe && \\'\\' === iframe.height "
+ ')\\n\\t\\t\\t\\t\\t\\t\\t\\tiframe.height = parseInt( e.data.height '
+ ');\\n\\n\\t\\t\\t\\t\\t\\t\\treturn;\\n\\t\\t\\t\\t\\t\\tdefault:\\n\\t\\t\\t\\t\\t\\t\\treturn;\\n\\t\\t\\t\\t\\t}\\n\\t\\t\\t\\t}\\n\\n\\t\\t\\t\\tif '
+ "( \\'function\\' === typeof window.addEventListener ) "
+ "{\\n\\t\\t\\t\\t\\twindow.addEventListener( \\'message\\', funcSizeResponse, "
+ "false );\\n\\t\\t\\t\\t} else if ( \\'function\\' === typeof "
+ "window.attachEvent ) {\\n\\t\\t\\t\\t\\twindow.attachEvent( \\'onmessage\\', "
+ 'funcSizeResponse );\\n\\t\\t\\t\\t}\\n\\t\\t\\t}\\n\\t\\t\\tif '
+ "(document.readyState === \\'complete\\') { func.apply(); /* compat for "
+ 'infinite scroll */ }\\n\\t\\t\\telse if ( document.addEventListener ) { '
+ "document.addEventListener( \\'DOMContentLoaded\\', func, false ); "
+ '}\\n\\t\\t\\telse if ( document.attachEvent ) { document.attachEvent( '
+ "\\'onreadystatechange\\', func ); }\\n\\t\\t} "
+ ')();\\n\\t</script>\\n\\t</p>\\n<img '
+ 'src="http://feeds.feedburner.com/~r/TechCrunch/Amazon/~4/sxIYH4jpIlo" '
+ 'height="1" width="1" alt=""/>\'}], \'wfw_commentrss\': '
+ "'https://techcrunch.com/2019/12/03/amazon-robotics-head-tye-brady-will-be-speaking-at-tc-sessions-roboticsai-2020-at-uc-berkeley/feed/', "
+ "'slash_comments': '0', 'post-id': '1917204', 'feedburner_origlink': "
+ "'https://techcrunch.com/2019/12/03/amazon-robotics-head-tye-brady-will-be-speaking-at-tc-sessions-roboticsai-2020-at-uc-berkeley/'}, "
+ "{'title': 'Watch Amazon�s AWS re:Invent conference live right here', "
+ "'title_detail': {'type': 'text/plain', 'language': None, 'base': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': 'Watch Amazon�s "
+ "AWS re:Invent conference live right here'}, 'links': [{'rel': 'alternate', "
+ "'type': 'text/html', 'href': "
+ "'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/I_yZiDLYJmM/'}], "
+ "'link': 'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/I_yZiDLYJmM/', "
+ "'comments': "
+ "'https://techcrunch.com/2019/12/03/watch-amazons-aws-reinvent-conference-live-right-here/#respond', "
+ "'published': 'Tue, 03 Dec 2019 16:09:40 +0000', 'published_parsed': "
+ 'time.struct_time(tm_year=2019, tm_mon=12, tm_mday=3, tm_hour=16, tm_min=9, '
+ "tm_sec=40, tm_wday=1, tm_yday=337, tm_isdst=0), 'authors': [{'name': 'Romain "
+ "Dillet'}], 'author': 'Romain Dillet', 'author_detail': {'name': 'Romain "
+ "Dillet'}, 'tags': [{'term': 'Developer', 'scheme': None, 'label': None}, "
+ "{'term': 'Amazon', 'scheme': None, 'label': None}, {'term': 'AWS', 'scheme': "
+ "None, 'label': None}, {'term': 'aws re:Invent', 'scheme': None, 'label': "
+ "None}, {'term': 'AWS re:Invent 2019', 'scheme': None, 'label': None}, "
+ "{'term': 're:invent', 'scheme': None, 'label': None}, {'term': 're:Invent "
+ "2019', 'scheme': None, 'label': None}], 'id': "
+ "'https://techcrunch.com/?p=1919513', 'guidislink': False, 'summary': 'If you "
+ 'can�t stop dreaming about NoSQL databases, AWS re:Invent is the closest '
+ 'thing to heaven that you�ll find today. At 8 AM PT/11 AM ET/4 PM GMT, some '
+ 'of the brightest minds in cloud computing are going to introduce the '
+ 'upcoming features of AWS. Along with Google Cloud and Microsoft Azure, '
+ "Amazon is building [&#8230;]', 'summary_detail': {'type': 'text/html', "
+ "'language': None, 'base': 'http://feeds.feedburner.com/TechCrunch/Amazon', "
+ "'value': 'If you can�t stop dreaming about NoSQL databases, AWS re:Invent is "
+ 'the closest thing to heaven that you�ll find today. At 8 AM PT/11 AM ET/4 PM '
+ 'GMT, some of the brightest minds in cloud computing are going to introduce '
+ 'the upcoming features of AWS. Along with Google Cloud and Microsoft Azure, '
+ "Amazon is building [&#8230;]'}, 'content': [{'type': 'text/html', "
+ "'language': None, 'base': 'http://feeds.feedburner.com/TechCrunch/Amazon', "
+ '\'value\': \'<p id="speakable-summary">If you can�t stop dreaming about '
+ 'NoSQL databases, AWS re:Invent is the closest thing to heaven that you�ll '
+ 'find today. At 8 AM PT/11 AM ET/4 PM GMT, some of the brightest minds in '
+ 'cloud computing are going to introduce the upcoming features of '
+ 'AWS.</p>\\n<p>Along with Google Cloud and Microsoft Azure, <a '
+ 'class="crunchbase-link" href="https://crunchbase.com/organization/amazon" '
+ 'target="_blank" data-type="organization" data-entity="amazon">Amazon <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> is building the '
+ 'infrastructure of the web. Countless startups use AWS as their only hosting '
+ 'provider. So it�s going to be interesting to see what Amazon has in store to '
+ 'beat their competitors on the cloud front.</p>\\n<p><iframe '
+ 'src="https://player.twitch.tv/?channel=aws" frameborder="0" '
+ 'allowfullscreen="true" scrolling="no" height="440" '
+ 'width="780"></iframe></p>\\n<p><a '
+ 'href="https://techcrunch.com/tag/aws-reinvent-2019"><img '
+ 'src="https://techcrunch.com/wp-content/uploads/2019/11/aws-reinvent-2019-banner.png" '
+ '/></a></p>\\n<img '
+ 'src="http://feeds.feedburner.com/~r/TechCrunch/Amazon/~4/I_yZiDLYJmM" '
+ 'height="1" width="1" alt=""/>\'}], \'wfw_commentrss\': '
+ "'https://techcrunch.com/2019/12/03/watch-amazons-aws-reinvent-conference-live-right-here/feed/', "
+ "'slash_comments': '0', 'post-id': '1919513', 'feedburner_origlink': "
+ "'https://techcrunch.com/2019/12/03/watch-amazons-aws-reinvent-conference-live-right-here/'}, "
+ "{'title': 'New Amazon tool simplifies delivery of containerized machine "
+ "learning models', 'title_detail': {'type': 'text/plain', 'language': None, "
+ "'base': 'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': 'New "
+ "Amazon tool simplifies delivery of containerized machine learning models'}, "
+ "'links': [{'rel': 'alternate', 'type': 'text/html', 'href': "
+ "'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/Svl4bcKD-Sk/'}], "
+ "'link': 'http://feedproxy.google.com/~r/TechCrunch/Amazon/~3/Svl4bcKD-Sk/', "
+ "'comments': "
+ "'https://techcrunch.com/2019/12/02/new-amazon-tool-simplifies-delivery-of-containerized-machine-learning-models/#respond', "
+ "'published': 'Mon, 02 Dec 2019 18:41:25 +0000', 'published_parsed': "
+ 'time.struct_time(tm_year=2019, tm_mon=12, tm_mday=2, tm_hour=18, tm_min=41, '
+ "tm_sec=25, tm_wday=0, tm_yday=336, tm_isdst=0), 'authors': [{'name': 'Ron "
+ "Miller'}], 'author': 'Ron Miller', 'author_detail': {'name': 'Ron Miller'}, "
+ "'tags': [{'term': 'Artificial Intelligence', 'scheme': None, 'label': None}, "
+ "{'term': 'Cloud', 'scheme': None, 'label': None}, {'term': 'Developer', "
+ "'scheme': None, 'label': None}, {'term': 'Enterprise', 'scheme': None, "
+ "'label': None}, {'term': 'Amazon', 'scheme': None, 'label': None}, {'term': "
+ "'Amazon SageMaker', 'scheme': None, 'label': None}, {'term': 'AWS', "
+ "'scheme': None, 'label': None}, {'term': 'AWS re:Invent 2019', 'scheme': "
+ "None, 'label': None}, {'term': 'machine learning', 'scheme': None, 'label': "
+ "None}], 'id': 'https://techcrunch.com/?p=1918972', 'guidislink': False, "
+ "'summary': 'As part of the flurry of announcements coming this week out of "
+ 'AWS re:Invent, Amazon announced the release of Amazon SageMaker Operators '
+ 'for Kubernetes, a way for data scientists and developers to simplify '
+ 'training, tuning and deploying containerized machine learning models. '
+ 'Packaging machine learning models in containers can help put them to work '
+ "inside organizations [&#8230;]', 'summary_detail': {'type': 'text/html', "
+ "'language': None, 'base': 'http://feeds.feedburner.com/TechCrunch/Amazon', "
+ "'value': 'As part of the flurry of announcements coming this week out of AWS "
+ 're:Invent, Amazon announced the release of Amazon SageMaker Operators for '
+ 'Kubernetes, a way for data scientists and developers to simplify training, '
+ 'tuning and deploying containerized machine learning models. Packaging '
+ 'machine learning models in containers can help put them to work inside '
+ "organizations [&#8230;]'}, 'content': [{'type': 'text/html', 'language': "
+ "None, 'base': 'http://feeds.feedburner.com/TechCrunch/Amazon', 'value': '<p "
+ 'id="speakable-summary">As part of the flurry of announcements coming this '
+ 'week out of <a href="https://reinvent.awsevents.com/">AWS re:Invent</a>, '
+ 'Amazon announced the release of <a '
+ 'href="https://github.com/aws/amazon-sagemaker-operator-for-k8s">Amazon '
+ 'SageMaker Operators for Kubernetes</a>, a way for data scientists and '
+ 'developers to simplify training, tuning and deploying containerized machine '
+ 'learning models.</p>\\n<p>Packaging machine learning models in containers '
+ 'can help put them to work inside organizations faster, but getting there '
+ 'often requires a lot of extra management to make it all work. <a '
+ 'class="crunchbase-link" href="https://crunchbase.com/organization/amazon" '
+ 'target="_blank" data-type="organization" data-entity="amazon">Amazon <span '
+ 'class="crunchbase-tooltip-indicator"></span></a> SageMaker Operators for '
+ 'Kubernetes is supposed to make it easier to run and manage those containers, '
+ 'the underlying infrastructure needed to run the models and the workflows '
+ 'associated with all of it.</p>\\n<p>&#8220;While Kubernetes gives customers '
+ 'control and portability, running ML workloads on a Kubernetes cluster brings '
+ 'unique challenges. For example, the underlying infrastructure requires '
+ 'additional management such as optimizing for utilization, cost and '
+ 'performance; complying with appropriate security and regulatory '
+ 'requirements; and ensuring high availability and reliability,&#8221; '
+ 'AWS&#8217; Aditya Bindal <a '
+ 'href="https://aws.amazon.com/blogs/machine-learning/introducing-amazon-sagemaker-operators-for-kubernetes/">wrote '
+ 'in a blog post</a> introducing the new feature.</p>\\n<p>When you combine '
+ 'that with the workflows associated with delivering a machine learning model '
+ 'inside an organization at scale, it becomes part of a much bigger delivery '
+ 'pipeline, one that is challenging to manage across departments and a variety '
+ 'of resource requirements.</p>\\n<p>This is precisely what Amazon SageMaker '
+ 'Operators for Kubernetes has been designed to help DevOps teams do. '
+ '&#8220;Amazon SageMaker Operators for Kubernetes bridges this gap, and '
+ 'customers are now spared all the heavy lifting of integrating their Amazon '
+ 'SageMaker and Kubernetes workflows. Starting today, customers using '
+ 'Kubernetes can make a simple call to Amazon SageMaker, a modular and '
+ 'fully-managed service that makes it easier to build, train, and deploy '
+ 'machine learning (ML) models at scale,&#8221; Bindal wrote.</p>\\n<p>The '
+ 'promise of Kubernetes is that it can orchestrate the delivery of containers '
+ 'at the right moment, but if you haven&#8217;t automated delivery of the '
+ 'underlying infrastructure, you can over (or under) provision and not provide '
+ 'the correct amount of resources required to run the job. That&#8217;s where '
+ 'this new tool, combined with SageMaker, can help.</p>\\n<p>&#8220;With '
+ 'workflows in Amazon SageMaker, compute resources are pre-configured and '
+ 'optimized, only provisioned when requested, scaled as needed, and shut down '
+ 'automatically when jobs complete, offering near 100% utilization,&#8221; '
+ 'Bindal wrote.</p>\\n<p>Amazon SageMaker Operators for Kubernetes are '
+ 'available today in select AWS regions.</p>\\n<div class="embed '
+ 'breakout">\\n<blockquote class="wp-embedded-content" '
+ 'data-secret="8u90VUXU8L"><p><a '
+ 'href="https://techcrunch.com/2017/11/29/aws-releases-sagemaker-to-make-it-easier-to-build-and-deploy-machine-learning-models/">AWS '
+ 'releases SageMaker to make it easier to build and deploy machine learning '
+ 'models</a></p></blockquote>\\n<p><iframe title="&#8220;AWS releases '
+ 'SageMaker to make it easier to build and deploy machine learning '
+ 'models&#8221; &#8212; TechCrunch" class="wp-embedded-content" '
+ 'sandbox="allow-scripts" security="restricted" style="position: absolute; '
+ 'clip: rect(1px, 1px, 1px, 1px);" '
+ 'src="https://techcrunch.com/2017/11/29/aws-releases-sagemaker-to-make-it-easier-to-build-and-deploy-machine-learning-models/embed/#?secret=8u90VUXU8L" '
+ 'data-secret="8u90VUXU8L" width="800" height="450" frameborder="0" '
+ 'marginwidth="0" marginheight="0" scrolling="no"></iframe></div>\\n<p><a '
+ 'href="https://techcrunch.com/tag/aws-reinvent-2019"><img '
+ 'src="https://techcrunch.com/wp-content/uploads/2019/11/aws-reinvent-2019-banner.png"/></a></p>\\n<img '
+ 'src="http://feeds.feedburner.com/~r/TechCrunch/Amazon/~4/Svl4bcKD-Sk" '
+ 'height="1" width="1" alt=""/>\'}], \'wfw_commentrss\': '
+ "'https://techcrunch.com/2019/12/02/new-amazon-tool-simplifies-delivery-of-containerized-machine-learning-models/feed/', "
+ "'slash_comments': '0', 'post-id': '1918972', 'feedburner_origlink': "
+ "'https://techcrunch.com/2019/12/02/new-amazon-tool-simplifies-delivery-of-containerized-machine-learning-models/'}], "
+ "'bozo': 0, 'headers': {'Content-Type': 'text/xml; charset=UTF-8', 'ETag': "
+ "'5P4LTvdGf/fGzs1qg6LNDA7iGaQ', 'Last-Modified': 'Thu, 19 Dec 2019 10:50:46 "
+ "GMT', 'Content-Encoding': 'gzip', 'Transfer-Encoding': 'chunked', 'Date': "
+ "'Thu, 19 Dec 2019 11:56:25 GMT', 'Expires': 'Thu, 19 Dec 2019 11:56:25 GMT', "
+ "'Cache-Control': 'private, max-age=0', 'X-Content-Type-Options': 'nosniff', "
+ "'X-XSS-Protection': '1; mode=block', 'Server': 'GSE', 'Connection': "
+ "'close'}, 'etag': '5P4LTvdGf/fGzs1qg6LNDA7iGaQ', 'updated': 'Thu, 19 Dec "
+ "2019 10:50:46 GMT', 'updated_parsed': time.struct_time(tm_year=2019, "
+ 'tm_mon=12, tm_mday=19, tm_hour=10, tm_min=50, tm_sec=46, tm_wday=3, '
+ "tm_yday=353, tm_isdst=0), 'href': "
+ "'http://feeds.feedburner.com/TechCrunch/Amazon', 'status': 200, 'encoding': "
+ "'UTF-8', 'version': 'rss20', 'namespaces': {'content': "
+ "'http://purl.org/rss/1.0/modules/content/', 'wfw': "
+ "'http://wellformedweb.org/CommentAPI/', 'dc': "
+ "'http://purl.org/dc/elements/1.1/', '': 'com-wordpress:feed-additions:1', "
+ "'sy': 'http://purl.org/rss/1.0/modules/syndication/', 'slash': "
+ "'http://purl.org/rss/1.0/modules/slash/', 'feedburner': "
+ "'http://rssnamespace.org/feedburner/ext/1.0'}}")
