@@ -1,6 +1,5 @@
 import numpy as np
 import pprint as pr
-import random
 
 def loadDataSet():
     dataMat = []; labelMat = []
@@ -29,11 +28,12 @@ def gradAscent(dataMatIn, classLabels):
 
     # NumPy can operate on both 2D arrays and matrices, and the results will be different if you assume the wrong data type.
     m,n = np.shape(dataMatrix)     # n - no of features in the dataset
-    alpha = 0.001   # learning rate
-    maxCycles = 500 # the number of times you’re going to repeat the calculation before stopping
+    alpha = 0.003   # learning rate
+    maxCycles = 1000 # the number of times you’re going to repeat the calculation before stopping
 
     #INITIALLY ALL WEIGHTS ARE SET TO 1
     weights = np.ones((n,1))
+    allOnes = np.mat(np.ones( np.shape(labelMat)))
     for k in range(maxCycles):
         h = sigmoid(dataMatrix*weights)   
         error = (labelMat - h)
@@ -41,21 +41,18 @@ def gradAscent(dataMatIn, classLabels):
         Qualitatively you can see we’re calculating the error between the actual class
         and the predicted class and then moving in the direction of that error
         '''
+        oneMinusFunc = allOnes -  h 
+        temp = np.mat(np.array(oneMinusFunc)*np.array(h))        
+        temp2 = np.mat(np.array(error)*np.array(temp))        
 
         #The multiplication dataMatrix * weights is not one multiplication but actually no of multiplications.
         #This is the line where u actually use gradient ascent formula
-        weights = weights + alpha * dataMatrix.transpose()* error
+        weights = weights + alpha * dataMatrix.transpose()* temp2
  
     return weights
 
 
 def stocGradAscent0(dataMatrix, classLabels):
-    '''
-    A modified version of gradAscent which uses less computations.
-    You can see that stochastic gradient ascent is similar to gradient ascent except that the
-    variables h and error are now single values rather than vectors. There also is no
-    matrix conversion, so all of the variables are NumPy arrays.
-    '''
     m,n = np.shape(dataMatrix)
     alpha = 0.01
     weights = np.ones(n)
@@ -63,20 +60,6 @@ def stocGradAscent0(dataMatrix, classLabels):
         h = sigmoid(sum(dataMatrix[i]*weights))
         error = classLabels[i] - h
         weights = weights + alpha * error * dataMatrix[i]
-    return weights
-
-def stocGradAscent1(dataMatrix, classLabels, numIter=150):
-    m,n = np.shape(dataMatrix)
-    weights = np.ones(n)
-    for j in range(numIter): 
-        dataIndex = list(range(m))
-        for i in range(m):
-            alpha = 4/(1.0+j+i)+0.01
-            randIndex = int(random.uniform(0,len(dataIndex)))
-            h = sigmoid(sum(dataMatrix[randIndex]*weights))
-            error = classLabels[randIndex] - h
-            weights = weights + alpha * error * dataMatrix[randIndex]
-            dataIndex.remove(dataIndex[randIndex])
     return weights
 
 def plotBestFit(wei):
