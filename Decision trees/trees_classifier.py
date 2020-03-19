@@ -122,6 +122,7 @@ def createDataSet():
 			]
 	labels=['Cinema','Tennis','Cinema','Cinema','Stay in','Cinema','Cinema','Stay in','Cinema','Tennis']
 	colNames=['Weather?','Parents?','Money?']
+	
 	return dataSet, labels,colNames
 	
 
